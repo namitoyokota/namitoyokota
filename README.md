@@ -1,40 +1,6 @@
 # Resume
 I write clean and efficient code with a smile.
 
-## Skills
-### Frameworks
-- Angular
-- Aurelia
-
-### Languages
-- TypeScript
-- HTML
-- SCSS
-
-### Developer Tools
-- Azure
-- AWS
-- Jira
-- Figma
-
-### Problem Solving
-- Product Ownership
-- Relationship Building
-- Organization & Efficiency
-
-### Dialects
-- English
-- Japanese
-
-### Church
-- Youth Ministry Intern
-- Campus Ministry Leader
-- House Church Worship Leader
-
-### Projects
-- [namito.wiki](https://www.namito.wiki)
-- [blog.namito.wiki](https://blog.namito.wiki) 
-
 ## Experience
 ### Software Engineer II
 **Venminder**
@@ -112,3 +78,39 @@ A dean's list of superior students is compiled and published at the close of eac
 
 ### UA Legends Scholarship 2017
 University of Alabama In-State Scholarships for 2017 Freshman
+
+
+## Skills
+### Frameworks
+- Angular
+- Aurelia
+
+### Languages
+- TypeScript
+- HTML
+- SCSS
+
+### Developer Tools
+- Azure
+- AWS
+- Jira
+- Figma
+
+### Problem Solving
+- Product Ownership
+- Relationship Building
+- Organization & Efficiency
+
+### Dialects
+- English
+- Japanese
+
+### Church
+- Youth Ministry Intern
+- Campus Ministry Leader
+- House Church Worship Leader
+
+### Projects
+- [namito.wiki](https://www.namito.wiki)
+- [blog.namito.wiki](https://blog.namito.wiki) 
+
