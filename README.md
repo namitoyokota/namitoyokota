@@ -1,10 +1,12 @@
-# Resume
+# Namito Yokota's Resume
 I write clean and efficient code with a smile.
 
 ## Experience
 ### Software Engineer II
 **Venminder**
+
 December, 2022 - Present
+
 *Responsibilities*
 - Responsible for leading a new frontend project generating 60% of total revenue
 - Develop new features and maintain existing code using the Aurelia framework
@@ -17,7 +19,9 @@ December, 2022 - Present
 
 ### Cloud Application UI Developer
 **Hexagon Safety & Infrastructure**
+
 January, 2021 - Present
+
 *Responsibilities*
 - Developed and managed new and existing UI for the HxGN Connect product
 - Maintained 42 packages serving as micro-frontend services for the main product
@@ -32,7 +36,9 @@ January, 2021 - Present
 
 ### Web Development Intern
 **Trips4Trade**
+
 September 2019 - January 2020
+
 *Responsibilities*
 - Improved the UI and data storage for Trips4Trade platform using WordPress
 - Tools: WordPress, Kinsta, HTML, CSS, and PHP
@@ -43,7 +49,9 @@ September 2019 - January 2020
 
 ### Web Development Intern
 **threeDays LLC**
+
 February 2017 - April 2017
+
 *Resposibilities*
 - Learned fundamental HTML, CSS layouts, and the Bootstrap framework
 - Tools: HTML, CSS, Bootstrap
@@ -51,15 +59,23 @@ February 2017 - April 2017
 - Created static landing page templates to add to existing library selection
 
 ## Projects
-### Crimson Ministry
-- A cross-platform mobile application to assist mission-focused Christian students at the University of Alabama to mobilize groups to spread the Gospel on campus.
+### [Portfolio](https://www.namito.wiki/)
+
+### [ng-components](https://www.npmjs.com/package/@namitoyokota/ng-components)
+
+### [Steeeve](https://steeeve.vercel.app/)
+
+### [Keep In Touch](https://www.keepintouch.cc/landing)
+
+### [Second Brain](https://search.namito.wiki/)
+
+### [Crimson Ministry](https://github.com/crimsonministry/CrimsonMinistry)
+A cross-platform mobile application to assist mission-focused Christian students at the University of Alabama to mobilize groups to spread the Gospel on campus.
 - Tools: Flutter, Dart, GitHub
 
 ### Blogs
-- Beginner’s Guide to CSS Flexbox
-- Beginner’s Guide to CSS Grid
-- Coding Standards for TypeScript
-- Transitioning from Angular to Aurelia
+- [Beginner’s Guide to CSS Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox)
+- [Beginner’s Guide to CSS Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid)
 
 ## Education
 ### University of Alabama
