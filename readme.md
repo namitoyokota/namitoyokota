@@ -13,6 +13,7 @@ December, 2022 - Present
 - Collaborate with UX Designers and Product Managers to analyze future stories
 - Follow the Agile development process with a team of 5 full-stack developers
 - Tools used: Aurelia, TypeScript, HTML, SCSS, Azure, AWS, and Jira
+
 *Deliverables*
 - Added capability to dynamically generate HTML page into a PDF format 
 - Integrated an autosave interface with debounce mechanism using RxJS
@@ -27,6 +28,7 @@ January, 2021 - Present
 - Maintained 42 packages serving as micro-frontend services for the main product
 - Followed the Agile Methodology workflow with a team of 25 developers
 - Tools: Angular, TypeScript, HTML, SCSS, and Azure
+
 *Deliverables*
 - Built an internal load test tool to analyze the product performance under stress
 - Created a language translation interface with TypeSript for web and mobile
@@ -42,6 +44,7 @@ September 2019 - January 2020
 *Responsibilities*
 - Improved the UI and data storage for Trips4Trade platform using WordPress
 - Tools: WordPress, Kinsta, HTML, CSS, and PHP
+
 *Deliverables*
 - Facilitated data storage management using WordPress Database
 - Integrated new plugins for creating and managing backups
@@ -55,6 +58,7 @@ February 2017 - April 2017
 *Resposibilities*
 - Learned fundamental HTML, CSS layouts, and the Bootstrap framework
 - Tools: HTML, CSS, Bootstrap
+
 *Deliverables*
 - Created static landing page templates to add to existing library selection
 
