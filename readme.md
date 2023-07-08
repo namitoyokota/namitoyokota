@@ -8,7 +8,7 @@ I write clean and efficient code with a smile.
 
 **Venminder**
 
-December, 2022 - Present
+December, 2022 - Present **(~8 months)**
 
 _Responsibilities_
 
@@ -32,7 +32,7 @@ _Documents_
 
 **Hexagon Safety & Infrastructure**
 
-January, 2021 - Present
+January, 2021 - Present **(~2 years)**
 
 _Responsibilities_
 
