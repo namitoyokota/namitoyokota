@@ -1,4 +1,4 @@
-# HxGN Connect
+# Brag Documents @ Hexagon
 
 > **HxGN Connect** is a cloud-native, real-time incident center as a service solution that helps you attain full situational awareness, collaborate on shared data and better manage incidents by: [Read more](https://reimaginecollaboration.com/) about HxGN Connect!
 

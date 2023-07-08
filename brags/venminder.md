@@ -1,4 +1,4 @@
-# Venminder
+# Brag Documents @ Venminder
 
 > This is a list of most notable contributions to the **Venminder** product from December 5th of 2022 until today.
 
