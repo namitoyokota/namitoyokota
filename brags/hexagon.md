@@ -4,21 +4,28 @@
 
 ## Table of Contents
 
-[Shape Filters](#shape-filters)
-Changelogs
-Create Incident
-Icon Manager
-Hierarchical Feature Flags
-Smaller Stories
-Platform Packages
-Platform Package - Unit Tests
-Localization
-Recovery Manager
-Priority Manager
-Hyperlink
-Learning Angular
-Performance Test Tool
-Training new frontend devs
+-   [Statistics](#statistics)
+-   [Shape Filters](#shape-filters)
+-   Changelogs
+-   Create Incident
+-   Icon Manager
+-   Hierarchical Feature Flags
+-   Smaller Stories
+-   Platform Packages
+-   Platform Package - Unit Tests
+-   Localization
+-   Recovery Manager
+-   Priority Manager
+-   Hyperlink
+-   Learning Angular
+-   Performance Test Tool
+-   Training new frontend devs
+
+## Statistics
+
+| Statistic     | Count |
+| ------------- | ----- |
+| Completed PRs | 782   |
 
 ## Shape Filters
 
