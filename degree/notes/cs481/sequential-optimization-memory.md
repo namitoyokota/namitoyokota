@@ -1,0 +1,63 @@
+# Sequential Optimization Memory
+
+Date: January 14, 2020
+Type: Lecture
+
+- Basics
+      - **high performance computing** - the practice of aggregating computing power in a parallelism way that delivers much higher performance than one could get of a typical desktop computer or workstation in order to solve large problems in science, engineering, or business
+      - **flops** - floating point operations per second
+      - topics in science and engineering
+          - artificial intelligence
+          - climate modeling
+          - automotive engineering
+          - cryptographic engineering
+          - geophysics
+          - molecular biology
+          - molecular dynamics
+          - nuclear physics
+          - physical oceanography
+          - plasma physics
+          - quantum physics
+          - quantum chemistry
+          - solid state physics
+          - structural dynamics
+- Summit
+      - summit - the most powerful supercomputer in the world
+      - nodes: 4,608 (202,752 cores)
+      - cpus: ibm power9 (2/node)
+      - gpus: nvidia volta v100 (6/node)
+      - memory: each node has 512 gb ddr4 memory and 96 gb hbm2 addressable by all cpus and gpus
+      - network: mellanox edr 100g infiniband, non-blocking fat tree
+- Parallelism
+      - commodity cluster computer
+          - a commodity cluster computer is composed of multiple nodes, connected via a network
+              - each node is composed of a system board, 1 or more chips, dram, coprocessors, accelerators, etc.
+              - each chip contains multiple cores
+                  - each core has its own l1 cache, but may share higher level caches with other cores
+          - each core can
+              - execute multiple instructions simultaneously (instruction level parallelism)
+              - some instructions can execute the same instruction on multiple pieces of data simultaneously (simd parallelism)
+      - why multiple cores
+          - cpu clock speed/frequency is stagnating, many factors:
+              - hard to increase number of transistor (shrink transistor size, approaching atom scale)
+              - power limitation ("power stays constant with increasing transistors" not applicable)
+          - increasing the number of cores results in more computing power
+      - shared memory vs distributed memory
+          - shared memory
+              - **shared memory** - multiple threads of a process run on a single node
+              - all the data can be accessed by all the threads in the regular way (i.e. serial or sequential program)
+              - need mechanisms to coordinate cooperation of the of the threads (e.g. locks)
+              - minor point: data may be physically distributed (multiple nodes), but software is used to make it look "logically shared"
+          - distributed memory
+              - **distributed memory** - multiple processes run on multiple nodes
+              - processes only have access to data on the node
+              - use a "communication library" (e.g. MPI) to access data on other nodes)
+              - minor point: processes themselves can have multiple threads
+              - minor point: could run multiple processes per node (e.g. one process per cpu core, multiple cores/processes per node)
+- Slurm
+      - **slurm** - an open source, fault-tolerant, and highly scalable cluster management and jobs scheduling system for large and small linux clusters
+      - commands
+          - sinfo: reports the state of partitions and nodes managed by slurm
+          - squeue: reports the state of jobs or job steps
+          - srun: submits a job for execution or initiate job steps in real time
+          - sbatch: used to submit a job script for later execution

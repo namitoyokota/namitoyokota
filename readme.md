@@ -135,8 +135,11 @@ See the entire list of my technical blogs [here](https://blogs.namito.wiki).
 
 ### University of Alabama
 
-B.S. in Computer Science
-3.52 GPA
+> Read everything that I've learned [here](./degree/degree.md)!
+
+Bachelors of Science in **Computer Science**
+Minor in **Mathematics**
+_3.52 GPA_
 
 ## Skills
 
