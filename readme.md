@@ -175,6 +175,10 @@ B.S. in Computer Science
 -   Campus Ministry Leader
 -   House Church Worship Leader
 
+## Hobbies
+
+Reading [Books](./others/books/books.md)
+
 <hr />
 
 _Download a PDF version [here](./resume.pdf)!_
