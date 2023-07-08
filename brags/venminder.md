@@ -11,6 +11,7 @@
 -   [Team Contributions](#team-contributions)
     -   [Group Testing Meetings](#group-testing-meetings)
 -   [Mentorship Contributions](#mentorship-contributions)
+    -   [CSS Flexbox and Grid - Lunch & Learn](#css-flexbox-and-grid---lunch--learn)
 -   [Feature Contributions](#feature-contributions)
 -   [Improvement Contributions](#improvement-contributions)
     -   [Autosave Service](#autosave-service)
@@ -47,9 +48,21 @@ Suggested and lead group testing meetings in attempt to minimize the amount of b
 
 ## Mentorship Contributions
 
--   Training and assisting full-stack developers
+### CSS Flexbox and Grid - Lunch & Learn
+
+-   Watch the [recorded video call](https://venminder-my.sharepoint.com/:v:/p/david_williams/ERhuoiK7_z1Nsc68x6DAkjUBHDKNYR4zrMzSxqOt-pK_OQ).
+-   Wrote two blog posts to go along with the meeting - one for [Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox) and other for [Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid)
+-   Created a [demo](https://demo.namito.wiki/) site to display responsiveness of [Flexbox](https://demo.namito.wiki/#/flex) and [Grid](https://demo.namito.wiki/#/grid)
+
+### More to Write About
+
+-   Assisting full-stack developers (Patrick, Ravi, and Nathan) on any frontend work
 -   Teaching frontend skills to full-stack devs using Lunch and Learn
 -   Training Jim to develop theme files
+
+### TODO
+
+-   Hold a lunch & learn meeting for JavaScript array methods
 
 ## Feature Contributions
 
