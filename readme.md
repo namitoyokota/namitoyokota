@@ -27,6 +27,7 @@ _Documents_
 
 -   [Brag Documents](./brags/venminder.md)
 -   [Standups](./standups/venminder.md)
+-   [Job Description](./job-descriptions/venminder.md)
 
 ### Cloud Application UI Developer
 
@@ -53,6 +54,7 @@ _Documents_
 
 -   [Brag Documents](./brags/hexagon.md)
 -   [Standups](./standups/hexagon.md)
+-   [Job Description](./job-descriptions/hexagon.md)
 
 ### Web Development Intern
 
