@@ -177,7 +177,13 @@ B.S. in Computer Science
 
 ## Hobbies
 
-Reading [Books](./others/books/books.md)
+### Photography
+
+Come take a look at my [portfolio](https://photos.namito.wiki)!
+
+### Reading Books
+
+I have a [list](./others/books/books.md) of my favorite books and also a few [notes](./others/books/notes.md) I've collected.
 
 <hr />
 
