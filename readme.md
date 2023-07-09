@@ -179,6 +179,12 @@ _3.52 GPA_
 -   Campus Ministry Leader
 -   House Church Worship Leader
 
+## Ideas
+
+-   [Next Project Ideas](./ideas/projects.md): ideas for my next project
+-   [Software Wishlist](./ideas/wishlist.md): software projects that I wish existed
+-   [3D Printing Ideas](./ideas/3d-printing.md): design and print these ideas
+
 ## Hobbies
 
 ### Photography
