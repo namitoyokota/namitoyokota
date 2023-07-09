@@ -132,6 +132,11 @@ See the entire list of my technical blogs [here](https://blogs.namito.wiki).
 -   [Beginner’s Guide to CSS Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox)
 -   [Beginner’s Guide to CSS Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid)
 
+## VSCode Setup
+
+-   [.eslintrc.json](./vscode/.eslint.json)
+-   [.prettierrc](./vscode/.prettierrc)
+
 ## Education
 
 ### University of Alabama
