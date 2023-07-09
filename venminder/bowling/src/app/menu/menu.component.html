@@ -1,0 +1,3 @@
+<button *ngFor="let num of numberList" class="button" [disabled]="num + previousNumber > 10" (click)="clickNumber(num)">
+    {{num}}
+</button>

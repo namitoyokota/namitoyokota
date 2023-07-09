@@ -28,6 +28,7 @@ _Documents_
 -   [Brag Documents](./venminder/brags.md)
 -   [Standups](./venminder/standups.md)
 -   [Job Description](./venminder/job-descriptions.md)
+-   [Interview Project](./venminder/bowling/readme.md)
 
 ### Cloud Application UI Developer
 

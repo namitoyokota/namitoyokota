@@ -1,0 +1,17 @@
+<!-- Title -->
+<h1 class="title">
+    Score: {{currentTotal}}
+</h1>
+
+<!-- Button Menu -->
+<menu [previousNumber]="lastRolledNumber" (numberClicked)="addNewRoll($event)">
+</menu>
+
+<!-- Card List -->
+<frame-list [frameList]="frameList">
+</frame-list>
+
+<!-- Reset Button -->
+<button class="reset-btn" (click)="reset()">
+    Reset
+</button>

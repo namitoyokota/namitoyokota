@@ -1,0 +1,17 @@
+:host {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    column-gap: 20px;
+    justify-items: start;
+}
+
+.button {
+    height: 35px;
+    width: 50px;
+    transition: transform .2s;
+
+    &:hover {
+        cursor: pointer;
+        transform: scale(1.2);
+    }
+}
