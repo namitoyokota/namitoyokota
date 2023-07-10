@@ -2,6 +2,29 @@
 
 > December 5th, 2022 - Present
 
+### 7/10/23
+- I'm still working on the context menu fix - 1573
+- Then probably get started on the graph story - 1070
+
+### 7/7/23
+- Worked on wiring up the account icon in the header - 1569
+- Cleaned up all of the file names to make them shorter - 1565
+- Also fixed a bug that Jess found with the Clear Data not working - 1597
+- At the end of the day, I wrote documentation for the new vm-radio component - fe32
+
+### 7/6/23
+- Wrapped up migrating the theme table to v3 - 1269
+- Also deleted all of the v2 grid files so that no longer exists in our codebase - 1269
+- At the end of the day, I started investigating the issue with the account icon in the header - 1569
+
+### 7/5/23
+- Worked on the templates table migration to v3 grid - 1269
+- Started working on the theme table at the end of the day
+
+### 7/3/23
+- Worked on using the vm-radio component in Control Assessments - 1582
+- Also started working on the vm-grid migration (finished theme file list table and order details) - 1269
+
 ### 6/30/23
 
 -   Go back to the vm-radio component in vm-library package hoping to finish that today
