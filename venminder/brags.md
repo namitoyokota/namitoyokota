@@ -22,7 +22,7 @@
 | Completed Stories | 59    | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1548?jql=project%20IN%20(%22PHX%22%2C%22QA%20and%20RainForest%22%2C%22Front-End%20Guild%22)%20AND%20status%20IN%20(Released%2C%22Done%20without%20work%22%2CClosed%2CDone%2C%22Functional%20Test%20Complete%22%2C%22Ready%20for%20Release%22%2C%22Release%20Test%20Complete%22)%20AND%20assignee%20IN%20(638f71df489de2f7f467b037)%20AND%20type%20%3D%20Story%20ORDER%20BY%20created%20DESC) |
 | Fixed Bugs        | 13    | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-890?jql=project%20IN%20(%22PHX%22%2C%22QA%20and%20RainForest%22%2C%22Front-End%20Guild%22)%20AND%20status%20IN%20(Released%2C%22Done%20without%20work%22%2CClosed%2CDone%2C%22Functional%20Test%20Complete%22%2C%22Ready%20for%20Release%22%2C%22Release%20Test%20Complete%22)%20AND%20assignee%20IN%20(638f71df489de2f7f467b037)%20AND%20type%20%3D%20Bug-task%20ORDER%20BY%20created%20DESC) |
 
-Last Updated: _July 7th, 2023_
+Last Updated: _July 10th, 2023_
 
 ## Component Library Contributions
 
