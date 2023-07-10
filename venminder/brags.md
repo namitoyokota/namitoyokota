@@ -6,22 +6,13 @@
 
 -   [Statistics](#statistics)
 -   [Component Library Contributions](#component-library-contributions)
-    -   [vm-radio](#vm-radio)
 -   [Documentation Contributions](#documentation-contributions)
-    -   [Theme Documentation](#theme-documentation)
 -   [Team Contributions](#team-contributions)
-    -   [Group Testing Meetings](#group-testing-meetings)
 -   [Mentorship Contributions](#mentorship-contributions)
-    -   [CSS Flexbox and Grid - Lunch & Learn](#css-flexbox-and-grid---lunch--learn)
 -   [Feature Contributions](#feature-contributions)
 -   [Improvement Contributions](#improvement-contributions)
-    -   [Autosave Service](#autosave-service)
-    -   [Event Service](#event-service)
 -   [Clean Code Contributions](#clean-code-contributions)
-    -   [Added Lint Rules](#added-lint-rules)
 -   [Migration Contributions](#migration-contributions)
-    -   [Font Awesome Upgrade](#font-awesome-upgrade)
-    -   [date-fns Migration](#date-fns-migration)
 
 ## Statistics
 
