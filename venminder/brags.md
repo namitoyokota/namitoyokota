@@ -40,7 +40,7 @@ Created a `vm-radio` shared component within the `vm-library` package to be cons
 
 Wrote a wiki page for Marketing to use as a guide to creating themes.
 
--   [Confluence Documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme).
+-   [Confluence Documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme)
 
 ## Team Contributions
 
