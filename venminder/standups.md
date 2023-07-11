@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/11/23
+- I think I have the backend good to go so I'll be working on the rest of frontend today - 1070
+- After that, I'll probably take a couple of sutasks from 1584 for adding loading indicators while I wait on backend work
+
 ### 7/10/23
-- I'm still working on the context menu fix - 1573
-- Then probably get started on the graph story - 1070
+- Fixed the context menu overlapping with the control list - 1573
+- Then started working on 1070 for adding the graph to table rows - 1070
 
 ### 7/7/23
 - Worked on wiring up the account icon in the header - 1569
