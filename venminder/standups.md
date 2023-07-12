@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/12/23
+- I'm adding spinners to the rest of the product - 1584
+- Then will be working on adding support for vm-radio-group in vm-library - fe32
+
 ### 7/11/23
-- I think I have the backend good to go so I'll be working on the rest of frontend today - 1070
-- After that, I'll probably take a couple of sutasks from 1584 for adding loading indicators while I wait on backend work
+- Finished 1070 for adding the graph component to the template builder
+- Then started working on adding the loading spinners to the grids - 1584
+- I came up with 2 different ways to display spinners: one is when data is populating, and other is waiting for an action
 
 ### 7/10/23
 - Fixed the context menu overlapping with the control list - 1573
