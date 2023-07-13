@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 7/13/23
+- Today will be a lot of small tasks
+- Have 2 bugs to investigate
+- Also have a few docs to update
+- Hoping to also upgrade our vm-library version to get Hunter's latest grid change
+
 ### 7/12/23
-- I'm adding spinners to the rest of the product - 1584
-- Then will be working on adding support for vm-radio-group in vm-library - fe32
+- I finished adding spinners to all of the pages - 1584
+- Also wrapped up the `vm-radio-group` class - fe32
 
 ### 7/11/23
 - Finished 1070 for adding the graph component to the template builder
