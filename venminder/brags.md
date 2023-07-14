@@ -51,6 +51,7 @@ Last Updated: _July 14th, 2023_
 - TO WRITE: Control Assessments to use `vm-library` components (ex. `vm-grid-v3`)
 - Upgrade the Font Awesome package from version 4 to 6.
 - Deprecated the `moment.js` package to `date-fns` as the moment package is no longer managed.
+- TO WRITE: I can do minor backend changes.
 
 <hr />
 
