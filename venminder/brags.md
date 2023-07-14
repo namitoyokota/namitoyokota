@@ -24,27 +24,30 @@ Last Updated: _July 14th, 2023_
 - Wrote [confluence documentat](https://venminder.atlassian.net/wiki/spaces/EN/pages/1379663913/vm-radio) for `vm-radio` component and `vm-radio-group` class within `vm-library`.
 - Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme) for creating a Control Assessment theme.
 - Wrote [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) for the Control Assessment's frontend codebase.
+- TO DO: [CLAK Documentation](https://venminder.atlassian.net/wiki/spaces/EN/pages/1367736333/Clak+PDF+generator)
 
 ## Mentorship Contributions
 - Held a [lunch & learn meeting](https://venminder-my.sharepoint.com/:v:/p/david_williams/ERhuoiK7_z1Nsc68x6DAkjUBHDKNYR4zrMzSxqOt-pK_OQ) explaining and teach CSS [Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox) and [Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid) with [demo website](https://demo.namito.wiki/).
-- Trained and mentored Jim Stopinski on developing Control Assessment themes
-- Assisted full-stack developers within Team Phoenix contribute to frontend stories
+- Trained and mentored Jim Stopinski on developing Control Assessment themes.
+- Assisted full-stack developers within Team Phoenix contribute to frontend stories.
 - TO DO: Hold a lunch & learn meeting for teaching JavaScript array methods and operators.
 
 ## Team Contributions
-- Suggested and lead group testing meetings in attempt to minimize the amount of bugs going to production
+- Suggested and lead group testing meetings in attempt to minimize the amount of bugs going to production.
+- TO DO: Standardize PR description layout/template for Azure DevOps using [this](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates?view=azure-devops) tutorial.
+- TO DO: Set up bug description layout/template for Jira using [this](https://community.atlassian.com/t5/Jira-questions/How-can-I-create-an-User-Story-template-in-Jira/qaq-p/1011870) tutorial.
 
 ## Development Contributions
-- TO WRITE: dynamic calculation modal
-- TO WRITE: PDF generation workflow
-- TO WRITE: implemented loading/waiting system
-- TO DO: go back to previous stories and add more
+- TO WRITE: dynamic calculation modal. [demo in monthly dev meeting](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw)
+- TO WRITE: PDF generation workflow - Passing methods with (Promise<void>).
+- TO WRITE: implemented loading/waiting system.
+- TO DO: go back to previous stories and add more.
 - Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) shared component alongside its parent CSS class [`vm-radio-group`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10562) within the `vm-library` package to be consumed by Venminder's frontend projects.
 - Wrote an abstract autosave service that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
 - Created a wrapper service for interacting with Aurelia's event aggregator. This minimizes the risk of developers mistyping the event names and also makes it easier to track which event names are being used where.
-- TO WRITE: frontend codebase refactor and cleanup - remove Bootstrap
+- TO WRITE: frontend codebase refactor and cleanup - remove Bootstrap (use original notes in my OneNote).
 - Added `.prettierrc` and `.eslintrc.json` files with VSCode settings to automatically follow the lint rules set by the Frontend Guild.
-- TO DO: add linting as a pipeline step
+- TO DO: add linting as a pipeline step.
 - TO WRITE: Control Assessments to use `vm-library` components (ex. `vm-grid-v3`)
 - Upgrade the Font Awesome package from version 4 to 6.
 - Deprecated the `moment.js` package to `date-fns` as the moment package is no longer managed.
