@@ -2,11 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/14/23
+- This morning, Jim set up a meeting for us to discuss the new theme so I'll try to help him with that and update the doc as needed
+- After that, I'll get started on the 1585 story with Patrick
+
 ### 7/13/23
-- Today will be a lot of small tasks
-- Have 2 bugs to investigate
-- Also have a few docs to update
-- Hoping to also upgrade our vm-library version to get Hunter's latest grid change
+- Fixed a few bugs in the morning - 1569 and 1584 - both ready for testing on GETS
+- Then had the monthly dev meeting
+- At the end of the day I finished updating the README file for frontend and also updated vm-library package to use the latest grid changes
 
 ### 7/12/23
 - I finished adding spinners to all of the pages - 1584
