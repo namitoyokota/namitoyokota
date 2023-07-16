@@ -2,6 +2,14 @@
 
 I write clean and efficient code with a smile.
 
+## Skills
+
+-   **Frameworks**: Angular, Aurelia
+-   **Languages**: TypeScript, HTML, SCSS
+-   **Tools**: Azure, AWS, Jira, Figma
+-   **Care**: Product Ownership, Organization & Efficiency, Relationship Building
+-   **Dialects**: English, Japanese
+
 ## Experience
 
 ### Software Engineer II
@@ -57,150 +65,42 @@ _Documents_
 -   [Standups](./hexagon/standups.md)
 -   [Job Description](./hexagon/job-description.md)
 
-### Web Development Intern
+### Internships
 
-**Trips4Trade**
-
-September 2019 - January 2020
-
-_Responsibilities_
-
--   Improved the UI and data storage for Trips4Trade platform using WordPress
--   Tools: WordPress, Kinsta, HTML, CSS, and PHP
-
-_Deliverables_
-
--   Facilitated data storage management using WordPress Database
--   Integrated new plugins for creating and managing backups
--   Set up CI/CD pipelines to automate releases to development and production environments
-
-### Web Development Intern
-
-**threeDays LLC**
-
-February 2017 - April 2017
-
-_Resposibilities_
-
--   Learned fundamental HTML, CSS layouts, and the Bootstrap framework
--   Tools: HTML, CSS, Bootstrap
-
-_Deliverables_
-
--   Created static landing page templates to add to existing library selection
-
-## Projects
-
-### Portfolio
-
-Visit my portfolio [here](https://www.namito.wiki/)!
-Visit my codebase [here](https://github.com/namitoyokota/portfolio).
-
-### ng-components
-
-Install my npm package [here](https://www.npmjs.com/package/@namitoyokota/ng-components)!
-Visit my codebase [here](https://github.com/namitoyokota/ng-components).
-
-### Steeeve
-
-Visit the product [here](https://steeeve.vercel.app/)!
-
-### Keep In Touch
-
-Visit the product [here](https://www.keepintouch.cc/landing)!
-
-### Second Brain
-
-Visit the project [here](https://search.namito.wiki/)!
-
-### Crimson Ministry
-
-A cross-platform mobile application to assist mission-focused Christian students at the University of Alabama to mobilize groups to spread the Gospel on campus.
-
-Visit my landing page [here](https://crimsonministry.netlify.app)
-Visit the codebase [here](https://github.com/crimsonministry/CrimsonMinistry)!
-Visit the landing page codebase [here](https://github.com/crimsonministry/CrimsonMinistryWeb)
-
--   Tools: Flutter, Dart, GitHub
-
-### GunFun
-
-### Blogs
-
-See the entire list of my technical blogs [here](https://blogs.namito.wiki).
-
--   [Beginner’s Guide to CSS Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox)
--   [Beginner’s Guide to CSS Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid)
-
-## VSCode Setup
-
--   [.eslintrc.json](./vscode/.eslint.json)
--   [.prettierrc](./vscode/.prettierrc)
+-   **[Trips4Trade](https://www.trips4trade.com)**: improved the UI and the database using WordPress from _September 2019 to January 2020_.
+-   **[threeDays](http://www.threedaysllc.com)**: learned fundamentals of HTML, CSS, and Bootstrap from _February 2017 to April 2017_.
 
 ## Education
 
 ### University of Alabama
 
-> Read everything that I've learned [here](./degree/degree.md)!
-
 Bachelors of Science in **Computer Science**
 Minor in **Mathematics**
 _3.52 GPA_
+[Curriculum](./degree/degree.md)
 
-## Skills
+## Projects
 
-### Frameworks
+-   [Portfolio](https://www.namito.wiki/)
+-   [Blogs](https://blogs.namito.wiki)
+-   Angular Component Library - [ng-components](https://www.npmjs.com/package/@namitoyokota/ng-components)
+-   Platform for sharing ideas - [Steeeve](https://steeeve.vercel.app)
+-   Static site to serve as my second brain - [Nico](https://search.namito.wiki/)
+-   Platform for keeping track of friendships - [Keep In Touch](https://www.keepintouch.cc)
+-   Mobile app for mobilizing disciples - [Crimson Ministry](https://github.com/crimsonministry/CrimsonMinistry)
 
--   Angular
--   Aurelia
+## Random
 
-### Languages
-
--   TypeScript
--   HTML
--   SCSS
-
-### Developer Tools
-
--   Azure
--   AWS
--   Jira
--   Figma
-
-### Problem Solving
-
--   Product Ownership
--   Relationship Building
--   Organization & Efficiency
-
-### Dialects
-
--   English
--   Japanese
-
-### Church
-
--   Youth Ministry Intern
--   Campus Ministry Leader
--   House Church Worship Leader
-
-## Ideas
-
--   [Next Project Ideas](./ideas/projects.md): ideas for my next project
--   [Software Wishlist](./ideas/wishlist.md): software projects that I wish existed
--   [3D Printing Ideas](./ideas/3d-printing.md): design and print these ideas
-
-## Hobbies
-
-### Photography
-
-Come take a look at my [portfolio](https://photos.namito.wiki)!
-
-### Reading Books
-
-I have a [list](./others/books/books.md) of my favorite books and also a few [notes](./others/books/notes.md) I've collected.
+-   [Photography portfolio](https://photos.namito.wiki)
+-   [Favorite books](./others/books/books.md)
+-   [Ideas for my next project](./ideas/projects.md)
+-   [Softwares I wish existed](./ideas/wishlist.md)
+-   [3D printing ideas](./ideas/3d-printing.md)
+-   <a href="vscode/.eslintrc.json" download>ESLint configuration</a>
+-   <a href="vscode/.prettierrc" download>Prettier configuration</a>
 
 <hr />
 
-_Download a PDF version [here](./resume.pdf)!_
+[PDF Resume](./resume.pdf)
+
 &copy; Namito Yokota
