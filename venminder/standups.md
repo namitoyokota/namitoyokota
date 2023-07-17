@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/17/23
+- I have all of the build errors resolved
+- So started looking into a new FHA Perform Review page and will continue to work on that today
+
 ### 7/14/23
-- This morning, Jim set up a meeting for us to discuss the new theme so I'll try to help him with that and update the doc as needed
-- After that, I'll get started on the 1585 story with Patrick
+- Met with Jim and Jess on the new CSA theme, then updated the Theme documentation with more in-depth topics
+- Also found a bug with `vm-grid` so worked with Ben some on that
+- In the afternoon, I started looking into the frontend work for 1585 story - FHA Assessment
 
 ### 7/13/23
 - Fixed a few bugs in the morning - 1569 and 1584 - both ready for testing on GETS
