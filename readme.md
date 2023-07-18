@@ -12,95 +12,36 @@ I write clean and efficient code with a smile.
 
 ## Experience
 
-### Software Engineer II
+### Venminder
 
-**Venminder**
+**Software Engineer II** responsible for leading a internal frontend project generating 60% of total revenue since _December 2022_.
 
-December, 2022 - Present **(~8 months)**
+-   [Brag Documents](./venminder/brags.md), [Standups](./venminder/standups.md), [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
-_Responsibilities_
+### Hexagon Safety & Infrastructure
 
--   Responsible for leading a new frontend project generating 60% of total revenue
--   Develop new features and maintain existing code using the Aurelia framework
--   Collaborate with UX Designers and Product Managers to analyze future stories
--   Follow the Agile development process with a team of 5 full-stack developers
--   Tools used: Aurelia, TypeScript, HTML, SCSS, Azure, AWS, and Jira
+**Cloud Application UI Developer** developing and managing UI for the HxGN Connect product through 42 micro-frontend service packages for _2 years_.
 
-_Deliverables_
+-   [Brag Documents](./hexagon/brags.md), [Standups](./hexagon/standups.md), [Job Description](./hexagon/job-description.md)
 
--   Added capability to dynamically generate HTML page into a PDF format
--   Integrated an autosave interface with debounce mechanism using RxJS
+### Trips4Trade
 
-_Documents_
+**Full-Stack WordPress Development Intern** responsible for improving the UI and managing databases from _September 2019 to January 2020_.
 
--   [Brag Documents](./venminder/brags.md)
--   [Standups](./venminder/standups.md)
--   [Job Description](./venminder/job-description.md)
--   [Interview Project](./venminder/bowling/readme.md)
+### threeDays
 
-### Cloud Application UI Developer
-
-**Hexagon Safety & Infrastructure**
-
-January, 2021 - Present **(~2 years)**
-
-_Responsibilities_
-
--   Developed and managed new and existing UI for the HxGN Connect product
--   Maintained 42 packages serving as micro-frontend services for the main product
--   Followed the Agile Methodology workflow with a team of 25 developers
--   Tools: Angular, TypeScript, HTML, SCSS, and Azure
-
-_Deliverables_
-
--   Built an internal load test tool to analyze the product performance under stress
--   Created a language translation interface with TypeSript for web and mobile
--   Implemented an admin page for storage backup and restore capability
--   Utilized Azure Map Service APIs to enable reverse geocoding incident locations
--   Designed a shared dialog for displaying organization’s notable change log
-
-_Documents_
-
--   [Brag Documents](./hexagon/brags.md)
--   [Standups](./hexagon/standups.md)
--   [Job Description](./hexagon/job-description.md)
-
-### Internships
-
--   **[Trips4Trade](https://www.trips4trade.com)**: improved the UI and the database using WordPress from _September 2019 to January 2020_.
--   **[threeDays](http://www.threedaysllc.com)**: learned fundamentals of HTML, CSS, and Bootstrap from _February 2017 to April 2017_.
+**Frontend Web Development Intern** responsible for learning the fundamentals of HTML, CSS, and Bootstrap from _February 2017 to April 2017_.
 
 ## Education
 
-### University of Alabama
+Bachelors of Science in **Computer Science** with _Mathematics_ minor from the **University of Alabama**.
 
-Bachelors of Science in **Computer Science**
-Minor in **Mathematics**
-_3.52 GPA_
-[Curriculum](./degree/degree.md)
-
-## Projects
-
--   [Portfolio](https://www.namito.wiki/)
--   [Blogs](https://blogs.namito.wiki)
--   Angular Component Library - [ng-components](https://www.npmjs.com/package/@namitoyokota/ng-components)
--   Platform for sharing ideas - [Steeeve](https://steeeve.vercel.app)
--   Static site to serve as my second brain - [Nico](https://search.namito.wiki/)
--   Platform for keeping track of friendships - [Keep In Touch](https://www.keepintouch.cc)
--   Mobile app for mobilizing disciples - [Crimson Ministry](https://github.com/crimsonministry/CrimsonMinistry)
-
-## Random
-
--   [Photography portfolio](https://photos.namito.wiki)
--   [Favorite books](./others/books/books.md)
--   [Ideas for my next project](./ideas/projects.md)
--   [Softwares I wish existed](./ideas/wishlist.md)
--   [3D printing ideas](./ideas/3d-printing.md)
--   <a href="vscode/.eslintrc.json" download>ESLint configuration</a>
--   <a href="vscode/.prettierrc" download>Prettier configuration</a>
+-   [Curriculum Catalog](./degree/degree.md)
 
 <hr />
 
-[PDF Resume](./resume.pdf)
+-   [Portfolio](https://www.namito.wiki/), [Blogs](https://blogs.namito.wiki), [Component Library](https://www.npmjs.com/package/@namitoyokota/ng-components), [Second Brain](https://search.namito.wiki/)
+-   [Photography](https://photos.namito.wiki), [Books](./others/books/books.md), [Next Projects](./ideas/projects.md), [Software Wishlist](./ideas/wishlist.md), [3D Prints](./ideas/3d-printing.md)
+-   [Download Resume](./resume.pdf)
 
 &copy; Namito Yokota
