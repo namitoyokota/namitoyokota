@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/18/23
+- Will continue working on 1527 and hoping to wrap up the frontend for that story
+
 ### 7/17/23
-- I have all of the build errors resolved
-- So started looking into a new FHA Perform Review page and will continue to work on that today
+- Continued working on the FHA version of the Perform Review page - 1585
+- Base architecture should be good to go so switched gears to 1527 - FHA template builder
 
 ### 7/14/23
 - Met with Jim and Jess on the new CSA theme, then updated the Theme documentation with more in-depth topics
