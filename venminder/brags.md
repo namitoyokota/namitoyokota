@@ -34,6 +34,7 @@ Last Updated: _July 14th, 2023_
 
 ## Team Contributions
 - Suggested and lead group testing meetings in attempt to minimize the amount of bugs going to production.
+- Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
 - TO DO: Standardize PR description layout/template for Azure DevOps using [this](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates?view=azure-devops) tutorial.
 - TO DO: Set up bug description layout/template for Jira using [this](https://community.atlassian.com/t5/Jira-questions/How-can-I-create-an-User-Story-template-in-Jira/qaq-p/1011870) tutorial.
 
