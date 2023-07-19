@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/19/23
+- Will go back to 1585 and start working on the UI for the years assessed section
+- And also have a lot of meetings today
+
 ### 7/18/23
-- Will continue working on 1527 and hoping to wrap up the frontend for that story
+- Continued working on 1527 changes - should be done other than changes after Carol makes more changes
 
 ### 7/17/23
 - Continued working on the FHA version of the Perform Review page - 1585
