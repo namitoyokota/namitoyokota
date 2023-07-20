@@ -15,7 +15,7 @@ I write clean and efficient code with a smile.
 **Software Engineer II** at **Venminder** responsible for leading a internal frontend project generating 60% of total revenue since _December 2022_.
 
 -   [Brag Documents](./venminder/brags.md), [Standups](./venminder/standups.md)
--   Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
+-   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
 **Cloud Application UI Developer** at **Hexagon Safety & Infrastructure** developing and managing UI for the HxGN Connect product through 42 micro-frontend service packages for _2 years_.
 
