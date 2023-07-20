@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/20/23
+- I'm planning on getting started with the About Assessment section then hopefully figure out what changes need to be made to the models
+
 ### 7/19/23
-- Will go back to 1585 and start working on the UI for the years assessed section
-- And also have a lot of meetings today
+- Wrapped up the the last bit of work for 1585 - PR should be ready for review
+- Had a good bit of meetings rest of the afternoon
 
 ### 7/18/23
 - Continued working on 1527 changes - should be done other than changes after Carol makes more changes
