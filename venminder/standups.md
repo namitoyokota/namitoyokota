@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/21/23
+- I have the UI done for that now so we can discuss the model changes in a meeting after standup
+- I also sent out a meeting for any of the backend devs to give me a tour of our codebase
+- In the afternoon, I'm hoping to get started on the UI for 1593 - creating the section components to support tables and textareas
+
 ### 7/20/23
-- I'm planning on getting started with the About Assessment section then hopefully figure out what changes need to be made to the models
+- Had group testing in the morning then
+- Started working on the new About the Assessment section for FHA assessments - 1591
 
 ### 7/19/23
 - Wrapped up the the last bit of work for 1585 - PR should be ready for review
