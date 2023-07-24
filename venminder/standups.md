@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/24/23
+- Will get started on the UI for 1593 and implementing the assessment section component for tables and textareas
+
 ### 7/21/23
-- I have the UI done for that now so we can discuss the model changes in a meeting after standup
-- I also sent out a meeting for any of the backend devs to give me a tour of our codebase
-- In the afternoon, I'm hoping to get started on the UI for 1593 - creating the section components to support tables and textareas
+- Worked on turning the View Assessment page into an iFrame - 1547
+- Also fixed the date picker bug - 1679
 
 ### 7/20/23
 - Had group testing in the morning then
