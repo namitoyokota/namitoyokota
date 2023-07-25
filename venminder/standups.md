@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/25/23
+- Will continue on that work today and displaying controls within the section - 1593
+- Also will have a fix for the view assessment's timing issue in a little bit - 1547
+
 ### 7/24/23
-- Will get started on the UI for 1593 and implementing the assessment section component for tables and textareas
+- Started working on 1593 and creating a new assessment section component - have questions for Jess
 
 ### 7/21/23
 - Worked on turning the View Assessment page into an iFrame - 1547
