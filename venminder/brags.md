@@ -2,6 +2,8 @@
 
 > This is a list of most notable contributions to the **Venminder** product since December 5th of 2022.
 
+`Aurelia` `TypeScript` `HTML/CSS` `KnockoutJS` `.NET` `C#`
+
 ## Table of Contents
 
 -   [Statistics](#statistics)
@@ -25,20 +27,16 @@ Last Updated: _July 14th, 2023_
 - Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme) for creating a Control Assessment theme.
 - Wrote [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) for the Control Assessment's frontend codebase.
 - Contributed to [interview question bank](https://venminder-my.sharepoint.com/:w:/p/hunter_simpson/EZKXkv04UGZEn4nC0KORcjMB4vel_OEuKeQEJXyg7vpXww?e=QWjp9w&ovuser=c0ee997f-51ac-4ae6-bb27-9839814edd37%2CNamito.Yokota%40venminder.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzMzMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) used for new frontend hires.
-- TO DO: [CLAK Documentation](https://venminder.atlassian.net/wiki/spaces/EN/pages/1367736333/Clak+PDF+generator)
 
 ## Mentorship Contributions
 - Held a [lunch & learn meeting](https://venminder-my.sharepoint.com/:v:/p/david_williams/ERhuoiK7_z1Nsc68x6DAkjUBHDKNYR4zrMzSxqOt-pK_OQ) explaining and teach CSS [Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox) and [Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid) with [demo website](https://demo.namito.wiki/).
 - Trained and mentored Jim Stopinski on developing Control Assessment themes.
 - Assisted full-stack developers within Team Phoenix contribute to frontend stories.
-- TO DO: Hold a lunch & learn meeting for teaching JavaScript array methods and operators.
 
 ## Team Contributions
 - Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
 - Started and lead group testing meetings with meeting notes to minimize bugs.
 - Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
-- TO DO: Standardize PR description layout/template for Azure DevOps using [this](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates?view=azure-devops) tutorial.
-- TO DO: Set up bug description layout/template for Jira using [this](https://community.atlassian.com/t5/Jira-questions/How-can-I-create-an-User-Story-template-in-Jira/qaq-p/1011870) tutorial.
 
 ## Development Contributions
 ### Features
@@ -48,9 +46,6 @@ Last Updated: _July 14th, 2023_
 - Contributed to exporting the assessment as a [PDF using CLAK](https://venminder.atlassian.net/browse/PHX-899).
 - Implemented a [loading and waiting](https://venminder.atlassian.net/browse/PHX-1584) system to provide more user feedback.
 - Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) shared component alongside its parent CSS class [`vm-radio-group`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10562) within the `vm-library` package to be consumed by Venminder's frontend projects.
-- TO DO: go back to previous stories and add more.
-- TO WRITE: I can do minor backend changes.
-- TO WRITE: KnockoutJS
 
 ### Improvements
 - Implemented a caching system for the frontend to avoid duplicate API calls: [store service](https://venminder.atlassian.net/browse/PHX-902).
@@ -62,7 +57,6 @@ Last Updated: _July 14th, 2023_
 - [Refactored the entire Aurelia project](https://venminder.atlassian.net/browse/PHX-900) to follow Frontend Guild and Control Assessment specific standards.
 - TO DO: Add proposal markdown document to above.
 - Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
-- TO DO: Aadd linting as a pipeline step.
   
 ### Migrations
 - Upgraded deprecated `vm-grid-v2` to vm-library's [`vm-grid-v3`](https://venminder.atlassian.net/browse/PHX-1269) component
