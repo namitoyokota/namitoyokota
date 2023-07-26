@@ -55,7 +55,6 @@ Last Updated: _July 26h, 2023_
 
 ### Clean Code
 - [Refactored the entire Aurelia project](https://venminder.atlassian.net/browse/PHX-900) to follow Frontend Guild and Control Assessment specific standards.
-- TO DO: Add proposal markdown document to above.
 - Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
   
 ### Migrations
