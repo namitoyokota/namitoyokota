@@ -24,6 +24,7 @@ Last Updated: _July 14th, 2023_
 - Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/EN/pages/1379663913/vm-radio) for `vm-radio` component and `vm-radio-group` class within `vm-library`.
 - Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme) for creating a Control Assessment theme.
 - Wrote [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) for the Control Assessment's frontend codebase.
+- Contributed to [interview question bank](https://venminder-my.sharepoint.com/:w:/p/hunter_simpson/EZKXkv04UGZEn4nC0KORcjMB4vel_OEuKeQEJXyg7vpXww?e=QWjp9w&ovuser=c0ee997f-51ac-4ae6-bb27-9839814edd37%2CNamito.Yokota%40venminder.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzMzMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) used for new frontend hires.
 - TO DO: [CLAK Documentation](https://venminder.atlassian.net/wiki/spaces/EN/pages/1367736333/Clak+PDF+generator)
 
 ## Mentorship Contributions
@@ -33,34 +34,41 @@ Last Updated: _July 14th, 2023_
 - TO DO: Hold a lunch & learn meeting for teaching JavaScript array methods and operators.
 
 ## Team Contributions
-- Suggested and lead group testing meetings in attempt to minimize the amount of bugs going to production.
 - Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
+- Started and lead group testing meetings with meeting notes to minimize bugs.
+- Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
 - TO DO: Standardize PR description layout/template for Azure DevOps using [this](https://learn.microsoft.com/en-us/azure/devops/repos/git/pull-request-templates?view=azure-devops) tutorial.
 - TO DO: Set up bug description layout/template for Jira using [this](https://community.atlassian.com/t5/Jira-questions/How-can-I-create-an-User-Story-template-in-Jira/qaq-p/1011870) tutorial.
 
 ## Development Contributions
 ### Features
-- TO WRITE: dynamic calculation modal. [demo in monthly dev meeting](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw)
-- TO WRITE: PDF generation workflow - Passing methods with (Promise<void>).
-- TO WRITE: implemented loading/waiting system.
-- TO DO: go back to previous stories and add more.
+- Created a [dynamic calculation modal](https://venminder.atlassian.net/browse/PHX-1067) for Financial Health Tables. [Monothly Development Meeting Demo](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw)
+- Added [drag and drop](https://venminder.atlassian.net/browse/PHX-1176) reordering capability to controls within a template.
+- Implemented auto calculation functionality of section ratings.
+- Contributed to exporting the assessment as a [PDF using CLAK](https://venminder.atlassian.net/browse/PHX-899).
+- Implemented a [loading and waiting](https://venminder.atlassian.net/browse/PHX-1584) system to provide more user feedback.
 - Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) shared component alongside its parent CSS class [`vm-radio-group`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10562) within the `vm-library` package to be consumed by Venminder's frontend projects.
+- TO DO: go back to previous stories and add more.
 - TO WRITE: I can do minor backend changes.
+- TO WRITE: KnockoutJS
 
 ### Improvements
+- Implemented a caching system for the frontend to avoid duplicate API calls: [store service](https://venminder.atlassian.net/browse/PHX-902).
 - Wrote an abstract autosave service that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
 - Created a wrapper service for interacting with Aurelia's event aggregator. This minimizes the risk of developers mistyping the event names and also makes it easier to track which event names are being used where.
+- Added a navigation service to minimizing the hardcoded route paths.
 
 ### Clean Code
-- TO WRITE: frontend codebase refactor and cleanup - remove Bootstrap (use original notes in my OneNote).
-- Added `.prettierrc` and `.eslintrc.json` files with VSCode settings to automatically follow the lint rules set by the Frontend Guild.
-- TO DO: add linting as a pipeline step.
+- [Refactored the entire Aurelia project](https://venminder.atlassian.net/browse/PHX-900) to follow Frontend Guild and Control Assessment specific standards.
+- TO DO: Add proposal markdown document to above.
+- Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
+- TO DO: Aadd linting as a pipeline step.
   
 ### Migrations
-- TO WRITE: Control Assessments to use `vm-library` components (ex. `vm-grid-v3`)
-- Upgrade the Font Awesome package from version 4 to 6.
-- Deprecated the `moment.js` package to `date-fns` as the moment package is no longer managed.
-
+- Upgraded deprecated `vm-grid-v2` to vm-library's [`vm-grid-v3`](https://venminder.atlassian.net/browse/PHX-1269) component
+- Migrated native HTML elements within Control Assessments to `vm-library` shared components (checkbox, date picker, inputs, etc).
+- Upgrade the [Font Awesome package](https://venminder.atlassian.net/browse/PHX-901) from version 4 to 6.
+- Deprecated the `moment.js` package to [`date-fns`](https://venminder.atlassian.net/browse/PHX-1170) as the moment package is no longer managed.
 
 <hr />
 
