@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/26/23
+- Will be working on the table component - 1593
+
 ### 7/25/23
-- Will continue on that work today and displaying controls within the section - 1593
-- Also will have a fix for the view assessment's timing issue in a little bit - 1547
+- Fixed a bug with the View Assessment open link in new tab - 1547 (should be ready for testing)
+- Continued working on 1593 - got the section working with subheaders and textareas
 
 ### 7/24/23
 - Started working on 1593 and creating a new assessment section component - have questions for Jess
