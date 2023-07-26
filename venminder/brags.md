@@ -39,20 +39,28 @@ Last Updated: _July 14th, 2023_
 - TO DO: Set up bug description layout/template for Jira using [this](https://community.atlassian.com/t5/Jira-questions/How-can-I-create-an-User-Story-template-in-Jira/qaq-p/1011870) tutorial.
 
 ## Development Contributions
+### Features
 - TO WRITE: dynamic calculation modal. [demo in monthly dev meeting](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw)
 - TO WRITE: PDF generation workflow - Passing methods with (Promise<void>).
 - TO WRITE: implemented loading/waiting system.
 - TO DO: go back to previous stories and add more.
 - Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) shared component alongside its parent CSS class [`vm-radio-group`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10562) within the `vm-library` package to be consumed by Venminder's frontend projects.
+- TO WRITE: I can do minor backend changes.
+
+### Improvements
 - Wrote an abstract autosave service that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
 - Created a wrapper service for interacting with Aurelia's event aggregator. This minimizes the risk of developers mistyping the event names and also makes it easier to track which event names are being used where.
+
+### Clean Code
 - TO WRITE: frontend codebase refactor and cleanup - remove Bootstrap (use original notes in my OneNote).
 - Added `.prettierrc` and `.eslintrc.json` files with VSCode settings to automatically follow the lint rules set by the Frontend Guild.
 - TO DO: add linting as a pipeline step.
+  
+### Migrations
 - TO WRITE: Control Assessments to use `vm-library` components (ex. `vm-grid-v3`)
 - Upgrade the Font Awesome package from version 4 to 6.
 - Deprecated the `moment.js` package to `date-fns` as the moment package is no longer managed.
-- TO WRITE: I can do minor backend changes.
+
 
 <hr />
 
