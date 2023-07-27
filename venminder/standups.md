@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 7/27/23
+- About to wrap up the UI so will be working on the automatic calculation piece - 1593
+
 ### 7/26/23
-- Will be working on the table component - 1593
+- Continued working on 1593 and creating the table component
 
 ### 7/25/23
 - Fixed a bug with the View Assessment open link in new tab - 1547 (should be ready for testing)
