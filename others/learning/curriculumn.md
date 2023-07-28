@@ -27,3 +27,24 @@ organize below list to categories below:
 -   https://skillshop.exceedlms.com/student/catalog/list?category_ids=6272-applied-digital-skills
 
 ## Books
+
+### Leadership
+
+-   Developing the Leader Within You 2.0 - John Maxwell
+-   Leaders Eat Last - Simon Sinek
+
+### Career
+
+-   From Paycheck to Purpose - Ken Coleman
+-   The Proximity Principle - Ken Coleman
+
+### Business
+
+-   Zero to One - Peter Thiel
+
+### Self Improvement
+
+-   Extreme Ownership - Jocko Willink
+-   The 7 Habits of Highly Effective People - Stephen Covey
+-   The Dip - Seth Godin
+-   Essentialism - Greg McKeown
