@@ -2,20 +2,28 @@
 
 organize below list to categories below:
 
--   https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript
--   https://learndigital.withgoogle.com/digitalgarage/courses?certification=free
--   https://scrimba.com/learn/learnreact
--   https://skillshop.exceedlms.com/student/catalog/list?category_ids=7836-grow-with-google
--   https://skillshop.exceedlms.com/student/catalog/list?category_ids=6272-applied-digital-skills
--   https://pll.harvard.edu/subject/business/free
--   https://learnux.io
--   https://hackdesign.org/lessons
--   https://pll.harvard.edu/subject/leadership
+## Business
 
-## MBA
+-   https://pll.harvard.edu/subject/business/free
 
 ## Leadership
 
-## Web
+-   https://pll.harvard.edu/subject/leadership
+
+## Programming
+
+-   https://scrimba.com/learn/learnreact
+-   https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript
+-   https://learndigital.withgoogle.com/digitalgarage/courses?certification=free
+
+## UX
+
+-   https://learnux.io
+-   https://hackdesign.org/lessons
+
+## Other
+
+-   https://skillshop.exceedlms.com/student/catalog/list?category_ids=7836-grow-with-google
+-   https://skillshop.exceedlms.com/student/catalog/list?category_ids=6272-applied-digital-skills
 
 ## Books
