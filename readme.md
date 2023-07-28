@@ -2,7 +2,7 @@
 
 I write clean and efficient code with a smile.
 
-`Product Ownership` `High Efficiency` `Relationship Building`
+`Product Ownership` `Pixel Perfect UI` `Bug Fire Fighter`
 
 ## Skills
 
