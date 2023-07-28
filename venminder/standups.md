@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/28/23
+- Have all of that working so hoping to finish that story today and get a PR up
+- Will go back to working with Carol on 1527 and hopefully wrap that up today as well 
+
 ### 7/27/23
-- About to wrap up the UI so will be working on the automatic calculation piece - 1593
+- Started working on the auto calculation of table rows with provided formula - 1593
 
 ### 7/26/23
 - Continued working on 1593 and creating the table component
