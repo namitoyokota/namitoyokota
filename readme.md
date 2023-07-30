@@ -13,11 +13,13 @@ I write clean and efficient code with a smile.
 ## Experience
 
 **Software Engineer II** at <mark>Venminder</mark> responsible for leading a internal frontend project generating 60% of total revenue since _December 2022_.
+`Aurelia` `TypeScript` `HTML` `SCSS` `.NET` `AWS` `Azure` `Figma`
 
 -   [Brag Documents](./venminder/brags.md), [Standups](./venminder/standups.md)
 -   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md), [Interview Questions](./venminder/interview.md)
 
 **Cloud Application UI Developer** at <mark>Hexagon Safety & Infrastructure</mark> developing and managing UI for the HxGN Connect product through 42 micro-frontend service packages for _2 years_.
+`Angular` `TypeScript` `HTML` `SCSS` `Azure` `Adobe XD`
 
 -   [Brag Documents](./hexagon/brags.md), [Standups](./hexagon/standups.md)
 -   [Job Description](./hexagon/job-description.md)
