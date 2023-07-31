@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/31/23
+- Working on the manual rating change request from Jess
+- Also have a bowling game review during team building (will either join late or miss)
+- If changes go up in time, I'll spend a lot of time testing but if not, I'll find something else
+
 ### 7/28/23
-- Have all of that working so hoping to finish that story today and get a PR up
-- Will go back to working with Carol on 1527 and hopefully wrap that up today as well 
+- Wrapped up frontend for both 1593 and 1527
 
 ### 7/27/23
 - Started working on the auto calculation of table rows with provided formula - 1593
