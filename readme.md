@@ -16,7 +16,7 @@ I write clean and efficient code with a smile.
 `Aurelia` `TypeScript` `HTML` `SCSS` `.NET` `AWS` `Azure` `Figma`
 
 -   [Brag Documents](./venminder/brags.md), [Standups](./venminder/standups.md)
--   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md), [Interview Questions](./venminder/interview.md)
+-   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
 **Cloud Application UI Developer** at <mark>Hexagon Safety & Infrastructure</mark> developing and managing UI for the HxGN Connect product through 42 micro-frontend service packages for _2 years_.
 `Angular` `TypeScript` `HTML` `SCSS` `Azure` `Adobe XD`
