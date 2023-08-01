@@ -13,24 +13,26 @@ I write clean and efficient code with a smile.
 ## Experience
 
 **Software Engineer II** at <mark>Venminder</mark> responsible for leading a internal frontend project generating 60% of total revenue since _December 2022_.
+
 `Aurelia` `TypeScript` `HTML` `SCSS` `.NET` `AWS` `Azure` `Figma`
 
 -   [Brag Documents](./venminder/brags.md), [Standups](./venminder/standups.md)
 -   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
 **Cloud Application UI Developer** at <mark>Hexagon Safety & Infrastructure</mark> developing and managing UI for the HxGN Connect product through 42 micro-frontend service packages for _2 years_.
+
 `Angular` `TypeScript` `HTML` `SCSS` `Azure` `Adobe XD`
 
 -   [Brag Documents](./hexagon/brags.md), [Standups](./hexagon/standups.md)
 -   [Job Description](./hexagon/job-description.md)
 
-**Full-Stack WordPress Development Intern** at </mark>Trips4Trade</mark> responsible for improving the UI and managing databases from _September 2019 to January 2020_.
+**Full-Stack WordPress Development Intern** at <mark>Trips4Trade</mark> responsible for improving the UI and managing databases from _September 2019 to January 2020_.
 
 **Frontend Web Development Intern** at <mark>threeDays</mark> responsible for learning the fundamentals of HTML, CSS, and Bootstrap from _February 2017 to April 2017_.
 
 ## Education
 
-[Bachelors of Science](<(./degree/degree.md)>) in **Computer Science** with _Mathematics_ minor from the <mark>University of Alabama</mark>
+[Bachelors of Science](<(./degree/degree.md)>) in **Computer Science** with _Mathematics_ minor from the <mark>University of Alabama</mark>.
 
 Personal [online learning](./others/learning/curriculumn.md) for learning all things web, user experience, business, and leadership.
 
