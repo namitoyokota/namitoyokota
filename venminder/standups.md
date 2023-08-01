@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/1/23
+- I will continue working on 1594 and matching up the Chart with the UX design
+
 ### 7/31/23
-- Working on the manual rating change request from Jess
-- Also have a bowling game review during team building (will either join late or miss)
-- If changes go up in time, I'll spend a lot of time testing but if not, I'll find something else
+- Fixed the manual rating UI change
+- Also reviewed the bowling project with frontend devs
+- I then started on 1594 and reading the Chart.js documentation - learned a lot
 
 ### 7/28/23
 - Wrapped up frontend for both 1593 and 1527
