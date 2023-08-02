@@ -3,7 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 8/2/23
-- Carol got most of the changes ready for 1674 done so will be working on the UI for that
+- Carol got most of the changes ready for 1591 done so will be working on the UI for that
 - If I finish, I'll go back to 1593
 - I have the bowling game review again after standup so might be a few minutes late to the HotFix meeting
 
