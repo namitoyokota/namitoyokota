@@ -2,10 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 8/3/23
+- Have a few more things to go so will continue working on those today
+
 ### 8/2/23
-- Carol got most of the changes ready for 1591 done so will be working on the UI for that
-- If I finish, I'll go back to 1593
-- I have the bowling game review again after standup so might be a few minutes late to the HotFix meeting
+- Continued working on testing and hardening for 1591 and 1593
 
 ### 8/1/23
 - Continued working on 1594 and got the prototype for all of the charts to match the UX design
