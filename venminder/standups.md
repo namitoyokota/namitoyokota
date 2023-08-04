@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 8/4/23
+- Still have more to fix on 1593 so hoping to finish that soon, then will move to 1732 for the double click issue
+
 ### 8/3/23
-- Have a few more things to go so will continue working on those today
+- Continued working on 1591 and 1593
 
 ### 8/2/23
 - Continued working on testing and hardening for 1591 and 1593
