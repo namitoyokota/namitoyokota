@@ -3,7 +3,6 @@
 > December 5th, 2022 - Present
 
 ### 8/7/23
-- Will continue with 1591 - should be good to go other than one issue
 - Then get 1688 done for the user role validation on FHA assessment
 - If I finish both, I'll go back to the graph and implementing that to the tables (have bulk of that done already)
 
@@ -11,7 +10,7 @@
 - Got 1593 wrapped up
 - Worked on the P1 bug (1732) and preventing double click from user
 - Had another bowling review
-- Then continued working on 1591
+- Then continued working on 1591 - ready for PR reviews
 
 ### 8/3/23
 - Continued working on 1591 and 1593
