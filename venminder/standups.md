@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/8/23
+- Will continue on 1688 with adding clear data, preview, and publish support for FHAs
+
 ### 8/7/23
-- Then get 1688 done for the user role validation on FHA assessment
-- If I finish both, I'll go back to the graph and implementing that to the tables (have bulk of that done already)
+- Continued working on 1591 as we found more issues
+- Also worked on 1688 for the new endpoint for getting role to complete FHA assessment
 
 ### 8/4/23
 - Got 1593 wrapped up
