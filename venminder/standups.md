@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/9/23
+- Still trying to finish 1688 - working on the about section now
+- Also have another bowling game review today at 930 central
+
 ### 8/8/23
-- Will continue on 1688 with adding clear data, preview, and publish support for FHAs
+- Continued on 1688 with adding clear data, preview, and publish support for FHAs
 
 ### 8/7/23
 - Continued working on 1591 as we found more issues
