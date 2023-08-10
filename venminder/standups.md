@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/10/23
+- Will go back to adding the overall rating to FHA assessment - 1686
+- Approval process should now be good to go after that
+
 ### 8/9/23
-- Still trying to finish 1688 - working on the about section now
-- Also have another bowling game review today at 930 central
+- Finished up the last bit of validations missing for 1688 (ready for reviews)
+- Had another bowling game review today at 930 central - really bad
 
 ### 8/8/23
 - Continued on 1688 with adding clear data, preview, and publish support for FHAs
