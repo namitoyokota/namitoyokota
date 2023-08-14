@@ -2,9 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 8/14/23
+- Will try to get the graph preview component done - 1594
+- After that, will focus on testing and making sure everything is good for testing by Jess
+
+### 8/11/23
+- PTO
+
 ### 8/10/23
-- Will go back to adding the overall rating to FHA assessment - 1686
-- Approval process should now be good to go after that
+- Had group testing in the morning then
+- Added the overall rating and section rating summaries component to FHA assessments - 1686
+- Also fixed a few bugs: 1754 and 1753
 
 ### 8/9/23
 - Finished up the last bit of validations missing for 1688 (ready for reviews)
