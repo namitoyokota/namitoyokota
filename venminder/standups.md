@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/15/23
+- Tested everything on GETS this morning, found one small thing for 1594 - everything else is good
+- Gonna fix that issue this morning
+- Then go back to 1458
+
 ### 8/14/23
-- Will try to get the graph preview component done - 1594
-- After that, will focus on testing and making sure everything is good for testing by Jess
+- Implemented the graph preview dialog to Perform FHAs - 1594
+- Started working on 1458 and creating frontend components - minimal theme
 
 ### 8/11/23
 - PTO
