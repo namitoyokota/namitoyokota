@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/16/23
+- Have most of it ready so I set up a meeting for this afternoon to discuss a few things
+
 ### 8/15/23
-- Tested everything on GETS this morning, found one small thing for 1594 - everything else is good
-- Gonna fix that issue this morning
-- Then go back to 1458
+- Tested latest stories on GETS and fixed bugs as I found them
+- Went back to 1458 to implement the merge engine HTML components
 
 ### 8/14/23
 - Implemented the graph preview dialog to Perform FHAs - 1594
