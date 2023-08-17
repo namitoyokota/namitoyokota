@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/17/23
+- Going back to 1594 to use the display type set for formulas but use currency otherwise
+- Then more 1458
+
 ### 8/16/23
-- Have most of it ready so I set up a meeting for this afternoon to discuss a few things
+- Continued working on 1458
+- Also discussed a few of my findings and good things came out of that
 
 ### 8/15/23
 - Tested latest stories on GETS and fixed bugs as I found them
