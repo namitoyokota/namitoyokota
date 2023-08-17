@@ -49,7 +49,7 @@ Last Updated: _August 17th, 2023_
 
 ### Improvements
 - Implemented a caching system for the frontend to avoid duplicate API calls: [store service](https://venminder.atlassian.net/browse/PHX-902).
-- Wrote an abstract autosave service that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
+- Wrote an abstract [autosave service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8434?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/template-autosave-service.ts) that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
 - Created a wrapper service for interacting with Aurelia's event aggregator. This minimizes the risk of developers mistyping the event names and also makes it easier to track which event names are being used where.
 - Added a navigation service to minimizing the hardcoded route paths.
 
