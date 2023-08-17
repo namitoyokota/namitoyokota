@@ -40,7 +40,7 @@ Last Updated: _August 17th, 2023_
 
 ## Development Contributions
 ### Features
-- Created a [dynamic calculation modal](https://venminder.atlassian.net/browse/PHX-1067) for Financial Health Tables. [Monothly Development Meeting Demo](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw)
+- Created a [dynamic calculation modal](https://venminder.atlassian.net/browse/PHX-1067) for Financial Health Tables. [Monothly Development Meeting Demo Recording](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw).
 - Added [drag and drop](https://venminder.atlassian.net/browse/PHX-1176) reordering capability to controls within a template.
 - Implemented auto calculation functionality of section ratings.
 - Contributed to exporting the assessment as a [PDF using CLAK](https://venminder.atlassian.net/browse/PHX-899).
