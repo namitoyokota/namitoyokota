@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/18/23
+- I have an idea of that formatting though that David I can show you in the 16th minute
+- Then rest of the day is mostly meetings but will try to get 1458 frontend pieces wrapped up
+
 ### 8/17/23
-- Going back to 1594 to use the display type set for formulas but use currency otherwise
-- Then more 1458
+- Had the debugging meeting
+- Then spent rest of the day reading through Chart.js doc to see if there's any other way to format values
+- Turns out, callback is the only way
 
 ### 8/16/23
 - Continued working on 1458
