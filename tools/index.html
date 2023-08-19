@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+    <head>
+        <title>Contribution Parser</title>
+        <script src="./papaparse.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+        <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" />
+    </head>
+
+    <body style="font-family: 'Lato'; height: 100%; display: flex; align-items: center; justify-content: center">
+        <input type="file" accept=".csv" id="csv" class="form-control" />
+        <div id="chart"></div>
+        <script>
+            document.getElementById('csv').onchange = function () {
+                document.getElementById('csv').style = 'display: none';
+
+                const mondays = [],
+                    tuesdays = [],
+                    wednesdays = [],
+                    thursdays = [],
+                    fridays = [];
+
+                var file = document.getElementById('csv').files[0];
+                Papa.parse(file, {
+                    header: true,
+                    step: function (results, parser) {
+                        switch (new Date(results.data.Date).getDay()) {
+                            case 0:
+                                mondays.push(results.data.Count);
+                                break;
+                            case 1:
+                                tuesdays.push(results.data.Count);
+                                break;
+                            case 2:
+                                wednesdays.push(results.data.Count);
+                                break;
+                            case 3:
+                                thursdays.push(results.data.Count);
+                                break;
+                            case 4:
+                                fridays.push(results.data.Count);
+                                break;
+                        }
+                    },
+                    complete: function (results, file) {
+                        var options = {
+                            title: {
+                                text: 'Contribution Graph',
+                            },
+                            colors: ['#041C59'],
+                            dataLabels: {
+                                enabled: false,
+                            },
+                            chart: {
+                                height: 350,
+                                width: 800,
+                                type: 'heatmap',
+                            },
+                            series: [
+                                {
+                                    name: 'Monday',
+                                    data: mondays,
+                                },
+                                {
+                                    name: 'Tuesday',
+                                    data: tuesdays,
+                                },
+                                {
+                                    name: 'Wednesday',
+                                    data: wednesdays,
+                                },
+                                {
+                                    name: 'Thursday',
+                                    data: thursdays,
+                                },
+                                {
+                                    name: 'Friday',
+                                    data: fridays,
+                                },
+                            ],
+                        };
+
+                        var chart = new ApexCharts(document.getElementById('chart'), options);
+                        chart.render();
+                    },
+                });
+            };
+        </script>
+    </body>
+</html>
