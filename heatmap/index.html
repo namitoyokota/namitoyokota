@@ -25,19 +25,19 @@
                     header: true,
                     step: function (results, parser) {
                         switch (new Date(results.data.Date).getDay()) {
-                            case 0:
+                            case 1:
                                 mondays.push(results.data.Count);
                                 break;
-                            case 1:
+                            case 2:
                                 tuesdays.push(results.data.Count);
                                 break;
-                            case 2:
+                            case 3:
                                 wednesdays.push(results.data.Count);
                                 break;
-                            case 3:
+                            case 4:
                                 thursdays.push(results.data.Count);
                                 break;
-                            case 4:
+                            case 5:
                                 fridays.push(results.data.Count);
                                 break;
                         }
