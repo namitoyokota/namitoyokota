@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/21/23
+- Just pushed up a PR for the code clean up
+- Plan work for the new sprint
+
 ### 8/18/23
-- I have an idea of that formatting though that David I can show you in the 16th minute
-- Then rest of the day is mostly meetings but will try to get 1458 frontend pieces wrapped up
+- Came up with an idea on how to handle callbacks with Chart.js for formatting values - 1458
+- Worked on clean ups that I found from testing
 
 ### 8/17/23
 - Had the debugging meeting
