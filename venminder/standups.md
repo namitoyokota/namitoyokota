@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/22/23
+- Turns out there's more work to do after dsicussion from technical grooming
+- So will be continuing to work on rest of 1778
+
 ### 8/21/23
-- Just pushed up a PR for the code clean up
-- Plan work for the new sprint
+- Worked on adding the confirm dialog when swapping FHA template types - 1777
+- Then started working on hiding the amount of years section - 1778
 
 ### 8/18/23
 - Came up with an idea on how to handle callbacks with Chart.js for formatting values - 1458
