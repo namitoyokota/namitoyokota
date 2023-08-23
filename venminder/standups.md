@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/23/23
+- Have more to work there but if we finish that,
+- Will move on to the few bugs on the board
+
 ### 8/22/23
-- Turns out there's more work to do after dsicussion from technical grooming
-- So will be continuing to work on rest of 1778
+- Wrapped up 1778 for hiding the year section
+- Then started working with Carol on the aggregate error message modal - part of 1533
 
 ### 8/21/23
 - Worked on adding the confirm dialog when swapping FHA template types - 1777
