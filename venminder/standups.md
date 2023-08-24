@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 8/24/23
+- Worked on updating the vm-library in our package
+- Along with that, create a new version of the confirm dialog as well
+- Will be working on a minor frontend change for 1777
+- Then work on the frontend for 1776 as well - standard section checkboxes
+
 ### 8/23/23
-- Have more to work there but if we finish that,
-- Will move on to the few bugs on the board
+- Finished 1533
+- Then working on the 2 bugs on the board - 1795 and 1788
+- I was unable to replicate 1788 - even on GETS that was link (please test again)
 
 ### 8/22/23
 - Wrapped up 1778 for hiding the year section
