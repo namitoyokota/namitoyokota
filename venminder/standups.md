@@ -2,11 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/25/23
+- Added an assessment type store service for 1777 as requested by Patrick
+- Will get started on 1779 work today for the custom table headers
+
 ### 8/24/23
-- Worked on updating the vm-library in our package
-- Along with that, create a new version of the confirm dialog as well
-- Will be working on a minor frontend change for 1777
-- Then work on the frontend for 1776 as well - standard section checkboxes
+- Worked on updating the vm-library package in CA and also added a new confirmation modal
+- Added a minor change to fit the assessment type name change for 1777
+- Then worked with David on 1776 for the custom standard section
 
 ### 8/23/23
 - Finished 1533
