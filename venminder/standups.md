@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/28/23
+- Will continue working on 1779 and hope to finish that up
+
 ### 8/25/23
-- Added an assessment type store service for 1777 as requested by Patrick
-- Will get started on 1779 work today for the custom table headers
+- Added a caching to the assessment type on the frontend for 1777
+- Started working on allowing custom column headers - 1779
+- Also discussed iframe security with Carol on 1533
 
 ### 8/24/23
 - Worked on updating the vm-library package in CA and also added a new confirmation modal
