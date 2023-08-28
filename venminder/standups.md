@@ -3,7 +3,8 @@
 > December 5th, 2022 - Present
 
 ### 8/28/23
-- Will continue working on 1779 and hope to finish that up
+- Will continue working on 1779  - adding the delete functionality and validations
+- Hoping to have it ready for code review by the end of the day
 
 ### 8/25/23
 - Added a caching to the assessment type on the frontend for 1777
