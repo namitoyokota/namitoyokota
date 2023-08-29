@@ -4,7 +4,7 @@
 
 ### 8/29/23
 - Fixed a bug for the add section button not working for FHA templates - within 1776
-- Will be investigating the narrative issue
+- Found the narrative save issue was on the frontend - testing the fix now - 1828
 - Then pick up 1784 if I finish
 
 ### 8/28/23
