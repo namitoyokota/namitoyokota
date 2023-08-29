@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/29/23
+- Fixed a bug for the add section button not working for FHA templates - within 1776
+- Will be investigating the narrative issue
+- Then pick up 1784 if I finish
+
 ### 8/28/23
-- Will continue working on 1779  - adding the delete functionality and validations
-- Hoping to have it ready for code review by the end of the day
+- Finished up 1779
+- And got one bug fix in for 1777 we found during standup with the assessment type warning dialog
 
 ### 8/25/23
 - Added a caching to the assessment type on the frontend for 1777
