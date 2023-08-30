@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/30/23
+- Will continue working on 1784 and should be able to finish by the end of the day today assuming no major issues
+
 ### 8/29/23
-- Fixed a bug for the add section button not working for FHA templates - within 1776
-- Found the narrative save issue was on the frontend - testing the fix now - 1828
-- Then pick up 1784 if I finish
+- Worked on a couple of bugs in the morning
+- Then started working on 1784
+- Didn't get to far with good bit of the day being meetings
 
 ### 8/28/23
 - Finished up 1779
