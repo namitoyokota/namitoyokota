@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 8/31/23
+- Have one more bug fix this morning (related to the assessment type cache) - 1847
+- Will get started on the validation piece for 1626
+- And also have a few clean up tasks to do afterwards
+
 ### 8/30/23
-- Will continue working on 1784 and should be able to finish by the end of the day today assuming no major issues
+- Continued working on 1784 and got the changes ready for PR
+- Worked on a couple of bugs that came up throughout the day
+- Also had the guild meeting - the notes are in the chat
 
 ### 8/29/23
 - Worked on a couple of bugs in the morning
