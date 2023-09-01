@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/1/23
+- This morning, I tested all of the changes from yesterday and confirmed they are good for testing
+- Will get started on adding validation to support FHA data libary - 1626
+
 ### 8/31/23
-- Have one more bug fix this morning (related to the assessment type cache) - 1847
-- Will get started on the validation piece for 1626
-- And also have a few clean up tasks to do afterwards
+- Worked on bug fixes from group testing in the morning
+- Then worked on the feedbacks from the Tuesday's integration group testing and wrapped it into one story - 1853
 
 ### 8/30/23
 - Continued working on 1784 and got the changes ready for PR
