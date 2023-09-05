@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/5/23
+- PR coming soon for the clean up story - 1854
+- Will get started on the robust FHA theme development today - 1827
+
 ### 9/1/23
-- This morning, I tested all of the changes from yesterday and confirmed they are good for testing
-- Will get started on adding validation to support FHA data libary - 1626
+- Finished the first pass for 1626 changes to add the validation required to support FHA data library
+- Then fixed a couple bugs that others found
+- Then at the end of the day I started working on some minor cleanup changes - 1854
 
 ### 8/31/23
 - Worked on bug fixes from group testing in the morning
