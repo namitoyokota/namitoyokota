@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/6/23
+- Got all of the theme ready but during testing, I noticed some of the merge engine CSS was spilling over
+- So I'll have a PR up for that shortly - 1866
+- After that, will go back to 1626 to wrap up the data library frontend
+
 ### 9/5/23
-- PR coming soon for the clean up story - 1854
-- Will get started on the robust FHA theme development today - 1827
+- Wrapped up the clean up story for the frontend - 1854
+- Then started working on the FHA theme to pass on to Jess - 1827
 
 ### 9/1/23
 - Finished the first pass for 1626 changes to add the validation required to support FHA data library
