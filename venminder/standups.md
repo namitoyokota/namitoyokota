@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 9/7/23
+- Fixed a bug that wasn't completly fixed with the dropdowns - 1860
+- Then plan on updating a store service from a disucssion with Patrick - 1826
+- Then update the theme documentation for FHAs
+
 ### 9/6/23
-- Got all of the theme ready but during testing, I noticed some of the merge engine CSS was spilling over
-- So I'll have a PR up for that shortly - 1866
-- After that, will go back to 1626 to wrap up the data library frontend
+- Finished up creating the theme - 1827
+- Fixed a bug found during that process - 1866
+- Then went back to 1626 to implement the data library support for FHAs
 
 ### 9/5/23
 - Wrapped up the clean up story for the frontend - 1854
