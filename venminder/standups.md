@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/8/23
+- Going back to the bugs Carol found - 1877 and 1878
+- Then go back to 1826
+
 ### 9/7/23
-- Fixed a bug that wasn't completly fixed with the dropdowns - 1860
-- Then plan on updating a store service from a disucssion with Patrick - 1826
-- Then update the theme documentation for FHAs
+- Updated the theme documentation with tables and graphs - 1458
+- Then updated the store service to use the saved object for control create - 1826
+- I also started looking into the frontend sanitization - 1826
 
 ### 9/6/23
 - Finished up creating the theme - 1827
