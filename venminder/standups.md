@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/11/23
+- Spent some time this morning to update the theme with Jess' feedback - 1868
+- Will be working on wrapping up 1626 - FHA data library
+- Go back to 1826 with the sanization
+
 ### 9/8/23
-- Going back to the bugs Carol found - 1877 and 1878
-- Then go back to 1826
+- Worked on adding the new sanitization method to the utility class on the frontend - 1826
+- Then spend most of the afternoon on bug fixes and testing the fixes - 1877, 1878, 1879
 
 ### 9/7/23
 - Updated the theme documentation with tables and graphs - 1458
