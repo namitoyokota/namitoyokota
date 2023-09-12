@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 9/12/23
+- Just finished the sanitization for the frontend - 1826
+- Also fixed the date formatting change after discussion with Carol - 1868
+- If nothing else comes up, I'm planning on starting 1864 today with the search bar to the add control dialog
+
 ### 9/11/23
-- Spent some time this morning to update the theme with Jess' feedback - 1868
-- Will be working on wrapping up 1626 - FHA data library
-- Go back to 1826 with the sanization
+- Updated the FHA theme with feedbacks - 1868
+- Then worked on 1626 with David and wrapped up that story
+- Spent rest of the day on 1826 and sanitizing the user input
 
 ### 9/8/23
 - Worked on adding the new sanitization method to the utility class on the frontend - 1826
