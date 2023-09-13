@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/13/23
+- Putting that on hold and started on 1384 - supporting autoscroll on control reorder
+
 ### 9/12/23
-- Just finished the sanitization for the frontend - 1826
-- Also fixed the date formatting change after discussion with Carol - 1868
-- If nothing else comes up, I'm planning on starting 1864 today with the search bar to the add control dialog
+- Added a search bar to the control dialog - 1864
+- Fixed the integration bug found from the group testing - 1882
+- Also finished up clearing the control values if na/np/unknown is selected - 1796
+- Started working on the edit control within the template - 1383
 
 ### 9/11/23
 - Updated the FHA theme with feedbacks - 1868
