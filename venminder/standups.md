@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/14/23
+- I also fixed 2 bugs this morning so those are ready for review as well - 1878, 1895
+- With the updating control, Jess added more tasks for the story from the meeting so I'll be working on that today - 1383
+
 ### 9/13/23
-- Putting that on hold and started on 1384 - supporting autoscroll on control reorder
+- Worked on prototyping the autoscroll on control reorder (1384) and the edit control directly from templates (1383)
+- Met with Tracey and Lisa-Mae about them
+- I wrapped up the autoscroll so that PR is ready for review
 
 ### 9/12/23
 - Added a search bar to the control dialog - 1864
