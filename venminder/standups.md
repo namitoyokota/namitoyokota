@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/15/23
+- Continue working on 1626 and hoping to finish that up
+- After that, will probably start working on the collapsing of sections - 1889
+
 ### 9/14/23
-- I also fixed 2 bugs this morning so those are ready for review as well - 1878, 1895
-- With the updating control, Jess added more tasks for the story from the meeting so I'll be working on that today - 1383
+- Fixed a few bugs in the morning, should be on GETS now
+- Then talked with Jess on priorities for the demo feedback and grooming
+- I then started working with David on 1626 and also a bug Patrick found on 1826
 
 ### 9/13/23
 - Worked on prototyping the autoscroll on control reorder (1384) and the edit control directly from templates (1383)
