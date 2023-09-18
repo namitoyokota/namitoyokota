@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/18/23
+- Going to get started on 1896 - adding support for calculations from any other tables
+
 ### 9/15/23
-- Continue working on 1626 and hoping to finish that up
-- After that, will probably start working on the collapsing of sections - 1889
+- Finished up 1626 with updating the data library to support standard fields within FHAs
+- Added support for the collapsing of sections in the template builder - 1889 - PR is ready
+- Fixed bug with table deletion in the template builder - 1908
 
 ### 9/14/23
 - Fixed a few bugs in the morning, should be on GETS now
