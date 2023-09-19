@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/19/23
+- Fixed a bug where the `Add Content` button in the FHA template wasn't displaying correctly
+- Going to get started on 1901 for the Executive Summary - planning on adding a new property
+
 ### 9/18/23
-- Going to get started on 1896 - adding support for calculations from any other tables
+- Started working on 1896 - adding support for using line items from other tables in formulas - PR ready
 
 ### 9/15/23
 - Finished up 1626 with updating the data library to support standard fields within FHAs
