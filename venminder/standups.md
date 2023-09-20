@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/20/23
+- Updated the FHA theme to fix their request - will send that out shortly
+- Will get started on 1383 for adding sorting support to sections
+
 ### 9/19/23
 - Fixed a bug where the `Add Content` button in the FHA template wasn't displaying correctly
-- Going to get started on 1901 for the Executive Summary - planning on adding a new property
+- Worked on 1901 with replacing the Rating Explanation field to Executive Summary for FHAs - finished with Patrick's help
 
 ### 9/18/23
 - Started working on 1896 - adding support for using line items from other tables in formulas - PR ready
