@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/21/23
+- Pulled 2 new minor demo feedback stories - 1451 and 1192 - so will be working on that today
+
 ### 9/20/23
-- Updated the FHA theme to fix their request - will send that out shortly
-- Will get started on 1383 for adding sorting support to sections
+- Updated the FHA theme and uploaded that to the SharePoint folder
+- Then started working on the sorting feature for sections - 1385 - finished
 
 ### 9/19/23
 - Fixed a bug where the `Add Content` button in the FHA template wasn't displaying correctly
