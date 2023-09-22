@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/22/23
+- Have a question for Carol if you have time after standup - try to finish 1192 PR
+- Will get started on 1929 - adding view assessment link to the fulfillment vendor page
+
 ### 9/21/23
-- Pulled 2 new minor demo feedback stories - 1451 and 1192 - so will be working on that today
+- Had group testing in the morning
+- Worked on 2 demo feedback stories - 1451 and 1192
+- Then at the end of the day finished 1929 for improving the View buttons in DCDev - 1929
 
 ### 9/20/23
 - Updated the FHA theme and uploaded that to the SharePoint folder
