@@ -9,7 +9,7 @@
 ### 9/21/23
 - Had group testing in the morning
 - Worked on 2 demo feedback stories - 1451 and 1192
-- Then at the end of the day finished 1929 for improving the View buttons in DCDev - 1929
+- Then at the end of the day finished 1550 for improving the View buttons in DCDev
 
 ### 9/20/23
 - Updated the FHA theme and uploaded that to the SharePoint folder
