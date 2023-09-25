@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 9/25/23
+- Picking up 1938 to prevent duplicate section names for FHAs
+- Then will work on 1830 for adding a readonly view to published assessments
+
 ### 9/22/23
-- Have a question for Carol if you have time after standup - try to finish 1192 PR
-- Will get started on 1929 - adding view assessment link to the fulfillment vendor page
+- Wrapped up the internal notes demo feedback story - 1192
+- Then started working on 1929 - adding view assessment link to the fulfillment vendor page
+- Had isseus running DCDev locally and with Carol's help found that IIS wasn't running at all
+- Filed a ticket with IT so putting 1929 on hold until they come back to me
 
 ### 9/21/23
 - Had group testing in the morning
