@@ -4,7 +4,7 @@
 
 ### 9/25/23
 - Picking up 1938 to prevent duplicate section names for FHAs
-- Then will work on 1830 for adding a readonly view to published assessments
+- Then will work on 1830 for adding a readonly view to published templates
 
 ### 9/22/23
 - Wrapped up the internal notes demo feedback story - 1192
