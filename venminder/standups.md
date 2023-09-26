@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/26/23
+- Got a PR up for 1830 this morning
+- Got IIS fixed from IT so will be going back to 1929 and running DCDev locally again
+
 ### 9/25/23
-- Picking up 1938 to prevent duplicate section names for FHAs
-- Then will work on 1830 for adding a readonly view to published templates
+- Added validation for duplicate section names - 1938
+- Then worked on 1830 - supporting readonly view to published templates
 
 ### 9/22/23
 - Wrapped up the internal notes demo feedback story - 1192
