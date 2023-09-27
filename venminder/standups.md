@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/27/23
+- Starting on 1949 - collapsible settings section
+
 ### 9/26/23
-- Got a PR up for 1830 this morning
-- Got IIS fixed from IT so will be going back to 1929 and running DCDev locally again
+- Mostly meetings
+- Looked into the integration issue but found out that it was old data - need to create new formulas
+- Also got help from Carol on my local DCDev issue - got further than I was before, not finished
 
 ### 9/25/23
 - Added validation for duplicate section names - 1938
