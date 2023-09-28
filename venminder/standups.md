@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/28/23
+- PR is up for that this morning
+- GOing to start on 1934 - display types for each row
+
 ### 9/27/23
-- Starting on 1949 - collapsible settings section
+- Worked on 1949 - collapsible settings section for template builder and order information for perform review pages
 
 ### 9/26/23
 - Mostly meetings
