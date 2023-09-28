@@ -4,7 +4,7 @@
 
 ### 9/28/23
 - PR is up for that this morning
-- GOing to start on 1934 - display types for each row
+- Going to start on 1934 - display types for each row
 
 ### 9/27/23
 - Worked on 1949 - collapsible settings section for template builder and order information for perform review pages
