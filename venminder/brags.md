@@ -16,15 +16,15 @@
 
 | Statistic         | Count | Reference |
 | ----------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Stories Completed | 73 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1548?jql=project%20IN%20(%22PHX%22%2C%22QA%20and%20RainForest%22%2C%22Front-End%20Guild%22)%20AND%20status%20IN%20(Released%2C%22Done%20without%20work%22%2CClosed%2CDone%2C%22Functional%20Test%20Complete%22%2C%22Ready%20for%20Release%22%2C%22Release%20Test%20Complete%22)%20AND%20assignee%20IN%20(638f71df489de2f7f467b037)%20AND%20type%20%3D%20Story%20ORDER%20BY%20created%20DESC) |
-| Bugs Fixed  | 73 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1589?jql=project%20IN%20%28%22PHX%22%2C%20%22QA%20and%20RainForest%22%2C%20%22Front-End%20Guild%22%29%0Aand%20status%20in%20%28Released%2C%20%22Done%20without%20work%22%2C%20Closed%2C%20Done%2C%20%22Ready%20for%20Release%22%2C%20%22Release%20Test%20Complete%22%2C%20%22Functional%20Test%20Complete%22%29%0Aand%20assignee%20IN%20%28638f71df489de2f7f467b037%29%0Aand%20type%20in%20%28Bug-task%2C%20Bug%29%0AORDER%20BY%20created%20DESC) |
-| Pull Requests Completed | 230 |  |
-| Commits Made | 1,619 |  |
-| Files Added | 6,078 |  |
-| Files Edited | 13,673 |  |
-| Files Deleted | 1,978 |  |
+| Stories Completed | 74 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1548?jql=project%20IN%20(%22PHX%22%2C%22QA%20and%20RainForest%22%2C%22Front-End%20Guild%22)%20AND%20status%20IN%20(Released%2C%22Done%20without%20work%22%2CClosed%2CDone%2C%22Functional%20Test%20Complete%22%2C%22Ready%20for%20Release%22%2C%22Release%20Test%20Complete%22)%20AND%20assignee%20IN%20(638f71df489de2f7f467b037)%20AND%20type%20%3D%20Story%20ORDER%20BY%20created%20DESC) |
+| Bugs Fixed  | 79 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1589?jql=project%20IN%20%28%22PHX%22%2C%20%22QA%20and%20RainForest%22%2C%20%22Front-End%20Guild%22%29%0Aand%20status%20in%20%28Released%2C%20%22Done%20without%20work%22%2C%20Closed%2C%20Done%2C%20%22Ready%20for%20Release%22%2C%20%22Release%20Test%20Complete%22%2C%20%22Functional%20Test%20Complete%22%29%0Aand%20assignee%20IN%20%28638f71df489de2f7f467b037%29%0Aand%20type%20in%20%28Bug-task%2C%20Bug%29%0AORDER%20BY%20created%20DESC) |
+| Pull Requests Completed | 235 |  |
+| Commits Made | 1,660 |  |
+| Files Added | 6,090 |  |
+| Files Edited | 14,032 |  |
+| Files Deleted | 1,998 |  |
 
-Last Updated: _September 21st, 2023_
+Last Updated: _September 28th, 2023_
 
 ## Documentation Contributions
 - Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme) for creating a Control Assessment theme.
