@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/29/23
+- Have most of 1934 working so today will be updating the perform review page to use the new display types then a lot of testing
+
 ### 9/28/23
-- PR is up for that this morning
-- Going to start on 1934 - display types for each row
+- Finished 1949 with collapsible settings in template builder and order information for perform review - ready for testing
+- Spent rest of the day working on 1934 - adding the new display type dropdowns
 
 ### 9/27/23
 - Worked on 1949 - collapsible settings section for template builder and order information for perform review pages
