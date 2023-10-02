@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/2/23
+- 1934 is now ready for testing
+- Will start on 1930 - error indicators at the section header in Perform Review
+- Then will start on prototyping frameworks table - 1960
+
 ### 9/29/23
-- Have most of 1934 working so today will be updating the perform review page to use the new display types then a lot of testing
+- Continued working on 1934 - display type on each row
 
 ### 9/28/23
 - Finished 1949 with collapsible settings in template builder and order information for perform review - ready for testing
