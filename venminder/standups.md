@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/3/23
+- Will get started on 1959 and prototyping the control dialog changes
+
 ### 10/2/23
-- 1934 is now ready for testing
-- Will start on 1930 - error indicators at the section header in Perform Review
-- Then will start on prototyping frameworks table - 1960
+- Added error indicators to the template section headers - 1930 - PR ready for review
+- Started working on 1960 and prototyping the frameworks tab - would like to demo in 15th minute
+- Also looked into the P1 bug some
 
 ### 9/29/23
 - Continued working on 1934 - display type on each row
