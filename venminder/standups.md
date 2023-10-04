@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/4/23
+- Today is my last day until next Monday so I'm trying to work on a few minor changes for 1959 and 1960
+
 ### 10/3/23
-- Will get started on 1959 and prototyping the control dialog changes
+- Worked on a prototype for 1959 with the frameworks dropdown in the add control dialog
+- Then worked with David on the overall rating bug - 1985
 
 ### 10/2/23
 - Added error indicators to the template section headers - 1930 - PR ready for review
