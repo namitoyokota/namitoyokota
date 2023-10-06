@@ -28,7 +28,7 @@ I write clean and efficient code with a smile.
 
 ## Education
 
-[Bachelors of Science](<(./degree/degree.md)>) in **Computer Science** with _Mathematics_ minor from the <mark>University of Alabama</mark>.
+[Bachelors of Science](./degree/degree.md) in **Computer Science** with _Mathematics_ minor from the <mark>University of Alabama</mark>.
 
 Personal [online learning](./others/learning/curriculumn.md) for learning all things web, user experience, business, and leadership.
 
