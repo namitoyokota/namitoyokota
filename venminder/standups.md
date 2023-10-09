@@ -2,8 +2,18 @@
 
 > December 5th, 2022 - Present
 
+### 10/9/23
+- Have been catching up on everything
+- Will get back on 1960 since David is done with the backend
+
+### 10/6/23
+PTO
+
+### 10/5/23
+PTO
+
 ### 10/4/23
-- Today is my last day until next Monday so I'm trying to work on a few minor changes for 1959 and 1960
+- Wrapped up the initial frontend changes for 1959 and 1960
 
 ### 10/3/23
 - Worked on a prototype for 1959 with the frameworks dropdown in the add control dialog
