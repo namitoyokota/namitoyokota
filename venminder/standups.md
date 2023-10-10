@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/10/23
+- Wrapped that up this morning
+- Start on 1959 once the PR for 1960 goes through
+
 ### 10/9/23
-- Have been catching up on everything
-- Will get back on 1960 since David is done with the backend
+- Worked on 1960 all day
 
 ### 10/6/23
 PTO
