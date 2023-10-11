@@ -2,12 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/11/23
+- Going back to 1959 and hope to get a PR up today
+
 ### 10/10/23
-- Wrapped that up this morning
-- Start on 1959 once the PR for 1960 goes through
+- Started on a piece for 1643 with the readonly perform review page - PR up
 
 ### 10/9/23
-- Worked on 1960 all day
+- Worked on 1960 all day and finished that
 
 ### 10/6/23
 PTO
