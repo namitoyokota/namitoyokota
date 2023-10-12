@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/12/23
+- Starting on UI for 1643 - let's discuss after standup
+
 ### 10/11/23
-- Going back to 1959 and hope to get a PR up today
+- Worked on 1959 - PR ready
+- Then worked on 1970 - adding drag and drop support to theme upload - PR up
 
 ### 10/10/23
 - Started on a piece for 1643 with the readonly perform review page - PR up
