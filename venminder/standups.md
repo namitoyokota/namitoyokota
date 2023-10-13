@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/13/23
+- I'm working on group testing feedbacks related to frameworks - 2009
+- Then will get started on a new spike story for theme builder - 2010
+
 ### 10/12/23
-- Starting on UI for 1643 - let's discuss after standup
+- Worked on the UI for 1643
+- Had a meeting to discuss the JavaScript library for theme builder idea
+- Then worked on a tech debt item 1969 for improving the animation when you click N/P checkbox for FHA sections
 
 ### 10/11/23
 - Worked on 1959 - PR ready
