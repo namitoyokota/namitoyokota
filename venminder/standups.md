@@ -9,7 +9,7 @@
 ### 10/13/23
 - Worked on group testing feedbacks - 2009
 - Then started working on the spike story for the theme builder - 2010
-- Spent most of the day staring at the Figma design for the deliverable and research drag and drop libraries
+- Spent most of the day staring at the Figma design for the deliverable and researching drag and drop libraries
 
 ### 10/12/23
 - Worked on the UI for 1643
