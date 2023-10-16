@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/14/23
+- Turns out the theme builder is harder than I initially thought
+- So trying to test a few ideas today
+
 ### 10/13/23
-- I'm working on group testing feedbacks related to frameworks - 2009
-- Then will get started on a new spike story for theme builder - 2010
+- Worked on group testing feedbacks - 2009
+- Then started working on the spike story for the theme builder - 2010
+- Spent most of the day staring at the Figma design for the deliverable and research drag and drop libraries
 
 ### 10/12/23
 - Worked on the UI for 1643
