@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/17/23
+- I want to try one more idea today
+- Have a lot of meetings
+
 ### 10/16/23
-- Turns out the theme builder is harder than I initially thought
-- So trying to test a few ideas today
+- Started prototyping a few ideas for the theme builder - 2010
+- None of them was a good enough solution so started writing down my findings so far
 
 ### 10/13/23
 - Worked on group testing feedbacks - 2009
