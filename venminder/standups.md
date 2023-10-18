@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/18/23
+- Picking up the 2bugs Greg found on vm-grid
+- Will pick up from demo feedback or tech debt afterwards
+
 ### 10/17/23
-- I want to try one more idea today
-- Have a lot of meetings
+- Was mostly in meetings
+- Investigated a bit more for the theme builder - 2010
+- Have a meeting set tomorrow to discuss my findings
 
 ### 10/16/23
 - Started prototyping a few ideas for the theme builder - 2010
