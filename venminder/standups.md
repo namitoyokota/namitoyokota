@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/19/23
+- Going back to the vm-grid issue again hoping to resolve that soon - 2035
+- Look into 2053 with Patrick - feature flag management page
+
 ### 10/18/23
-- Picking up the 2bugs Greg found on vm-grid
-- Will pick up from demo feedback or tech debt afterwards
+- Lookged into the vm-grid bugs in the morning, discussed with Hunter - 2035
+- Then switched gears to some of the merge engine bugs Jess found - 2049
 
 ### 10/17/23
 - Was mostly in meetings
