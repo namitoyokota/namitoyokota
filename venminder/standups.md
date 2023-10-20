@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/20/23
+- First part of the fix is in vm-library - PR up
+- Wrapping up the 2nd fix in Control Assessments this morning
+- Will brainstorm some ideas for the feature flag management page - 2053
+
 ### 10/19/23
-- Going back to the vm-grid issue again hoping to resolve that soon - 2035
-- Look into 2053 with Patrick - feature flag management page
+- Looked into the vm-grid bug (2035) - took me all day but finally found issues
 
 ### 10/18/23
 - Lookged into the vm-grid bugs in the morning, discussed with Hunter - 2035
