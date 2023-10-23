@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/23/23
+- Looked into some of the easy demo feedback stories
+- Will get started on sprint work
+
 ### 10/20/23
-- First part of the fix is in vm-library - PR up
-- Wrapping up the 2nd fix in Control Assessments this morning
-- Will brainstorm some ideas for the feature flag management page - 2053
+- Fixed the vm-grid issues
+- Started prototyping the feature flag management page - 2053
 
 ### 10/19/23
 - Looked into the vm-grid bug (2035) - took me all day but finally found issues
