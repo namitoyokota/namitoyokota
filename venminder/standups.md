@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/25/23
+- Attempting to fix my local DCDev again - off to not so great start
+
 ### 10/24/23
-- Template builder should be done for 2037 so will be working on Perform Review page
+- Finished up the frontend changes for 2037
 
 ### 10/23/23
 - Looked into some of the easy demo feedback stories
