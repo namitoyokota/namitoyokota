@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/26/23
+- Looking into the frontend work for 2050 in modify ela page - hoping to finish that today 
+
 ### 10/25/23
-- Attempting to fix my local DCDev again - off to not so great start
+- Worked on my broken DCDev - with help from Carol and Sean, got it working finally
 
 ### 10/24/23
 - Finished up the frontend changes for 2037
