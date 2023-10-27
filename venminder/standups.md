@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/27/23
+- I'm looking into a few bugs I found from yesterday - 2100 and 2096
+- Afterwards, I'm planning on getting started with the frontend for 1947
+
 ### 10/26/23
-- Looking into the frontend work for 2050 in modify ela page - hoping to finish that today 
+- Finished the first pass to 2050 frontend change - will have to connect logic after Carol's changes
 
 ### 10/25/23
 - Worked on my broken DCDev - with help from Carol and Sean, got it working finally
