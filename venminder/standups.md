@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/30/23
+- Starting on 1947 and hoping to finish that today
+
 ### 10/27/23
-- I'm looking into a few bugs I found from yesterday - 2100 and 2096
-- Afterwards, I'm planning on getting started with the frontend for 1947
+- Looked into bugs found from the group testing on Thursday - 2096, 2100, 2101
+- Also worked with David on the min max settings for Chart.js - 2097
 
 ### 10/26/23
 - Finished the first pass to 2050 frontend change - will have to connect logic after Carol's changes
