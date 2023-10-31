@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/31/23
+- Going back to working on 2050 wih Carol
+
 ### 10/30/23
-- Starting on 1947 and hoping to finish that today
+- Worked on the frontend for 1947
+- Also had the meeting to investigate the 2114 bug
 
 ### 10/27/23
 - Looked into bugs found from the group testing on Thursday - 2096, 2100, 2101
