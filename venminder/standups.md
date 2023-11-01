@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/1/23
+- Going back to 2050 with a last bit of fronend change
+- Will start working on 2051 for saving evidence inputs
+
 ### 10/31/23
-- Going back to working on 2050 wih Carol
+- Mostly meetings
+- Worked on 2008 for adding the frameworks filter in the add control dialog
 
 ### 10/30/23
 - Worked on the frontend for 1947
