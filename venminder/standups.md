@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/2/23
+- Testing now so should have a PR up in a little bit
+- Start looking into 2038 - allowing constants within the formula builder
+- Will be off on PTO tomorrow
+
 ### 11/1/23
-- Going back to 2050 with a last bit of fronend change
-- Will start working on 2051 for saving evidence inputs
+- Finished the frontend for 2050
+- Then started working on 2051 for saving evidence inputs and the new table
 
 ### 10/31/23
 - Mostly meetings
