@@ -2,10 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 11/6/23
+- Will have the PR for constant variables in a bit
+- Have an improvement to make for 2051 suggested by Patrick
+- Will get started on the rich text editor spike - 2026
+
+### 11/3/23
+PTO
+
 ### 11/2/23
-- Testing now so should have a PR up in a little bit
-- Start looking into 2038 - allowing constants within the formula builder
-- Will be off on PTO tomorrow
+- Updated vm-library change for the vm-grid fix with the queries bleeding over
+- Started looking into 2038 for allowing constants within the formula builder
 
 ### 11/1/23
 - Finished the frontend for 2050
