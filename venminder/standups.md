@@ -3,7 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 11/7/23
-- Hoping to take on the integration group testing story since we found a few minor bugs - 2120
+- Taking the integration group testing story since we found a few minor bugs - 2120
 
 ### 11/6/23
 - Added a fix to 2051 in the morning
