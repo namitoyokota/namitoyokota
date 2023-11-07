@@ -2,10 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 11/7/23
+- Hoping to take on the integration group testing story since we found a few minor bugs - 2120
+
 ### 11/6/23
-- Will have the PR for constant variables in a bit
-- Have an improvement to make for 2051 suggested by Patrick
-- Will get started on the rich text editor spike - 2026
+- Added a fix to 2051 in the morning
+- Then worked on research JavaScript libraries and brainstorming for 2026
+  - After the meeting, Brian Adams recommended that I look into markdown editors
+  - Found a great solution called Editor.js with built in sanitization
+  - Should work in the same approach we discussed during the meeting
+  - Notes are in the story comments
 
 ### 11/3/23
 PTO
