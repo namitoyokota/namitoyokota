@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/8/23
+- Found the issue with the login but not sure the best approach
+- Have an idea so will be trying that today
+
 ### 11/7/23
-- Taking the integration group testing story since we found a few minor bugs - 2120
+- Mostly meetings
+- Worked on the group testing feddbacks story - 2120
 
 ### 11/6/23
 - Added a fix to 2051 in the morning
