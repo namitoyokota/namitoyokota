@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/9/23
+- Going back to 2053 to work on the feature flag management page with Patrick
+
 ### 11/8/23
-- Found the issue with the login but not sure the best approach
-- Have an idea so will be trying that today
+- Worked on the login issue most of the day - found that it was a timing issue with the auth check and the router
+- Made the router synchronous
 
 ### 11/7/23
 - Mostly meetings
