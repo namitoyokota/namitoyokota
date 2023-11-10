@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/10/23
+- Have one minor change I'm pushing up in a minute
+- Will look into the bug tickets Jess created
+
 ### 11/9/23
-- Going back to 2053 to work on the feature flag management page with Patrick
+- Worked on the feature management story with Patrick - 2053
 
 ### 11/8/23
 - Worked on the login issue most of the day - found that it was a timing issue with the auth check and the router
