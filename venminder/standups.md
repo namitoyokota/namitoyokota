@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/13/23
+- Will get started on the rich text editor - 2129
+
 ### 11/10/23
-- Have one minor change I'm pushing up in a minute
-- Will look into the bug tickets Jess created
+- Finished frontend for 2053 - PR is ready
+- Looked into the bug Jess created (2130) and also a very minor demo feedback (2103)
 
 ### 11/9/23
 - Worked on the feature management story with Patrick - 2053
