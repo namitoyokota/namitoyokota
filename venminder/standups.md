@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/14/23
+- Created a PR for 2038 bug that Jess added
+- Have 2 retirement meetings I want to attend on top of the meetings we already have
+- Will work on the other feedback from Jess as I find time
+
 ### 11/13/23
-- Will get started on the rich text editor - 2129
+- Started reading the documentation for ProseMirror (rich text editor)
+- Created a PR for 2136 with David's changes ready
 
 ### 11/10/23
 - Finished frontend for 2053 - PR is ready
