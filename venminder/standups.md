@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/16/23
+- I'm working on 2162 per Jess' request to allow empty cell as warning instead of errors
+- Should be able to PR before the end of the day but will take my time
+
 ### 11/15/23
-- Investigating few issues that Jess found with 2120
-- Will go back to 2129 for more rich text editor
+- Worked on bug fixes most of the day - 2120 & 2053
+- Then discussed with Jess on a few things he wanted released - one being 2136
 
 ### 11/14/23
 - Fixed a bug for 2038
