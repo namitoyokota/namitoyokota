@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/17/23
+- Have a lot of bugs to get through from yesterday so trying to finish that
+- Then take on the merge engine bug with the N/P sections and rows
+- Will be off @ 2pm central today
+
 ### 11/16/23
-- I'm working on 2162 per Jess' request to allow empty cell as warning instead of errors
-- Should be able to PR before the end of the day but will take my time
+- Worked on 2162 to allow empty cells to pass as warnings
+- Ended up finding an issue that was caused from the number to string change - getting help from Carol
 
 ### 11/15/23
 - Worked on bug fixes most of the day - 2120 & 2053
