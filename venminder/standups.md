@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/20/23
+- Working on the merge engine bug now - 2164 should have PR up in a sec
+- Will start working on the UI for 2126 and hope to finish that today
+
 ### 11/17/23
-- Have a lot of bugs to get through from yesterday so trying to finish that
-- Then take on the merge engine bug with the N/P sections and rows
-- Will be off @ 2pm central today
+- Worked on bugs all day
+- 2162 is also ready for PR with help from Carol
 
 ### 11/16/23
 - Worked on 2162 to allow empty cells to pass as warnings
