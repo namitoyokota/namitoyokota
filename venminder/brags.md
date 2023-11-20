@@ -17,7 +17,7 @@
 | Statistic         | Count | Reference |
 | ----------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Stories Completed | 93 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1548?jql=project%20IN%20(%22PHX%22%2C%22QA%20and%20RainForest%22%2C%22Front-End%20Guild%22)%20AND%20status%20IN%20(Released%2C%22Done%20without%20work%22%2CClosed%2CDone%2C%22Functional%20Test%20Complete%22%2C%22Ready%20for%20Release%22%2C%22Release%20Test%20Complete%22)%20AND%20assignee%20IN%20(638f71df489de2f7f467b037)%20AND%20type%20%3D%20Story%20ORDER%20BY%20created%20DESC) |
-| Bugs Fixed  | 93 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1589?jql=project%20IN%20%28%22PHX%22%2C%20%22QA%20and%20RainForest%22%2C%20%22Front-End%20Guild%22%29%0Aand%20status%20in%20%28Released%2C%20%22Done%20without%20work%22%2C%20Closed%2C%20Done%2C%20%22Ready%20for%20Release%22%2C%20%22Release%20Test%20Complete%22%2C%20%22Functional%20Test%20Complete%22%29%0Aand%20assignee%20IN%20%28638f71df489de2f7f467b037%29%0Aand%20type%20in%20%28Bug-task%2C%20Bug%29%0AORDER%20BY%20created%20DESC) |
+| Bugs Fixed  | 96 | [Jira Board](https://venminder.atlassian.net/jira/software/c/projects/PHX/issues/PHX-1589?jql=project%20IN%20%28%22PHX%22%2C%20%22QA%20and%20RainForest%22%2C%20%22Front-End%20Guild%22%29%0Aand%20status%20in%20%28Released%2C%20%22Done%20without%20work%22%2C%20Closed%2C%20Done%2C%20%22Ready%20for%20Release%22%2C%20%22Release%20Test%20Complete%22%2C%20%22Functional%20Test%20Complete%22%29%0Aand%20assignee%20IN%20%28638f71df489de2f7f467b037%29%0Aand%20type%20in%20%28Bug-task%2C%20Bug%29%0AORDER%20BY%20created%20DESC) |
 | Pull Requests Completed | 265 |  |
 | Commits Made | 1,878 |  |
 
@@ -38,6 +38,7 @@ Last Updated: _November 17th, 2023_
 - Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
 - Started and lead group testing meetings with meeting notes to minimize bugs.
 - Scheduled to demo completed items to the stakeholders in the sprint demo meeting.
+- Discuss new technologies, implementation ideas, and sharing of knowlegde with the frontend guild.
 - Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
 - Frontend development/bug fixes.
 - Backend bug fixes.
