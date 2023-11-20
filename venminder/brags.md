@@ -30,31 +30,42 @@ Last Updated: _November 17th, 2023_
 - Contributed to [interview question bank](https://venminder-my.sharepoint.com/:w:/p/hunter_simpson/EZKXkv04UGZEn4nC0KORcjMB4vel_OEuKeQEJXyg7vpXww?e=QWjp9w&ovuser=c0ee997f-51ac-4ae6-bb27-9839814edd37%2CNamito.Yokota%40venminder.com&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzMzMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D) used for new frontend hires.
 
 ## Mentorship Contributions
-- Held a [lunch & learn meeting](https://venminder-my.sharepoint.com/:v:/p/david_williams/ERhuoiK7_z1Nsc68x6DAkjUBHDKNYR4zrMzSxqOt-pK_OQ) explaining and teach CSS [Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox) and [Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid) with [demo website](https://demo.namito.wiki/).
 - Trained and mentored Jim Stopinski on developing Control Assessment themes.
 - Assisted full-stack developers within Team Phoenix contribute to frontend stories.
+- Held a [lunch & learn meeting](https://venminder-my.sharepoint.com/:v:/p/david_williams/ERhuoiK7_z1Nsc68x6DAkjUBHDKNYR4zrMzSxqOt-pK_OQ) explaining and teach CSS [Flexbox](https://blogs.namito.wiki/beginners-guide-to-css-flexbox) and [Grid](https://blogs.namito.wiki/beginners-guide-to-css-grid) with [demo website](https://demo.namito.wiki/).
 
 ## Team Contributions
 - Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
 - Started and lead group testing meetings with meeting notes to minimize bugs.
+- Scheduled to demo completed items to the stakeholders in the sprint demo meeting.
 - Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
 
 ## Development Contributions
 ### Features
-- Created a [dynamic calculation modal](https://venminder.atlassian.net/browse/PHX-1067) for Financial Health Tables. [Monothly Development Meeting Demo Recording](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw).
-- Added [drag and drop](https://venminder.atlassian.net/browse/PHX-1176) reordering capability to controls within a template.
-- Implemented auto calculation functionality of section ratings.
+- Created a [dynamic calculation modal](https://venminder.atlassian.net/browse/PHX-1067) - [monthly development meeting demo](https://venminder-my.sharepoint.com/:v:/p/brad_farber/ET71Hvr-pcBCiR-k8ZPaa9YBU6GXdomvLoIgMIv96HvkAw).
+- Added [drag and drop reordering](https://venminder.atlassian.net/browse/PHX-1176) to template builder.
+- Proposed and added [drag and drop theme upload](https://venminder.atlassian.net/browse/PHX-1970) feature.
+- Proposed and added [expand/minimize](https://venminder.atlassian.net/browse/PHX-1889) feature to template builder.
 - Contributed to exporting the assessment as a [PDF using CLAK](https://venminder.atlassian.net/browse/PHX-899).
-- Implemented a [loading and waiting](https://venminder.atlassian.net/browse/PHX-1584) system to provide more user feedback.
-- Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) shared component alongside its parent CSS class [`vm-radio-group`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10562) within the `vm-library` package to be consumed by Venminder's frontend projects.
+- Implemented [loading and waiting](https://venminder.atlassian.net/browse/PHX-1584) feedback.
+- Created a [`vm-radio`](https://venminder.visualstudio.com/vm-library/_git/vm-library/pullrequest/10382) within the `vm-library` package.
+- Added [Chart.js library](https://venminder.atlassian.net/browse/PHX-1594).
+- Currently working on adding a [rich text editor](https://venminder.atlassian.net/browse/PHX-2129).
+- Created a new FHA page for template builder and perform review.
+- Created a new view assessment page.
+- Created a new feature flag management page.
+- Created a new frameworks page.
+- Implemented readonly view to template builder and perform review pages.
 
 ### Improvements
-- Implemented a caching system for the frontend to avoid duplicate API calls: [store service](https://venminder.atlassian.net/browse/PHX-902).
-- Wrote an abstract [autosave service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8434?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/template-autosave-service.ts) that implements a debounce workflow to prevent excessive API calls. This service can be inherited and used for any API endpoints.
-- Created a [wrapper service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8105?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/event-service.ts) for interacting with Aurelia's event aggregator. This minimizes the risk of developers mistyping the event names and also makes it easier to track which event names are being used where.
-- Added a [navigation service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8052) to minimizing the hardcoded route paths.
+- Implemented a [frontend caching system](https://venminder.atlassian.net/browse/PHX-902).
+- Implemented an [autosave service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8434?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/template-autosave-service.ts).
+- Created an [event service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8105?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/event-service.ts).
+- Added a [navigation service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8052).
+- Added sanitiziation to all user inputs.
 
 ### Clean Code
+- Created a [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) to the Control Assessments Aurelia project. 
 - [Refactored the entire Aurelia project](https://venminder.atlassian.net/browse/PHX-900) to follow Frontend Guild and Control Assessment specific standards.
 - Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
   
