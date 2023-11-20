@@ -39,6 +39,8 @@ Last Updated: _November 17th, 2023_
 - Started and lead group testing meetings with meeting notes to minimize bugs.
 - Scheduled to demo completed items to the stakeholders in the sprint demo meeting.
 - Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
+- Frontend development/bug fixes.
+- Backend bug fixes.
 
 ## Development Contributions
 ### Features
