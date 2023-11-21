@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/21/23
+- Going back to 2129 - will have to do some research into security vulnerabilities with using Markdown and HTML
+
 ### 11/20/23
-- Working on the merge engine bug now - 2164 should have PR up in a sec
-- Will start working on the UI for 2126 and hope to finish that today
+- Worked on bugs in the morning
+- Then working on the frontend for 2126
 
 ### 11/17/23
 - Worked on bugs all day
