@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 11/22/23
+- Came up with a list of solutions in desired order: [document](https://www.notion.so/namito/How-to-implement-a-secure-rich-text-editor-ff5dcc26f1f64ac682fb41aef575677a)
+
 ### 11/21/23
-- Going back to 2129 - will have to do some research into security vulnerabilities with using Markdown and HTML
+- Started back on 2129 and reading more documentation for ProseMirror and security concerns
 
 ### 11/20/23
 - Worked on bugs in the morning
