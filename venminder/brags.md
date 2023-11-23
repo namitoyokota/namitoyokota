@@ -40,6 +40,7 @@ Last Updated: _November 17th, 2023_
 - Scheduled to demo completed items to the stakeholders in the sprint demo meeting.
 - Discuss new technologies, implementation ideas, and sharing of knowlegde with the frontend guild.
 - Collect meeting highlights from Frontend Guild meeting and pass it on to Phoenix.
+- Manage the demo feedback board
 - Frontend development/bug fixes.
 - Backend bug fixes.
 
