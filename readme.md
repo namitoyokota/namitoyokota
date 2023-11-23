@@ -22,6 +22,12 @@ I write clean and efficient code with a smile.
 -   [Brag Documents](./hexagon/brags.md), [Standups](./hexagon/standups.md)
 -   [Job Description](./hexagon/job-description.md)
 
+**Freelance Developer** working with personal connections to work on passionate projects.
+
+- [Gun Fun Targets Inc.](https://gunfun.com/)
+- [Choose Cade](https://choosecade.com/)
+- JDM Metal Trading LLC
+
 **Full-Stack WordPress Development Intern** at <mark>Trips4Trade</mark> responsible for improving the UI and managing databases from _September 2019 to January 2020_.
 
 **Frontend Web Development Intern** at <mark>threeDays</mark> responsible for learning the fundamentals of HTML, CSS, and Bootstrap from _February 2017 to April 2017_.
@@ -34,9 +40,14 @@ Personal [online learning](./others/learning/curriculumn.md) for learning all th
 
 ## Projects
 
-I've created an Angular [component library](https://www.npmjs.com/package/@namitoyokota/ng-components), a [second brain](https://search.namito.wiki/) for easily accessing data, an online [portfolio](https://www.namito.wiki/), and technical [blogs](https://blogs.namito.wiki). More to be found on [my github page](https://github.com/namitoyokota).
-
-Useful notes: [photography](https://photos.namito.wiki), [books](./others/books/books.md), [project ideas](./ideas/projects.md), [project wishlist](./ideas/wishlist.md), and [3D prints](./ideas/3d-printing.md).
+- [Portfolio](https://www.namitoyokota.com)
+- [Photography Portfolio](https://photos.namitoyokota.com)
+- [Angular Component Library](https://www.npmjs.com/package/@namitoyokota/ng-components)
+- [TypeScript Service Library](https://www.npmjs.com/package/@namitoyokota/ng-services)
+- [Steeeve](https://steeeve.vercel.app/)
+- [Personal Search Engine](https://search.namito.wiki/)
+- [Keep In Touch](https://www.keepintouch.cc)
+- [Jeep](https://jeep.namito.wiki/)
 
 <hr />
 
