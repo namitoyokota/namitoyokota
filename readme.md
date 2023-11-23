@@ -24,9 +24,9 @@ I write clean and efficient code with a smile.
 
 **Freelance Developer** working with personal connections to work on passionate projects.
 
-- [Gun Fun Targets Inc.](https://gunfun.com/)
-- [Choose Cade](https://choosecade.com/)
-- JDM Metal Trading LLC
+-   [Gun Fun Targets Inc.](https://gunfun.com/)
+-   [Choose Cade](https://choosecade.com/)
+-   JDM Metal Trading LLC
 
 **Full-Stack WordPress Development Intern** at <mark>Trips4Trade</mark> responsible for improving the UI and managing databases from _September 2019 to January 2020_.
 
@@ -36,18 +36,16 @@ I write clean and efficient code with a smile.
 
 [Bachelors of Science](./degree/degree.md) in **Computer Science** with _Mathematics_ minor from the <mark>University of Alabama</mark>.
 
-Personal [online learning](./others/learning/curriculumn.md) for learning all things web, user experience, business, and leadership.
-
 ## Projects
 
-- [Portfolio](https://www.namitoyokota.com)
-- [Photography Portfolio](https://photos.namitoyokota.com)
-- [Angular Component Library](https://www.npmjs.com/package/@namitoyokota/ng-components)
-- [TypeScript Service Library](https://www.npmjs.com/package/@namitoyokota/ng-services)
-- [Steeeve](https://steeeve.vercel.app/)
-- [Personal Search Engine](https://search.namito.wiki/)
-- [Keep In Touch](https://www.keepintouch.cc)
-- [Jeep](https://jeep.namito.wiki/)
+-   [Portfolio](https://www.namitoyokota.com)
+-   [Photography Portfolio](https://photos.namitoyokota.com)
+-   [Angular Component Library](https://www.npmjs.com/package/@namitoyokota/ng-components)
+-   [TypeScript Service Library](https://www.npmjs.com/package/@namitoyokota/ng-services)
+-   [Steeeve](https://steeeve.vercel.app/)
+-   [Personal Search Engine](https://search.namito.wiki/)
+-   [Keep In Touch](https://www.keepintouch.cc)
+-   [Jeep](https://jeep.namito.wiki/)
 
 <hr />
 
