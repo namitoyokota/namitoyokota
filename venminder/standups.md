@@ -2,11 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 11/27/23
+- Will be more learning the API - trial and error for 2129
+
 ### 11/22/23
-- Came up with a list of solutions in desired order: [document](https://www.notion.so/namito/How-to-implement-a-secure-rich-text-editor-ff5dcc26f1f64ac682fb41aef575677a)
+- Started working on a markdown editor with ProseMirror
+- Got the basics to work with saving and parsing the markdown correctly
+- Then got stuck on editing the configurations for the toolbar
 
 ### 11/21/23
 - Started back on 2129 and reading more documentation for ProseMirror and security concerns
+- Came up with a list of solutions in desired order: [document](https://www.notion.so/namito/How-to-implement-a-secure-rich-text-editor-ff5dcc26f1f64ac682fb41aef575677a)
 
 ### 11/20/23
 - Worked on bugs in the morning
