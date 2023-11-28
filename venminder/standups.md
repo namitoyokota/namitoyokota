@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/28/23
+- Will work on updating the merge engine
+- And refactoring the existing textareas into the new editor
+
 ### 11/27/23
-- Will be more learning the API - trial and error for 2129
+- Spent an hour investigating the toolbar configuration but got stuck
+- So moved on to styling the editor component with the toolbar
+- And also started researching the best way to parse the markdown from the merge engine
 
 ### 11/22/23
 - Started working on a markdown editor with ProseMirror
