@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/29/23
+- Applying the editor to all textreas mentioned in the requirements and updating the merge engine
+
 ### 11/28/23
-- Will work on updating the merge engine
-- And refactoring the existing textareas into the new editor
+- Continued on 2129
+- Merge engine now works with the new markdown parsing library added
 
 ### 11/27/23
 - Spent an hour investigating the toolbar configuration but got stuck
