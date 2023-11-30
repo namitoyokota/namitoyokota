@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/30/23
+- Can demo the rich text editor in the 16th minute along with the implementation
+- Will work on testing and hardening before pushing the change
+
 ### 11/29/23
-- Applying the editor to all textreas mentioned in the requirements and updating the merge engine
+- Continued working on 2129
+- Had a big break through to allow bi-directional content change
 
 ### 11/28/23
 - Continued on 2129
