@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 12/1/23
+- Still have a lot more to address today so will continue on that work
+
 ### 11/30/23
-- Can demo the rich text editor in the 16th minute along with the implementation
-- Will work on testing and hardening before pushing the change
+- Continued testing the rich text editor and fixed bugs as I found them
 
 ### 11/29/23
 - Continued working on 2129
