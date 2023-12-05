@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 12/5/23
+- Working on fixing the unit tests for 2129 PR
+- Will get a list of improvement ideas to Jess
+
+### 12/4/23
+- Sick Day
+
 ### 12/1/23
-- Still have a lot more to address today so will continue on that work
+- Continued working on the rich text editor and got the PR up finally
 
 ### 11/30/23
 - Continued testing the rich text editor and fixed bugs as I found them
