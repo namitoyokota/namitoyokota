@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 12/6/23
+- Spent time time researching plugins to export figma frame into HTML/CSS
+- Have a few that is being widely used but I only have readonly access so I can either send it to you Jess, to Tracy, or just drop it in the story comments
+- Will start working on developing the themes
+
 ### 12/5/23
-- Working on fixing the unit tests for 2129 PR
-- Will get a list of improvement ideas to Jess
+- Wrapped up the 2129 PR so spent some time testing
+- And mentioning few of the ideas mentioned from the initial demo on the story comments
 
 ### 12/4/23
 - Sick Day
