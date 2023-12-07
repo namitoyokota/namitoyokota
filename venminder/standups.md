@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/7/23
+- Spending some time preparing for the demo
+- Will continue working on the theme
+
 ### 12/6/23
-- Spent time time researching plugins to export figma frame into HTML/CSS
-- Have a few that is being widely used but I only have readonly access so I can either send it to you Jess, to Tracy, or just drop it in the story comments
-- Will start working on developing the themes
+- Researched Figma plugins and worked with Jess on a few options
+- Started working on the Vendor Vetting theme
 
 ### 12/5/23
 - Wrapped up the 2129 PR so spent some time testing
