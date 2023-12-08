@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/8/23
+- Will be meeting with Jess to review the theme
+- Will continue working on the finishing that up
+- I also created a new subtask for the rich text editor story with improvements so I will have to go back sometime
+
 ### 12/7/23
-- Spending some time preparing for the demo
-- Will continue working on the theme
+- Continued working on the theme - got most of the Vendor Vetting done
 
 ### 12/6/23
 - Researched Figma plugins and worked with Jess on a few options
