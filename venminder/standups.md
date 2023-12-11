@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/11/23
+- Testing now so should have PR ready by noon
+- Will move on to the rich text editor improvements - 2129
+
 ### 12/8/23
-- Will be meeting with Jess to review the theme
-- Will continue working on the finishing that up
-- I also created a new subtask for the rich text editor story with improvements so I will have to go back sometime
+- Wrapped up the vendor vetting theme
+- Started working on the 2207 story for allowing any years between 1 and 5 for FHAs
 
 ### 12/7/23
 - Continued working on the theme - got most of the Vendor Vetting done
