@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/12/23
+- Will have a PR up shortly
+- Then will work on the frontend change Carol needs for 1946
+
 ### 12/11/23
-- Testing now so should have PR ready by noon
-- Will move on to the rich text editor improvements - 2129
+- Got help from Carol on the 500 error for 2207
+- Then started working on the rich text editor improvements
 
 ### 12/8/23
 - Wrapped up the vendor vetting theme
