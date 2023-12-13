@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/13/23
+- Going back to 2137 to start working on the contract compliance theme
+
 ### 12/12/23
-- Will have a PR up shortly
-- Then will work on the frontend change Carol needs for 1946
+- Continued working on the last bit of hardening for 2129 and 2207
+- Also made the enum changes to the frontend of 1946
+- Tried 3 plugins to export themes designs into HTML - results were bad
 
 ### 12/11/23
 - Got help from Carol on the 500 error for 2207
