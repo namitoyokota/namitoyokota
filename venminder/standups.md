@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 12/14/23
+- Will have a staring contest with the excel sheet adding placeholders
+
 ### 12/13/23
-- Going back to 2137 to start working on the contract compliance theme
+- Started working on the contract compliance theme - 2137
 
 ### 12/12/23
 - Continued working on the last bit of hardening for 2129 and 2207
