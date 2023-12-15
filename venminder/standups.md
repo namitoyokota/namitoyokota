@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 12/15/23
+- Will review it with Jess and fix any issues found
+- Will be off at 12pm central
+
 ### 12/14/23
-- Will have a staring contest with the excel sheet adding placeholders
+- Continued working on the contract compliance theme - 2137
 
 ### 12/13/23
 - Started working on the contract compliance theme - 2137
