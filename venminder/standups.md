@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/18/23
+- Will get started on a stack of bugs on the board
+- Work on the theme as feedbacks comes up
+
 ### 12/15/23
-- Will review it with Jess and fix any issues found
-- Will be off at 12pm central
+- Continued working on the contract compliance theme
+- Then met with Jess to review and have questions answered
 
 ### 12/14/23
 - Continued working on the contract compliance theme - 2137
