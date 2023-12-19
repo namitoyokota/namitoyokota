@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 12/19/23
+- Will be more of the same
+
 ### 12/18/23
-- Will get started on a stack of bugs on the board
-- Work on the theme as feedbacks comes up
+- Worked on cleaning up the bug board
 
 ### 12/15/23
 - Continued working on the contract compliance theme
