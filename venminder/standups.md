@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 12/20/23
+- Gonna finish that up and go back to the theme story to help Jess
+
 ### 12/19/23
-- Will be more of the same
+- Continued working on bugs
+- Started working on importing Font Awesome from the self-hosted link
 
 ### 12/18/23
 - Worked on cleaning up the bug board
