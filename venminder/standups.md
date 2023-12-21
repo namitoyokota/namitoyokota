@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/21/23
+- Hoping to finish that up today
+
 ### 12/20/23
-- Gonna finish that up and go back to the theme story to help Jess
+- Finished up updating the font awesome to the self-hosted version - 1972
+- Worked with Jess on wrapping up the contract compliance theme
+- Then started working on a new tech debt story to clean up the styling variables - 967
 
 ### 12/19/23
 - Continued working on bugs
