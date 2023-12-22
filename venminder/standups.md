@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/22/23
+- Fixing the errors now and will fix some of the warnings
+- Then hoping to add the lint step to the PR pipeline
+
 ### 12/21/23
-- Hoping to finish that up today
+- Worked on cleaning up all of the stylesheets to use colors from the variables file
+- Then started working on adding linting support to the frontend codebase
 
 ### 12/20/23
 - Finished up updating the font awesome to the self-hosted version - 1972
