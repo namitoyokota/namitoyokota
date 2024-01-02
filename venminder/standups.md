@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/2/24
+- Will start working on the rich text editor toolbar changes - 2256
+
 ### 12/22/23
-- Fixing the errors now and will fix some of the warnings
-- Then hoping to add the lint step to the PR pipeline
+- Added a new pipeline step to run the lint script - 1974
+- Then fixed the errors and the warnings
 
 ### 12/21/23
 - Worked on cleaning up all of the stylesheets to use colors from the variables file
