@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 1/3/24
+- Switching gears to 2020 and 2023
+- Hoping to finish at least one today
+
 ### 1/2/24
-- Will start working on the rich text editor toolbar changes - 2256
+- Started looking into the rich text editor improvements - 2256
+- Ran into the same issue from when I first researched schemes
+- Had one idea but didn't work so it's going to take a bit to figure it out
 
 ### 12/22/23
 - Added a new pipeline step to run the lint script - 1974
