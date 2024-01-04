@@ -8,7 +8,7 @@
 - Will get started on 2023
 
 ### 1/3/24
-- Worked on 2020 and wrapped that up
+- Worked on 2020 and wrapped that up - PR is ready for review
 
 ### 1/2/24
 - Started looking into the rich text editor improvements - 2256
