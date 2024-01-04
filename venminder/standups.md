@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/4/24
+- Fixed the contract compliance theme so that's in the chat and also in the story attachments
+- Found the issue with 2297 bug with the graph formatting - let's discuss in the 16th minute
+- Will get started on 2023
+
 ### 1/3/24
-- Switching gears to 2020 and 2023
-- Hoping to finish at least one today
+- Worked on 2020 and wrapped that up
 
 ### 1/2/24
 - Started looking into the rich text editor improvements - 2256
