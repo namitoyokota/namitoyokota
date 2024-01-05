@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/5/24
+- Testing 2023 now so should have a PR ready soon
+- Will go back to 2256
+
 ### 1/4/24
-- Fixed the contract compliance theme so that's in the chat and also in the story attachments
-- Found the issue with 2297 bug with the graph formatting - let's discuss in the 16th minute
-- Will get started on 2023
+- Fixed 2297 with the graph formatting issue
+- Then started working on 2023
 
 ### 1/3/24
 - Worked on 2020 and wrapped that up - PR is ready for review
