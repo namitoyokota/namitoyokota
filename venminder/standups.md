@@ -2,9 +2,23 @@
 
 > December 5th, 2022 - Present
 
+### 1/11/24
+- Been catching up on everything
+- Will mostly be in meetings
+- Try to work on 2256
+
+### 1/10/24
+- Sick
+
+### 1/9/24
+- Sick
+
+### 1/8/24
+- Sick
+
 ### 1/5/24
-- Testing 2023 now so should have a PR ready soon
-- Will go back to 2256
+- Wrapped up 2023 with NA and NP checkboxes to Perform Review
+- Then worked on the KnowBe4 trainings
 
 ### 1/4/24
 - Fixed 2297 with the graph formatting issue
