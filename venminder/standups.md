@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/12/24
+- Will be trying to finish that up
+
 ### 1/11/24
-- Been catching up on everything
-- Will mostly be in meetings
-- Try to work on 2256
+- Worked on 2256 in between meetings
+- Had a big break through to figure out what the root cause was
 
 ### 1/10/24
 - Sick
