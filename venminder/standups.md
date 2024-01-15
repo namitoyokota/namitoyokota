@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 1/15/24
+- Will be working on a new SOC theme - 2351
+
 ### 1/12/24
-- Will be trying to finish that up
+- Worked on 2256 with the rich text editor and finally finished that
 
 ### 1/11/24
 - Worked on 2256 in between meetings
