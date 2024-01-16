@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/16/24
+- Have most of it finished - working with Jess
+- Will get started on planning the frontend changes for 2350
+
 ### 1/15/24
-- Will be working on a new SOC theme - 2351
+- Started on the new SOC theme - 2351
 
 ### 1/12/24
 - Worked on 2256 with the rich text editor and finally finished that
