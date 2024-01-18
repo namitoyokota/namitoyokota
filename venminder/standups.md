@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/18/24
+- Will continue working on 2350
+
 ### 1/17/24
-- Will continue working on that - 2350
+- Continued working on 2350
+- Worked with Jess on Lisa's feedbacks with the theme as well
 
 ### 1/16/24
 - Worked on feedbacks from the theme
