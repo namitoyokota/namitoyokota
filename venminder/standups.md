@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/19/24
+- So I will focus today on cleaning up the code and improving performance
+
 ### 1/18/24
-- Will continue working on 2350
+- Continued working on 2350
+- Most of the features should be implemented on the frontend
 
 ### 1/17/24
 - Continued working on 2350
