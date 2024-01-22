@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/22/24
+- Have a few small tasks but should be wrapping up before the end of the day
+- Then will move on to CUEC component for the frontend
+
 ### 1/19/24
-- So I will focus today on cleaning up the code and improving performance
+- Continued working on 2350
 
 ### 1/18/24
 - Continued working on 2350
