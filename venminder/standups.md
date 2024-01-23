@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 1/23/24
+- Working on a few tasks from the grooming board
+- One I added for adding reset styling to the merge engine
+- Other to allow table inputs to be manually edited for calculated values
+
 ### 1/22/24
-- Have a few small tasks but should be wrapping up before the end of the day
-- Then will move on to CUEC component for the frontend
+- Wrapped up the 2350 work for now
+- Then started working on 2371 and 2372 for creating the other soc components
+- Have that completed and pushed to a branch I'll get to after 2350 is complete
 
 ### 1/19/24
 - Continued working on 2350
