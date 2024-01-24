@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/24/24
+- Working on a theme with Jess
+- Then picking up 2346 afterwards
+
 ### 1/23/24
-- Working on a few tasks from the grooming board
-- One I added for adding reset styling to the merge engine
-- Other to allow table inputs to be manually edited for calculated values
+- Added a reset styling to the merge engine
+- Also added support for manually entering calculated inputs - a new calculate button
 
 ### 1/22/24
 - Wrapped up the 2350 work for now
