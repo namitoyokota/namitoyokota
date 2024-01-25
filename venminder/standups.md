@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 1/25/24
+- Start working on the frontend for 2348
+
 ### 1/24/24
-- Working on a theme with Jess
-- Then picking up 2346 afterwards
+- Wrapped up 2347 and 2346
 
 ### 1/23/24
 - Added a reset styling to the merge engine
