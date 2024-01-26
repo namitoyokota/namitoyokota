@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/26/24
+- I found some code to clean up in the narrative dialog so I'll have a separate PR for that this morning
+- I'm also finally back on the T4 improvements to ignore prettier I'm hoping to wrap up today
+
 ### 1/25/24
-- Start working on the frontend for 2348
+- Started working on the frontend for 2348
 
 ### 1/24/24
 - Wrapped up 2347 and 2346
