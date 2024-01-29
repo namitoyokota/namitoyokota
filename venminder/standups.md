@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/29/24
+- Will get started on 2348 with the new model changes from Patrick
+
 ### 1/26/24
-- I found some code to clean up in the narrative dialog so I'll have a separate PR for that this morning
-- I'm also finally back on the T4 improvements to ignore prettier I'm hoping to wrap up today
+- Worked on cleaning up the narrative dialog for 2348
+- Then went back to 914 with the T4 script improvements to ignore prettier
 
 ### 1/25/24
 - Started working on the frontend for 2348
