@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/30/24
+- Have a PR coming up for 2423
+- Will work on 2359 bug in between meetings
+
 ### 1/29/24
-- Will get started on 2348 with the new model changes from Patrick
+- Completed the frontend change for 2348 - just need to test after Patrick's backend changes
+- Worked on the 2423 story with the build not catching TypeScript errors
 
 ### 1/26/24
 - Worked on cleaning up the narrative dialog for 2348
