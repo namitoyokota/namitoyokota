@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 1/31/24
+- Updated the frontend readme document with the latest changes
+- Working on 2374 bug
+- After that, I'm not sure if 2350 is ready for me so may be looking into the test ids story
+
 ### 1/30/24
-- Have a PR coming up for 2423
-- Will work on 2359 bug in between meetings
+- Completed 2423 so going forward, you should be able to catch all type errors when running `au build`
+- Also the PR won't go through with any errors
+- Worked on the 2359 bug where the preview template was making calls to order details when it shouldn't be
 
 ### 1/29/24
 - Completed the frontend change for 2348 - just need to test after Patrick's backend changes
