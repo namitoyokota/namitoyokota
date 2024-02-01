@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/1/24
+- Will be more of 2350
+
 ### 1/31/24
-- Updated the frontend readme document with the latest changes
-- Working on 2374 bug
-- After that, I'm not sure if 2350 is ready for me so may be looking into the test ids story
+- Worked on a few bugs - 2374 and 2368
+- Started working on 2350 with Carol
 
 ### 1/30/24
 - Completed 2423 so going forward, you should be able to catch all type errors when running `au build`
