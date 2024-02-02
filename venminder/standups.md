@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/2/24
+- Fixed a bug this morning Patrick found related to the recent 2359 change
+- Will continue working on 2105 unless something else comes up
+
 ### 2/1/24
-- Will be more of 2350
+- Continued working on improvements for 2350
+- Pulled in 2105 for adding test ids to support PlayWright
 
 ### 1/31/24
 - Worked on a few bugs - 2374 and 2368
