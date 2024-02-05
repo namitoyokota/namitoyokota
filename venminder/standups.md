@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/5/24
+- Wrapping up testing and hardening for 2350 so hoping to get PR up soon
+- Will get the first half of test id story (2105) for PR as well
+
 ### 2/2/24
-- Fixed a bug this morning Patrick found related to the recent 2359 change
-- Will continue working on 2105 unless something else comes up
+- Fixed a bug with the template dropdown caused by the 2359 change
+- Worked on adding the test ids while I had breaks
+- Then spent rest of the day working with Carol on 2350
 
 ### 2/1/24
 - Continued working on improvements for 2350
