@@ -17,9 +17,9 @@
 | Contributed By | Released Stories | Released Bugs | 1 Story Point | 2 Story Points | 3 Story Points | 5 Story Points | 8 Story Points | Pull Requests | Commits |
 | - | - | - | - | - | - | - | - | - | - |
 | Team Phoenix | [300](https://venminder.atlassian.net/browse/PHX-2162?filter=10320) | [262](https://venminder.atlassian.net/browse/PHX-2282?filter=10322) | [7](https://venminder.atlassian.net/browse/PHX-2130?filter=10330) | [45](https://venminder.atlassian.net/browse/PHX-2162?filter=10331) | [92](https://venminder.atlassian.net/browse/PHX-2126?filter=10332) | [35](https://venminder.atlassian.net/browse/PHX-2135?filter=10333) | [10](https://venminder.atlassian.net/browse/PHX-2137?filter=10334) | | |
-| Namito | [97](https://venminder.atlassian.net/browse/PHX-2162?filter=10318) | [94](https://venminder.atlassian.net/browse/PHX-2177?filter=10321) | [5](https://venminder.atlassian.net/browse/PHX-2130?filter=10326) | [24](https://venminder.atlassian.net/browse/PHX-2162?filter=10327) | [20](https://venminder.atlassian.net/browse/PHX-2026?filter=10325) | [5](https://venminder.atlassian.net/browse/PHX-1594?filter=10328) | [1](https://venminder.atlassian.net/browse/PHX-2137?filter=10329) | 285 | 1,878 |
+| Namito | [97](https://venminder.atlassian.net/browse/PHX-2162?filter=10318) | [94](https://venminder.atlassian.net/browse/PHX-2177?filter=10321) | [5](https://venminder.atlassian.net/browse/PHX-2130?filter=10326) | [24](https://venminder.atlassian.net/browse/PHX-2162?filter=10327) | [20](https://venminder.atlassian.net/browse/PHX-2026?filter=10325) | [5](https://venminder.atlassian.net/browse/PHX-1594?filter=10328) | [1](https://venminder.atlassian.net/browse/PHX-2137?filter=10329) | 306 | 2,175 |
 
-Last Updated: _December 29th, 2023_
+Last Updated: _February 5th, 2024_
 
 ## Documentation Contributions
 
