@@ -78,6 +78,7 @@ Last Updated: _December 29th, 2023_
 -   Created a [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) to the Control Assessments Aurelia project.
 -   [Refactored the entire Aurelia project](https://venminder.atlassian.net/browse/PHX-900) to follow Frontend Guild and Control Assessment specific standards.
 -   Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
+-   Updated webpack to catch TypeScript errors when building Aurelia project.
 
 ### Migrations
 
