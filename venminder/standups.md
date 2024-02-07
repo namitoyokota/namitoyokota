@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/7/24
+- Today will likely be the same
+
 ### 2/6/24
-- Will be more of the same trying to wrap up 2350 and 2348
+- Worked on more testing and hardening for 2348 and 2350
 
 ### 2/5/24
 - Worked on 2350 in the morning and found an issue so sent that over to Carol
