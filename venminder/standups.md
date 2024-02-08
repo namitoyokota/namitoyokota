@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/8/24
+- Will be working on completing the 2350 story
+- Then will move on to the other SOC component stories if 2350 goes in
+
 ### 2/7/24
-- Today will likely be the same
+- Worked on more testing and hardening for 2348 and 2350
 
 ### 2/6/24
 - Worked on more testing and hardening for 2348 and 2350
