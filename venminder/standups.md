@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/9/24
+- Going back to the playwright story for themes
+- Right now, just reading documentation and trying to improve the current codebase
+
 ### 2/8/24
-- Will be working on completing the 2350 story
-- Then will move on to the other SOC component stories if 2350 goes in
+- Continued working on 2348 and 2350
+- Have the 2371 story for adding CUEC to template builder ready
 
 ### 2/7/24
 - Worked on more testing and hardening for 2348 and 2350
