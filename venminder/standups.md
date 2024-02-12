@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/12/24
+- Going back to 2371 to add the CUEC subsection to template builder
+- Will work on 2372 - CSOC subsection afterwards
+
 ### 2/9/24
-- Going back to the playwright story for themes
-- Right now, just reading documentation and trying to improve the current codebase
+- Worked on 2449 with the playwright tests for themes
 
 ### 2/8/24
 - Continued working on 2348 and 2350
