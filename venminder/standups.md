@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/13/24
+- Still working through the template builder test ids
+- Hoping to finish that up today
+
 ### 2/12/24
-- Going back to 2371 to add the CUEC subsection to template builder
-- Will work on 2372 - CSOC subsection afterwards
+- Finished 2371 and 2372 for adding the rest of SOC components to template builder
+- Went back to 2473 to add more test ids
 
 ### 2/9/24
 - Worked on 2449 with the playwright tests for themes
