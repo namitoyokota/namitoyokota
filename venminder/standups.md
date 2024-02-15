@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 2/15/24
+- Have just been catching up on messages and PRs
+- Will likely go back to 2473 to work on test ids for the perform review page (past piece)
+
+### 2/14/24
+- PTO
+
 ### 2/13/24
-- Still working through the template builder test ids
-- Hoping to finish that up today
+- Got the test ids added for the template builders
 
 ### 2/12/24
 - Finished 2371 and 2372 for adding the rest of SOC components to template builder
