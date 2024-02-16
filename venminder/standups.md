@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/16/24
+- Going through the model changes and component changes
+
 ### 2/15/24
-- Have just been catching up on messages and PRs
-- Will likely go back to 2473 to work on test ids for the perform review page (past piece)
+- Started working on the frontend for 2473 - adding new data services
 
 ### 2/14/24
 - PTO
