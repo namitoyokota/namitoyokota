@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/17/24
+- Will continue working on that - hoping most will be ready for testing by the end of the day
+
 ### 2/16/24
-- Going through the model changes and component changes
+- Worked on 2353 with the model changes and the new components
 
 ### 2/15/24
 - Started working on the frontend for 2473 - adding new data services
