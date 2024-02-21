@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/21/24
+- Will be continuing on 2353 today
+
 ### 2/20/24
-- Reverting most of the changes and getting back on the drawing board
-- Will probably take until end of the week at least to finish all of the develompent
+- Slowly making progress on 2353 - I think the new structure of components should work
 
 ### 2/19/24
 - Continued working on 2353 - kept finding edge cases not handled in the design
