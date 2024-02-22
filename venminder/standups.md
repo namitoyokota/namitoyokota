@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/22/24
+- Will continue on that
+
 ### 2/21/24
-- Will be continuing on 2353 today
+- Continued working on 2353 in between meetings
 
 ### 2/20/24
 - Slowly making progress on 2353 - I think the new structure of components should work
