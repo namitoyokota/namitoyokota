@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/23/24
+- More 2353
+
 ### 2/22/24
-- Will continue on that
+- More 2353
 
 ### 2/21/24
 - Continued working on 2353 in between meetings
