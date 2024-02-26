@@ -2,6 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 2/26/24
+- 2353 is finally functional
+- Have a lot of minor bugs I need to focus on today
+- Hoping to finish that up so I can spend tomorrow for testing
+
 ### 2/23/24
 - More 2353
 
