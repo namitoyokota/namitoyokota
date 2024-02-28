@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/28/24
+- I have a fix locally to indicate network errors in the dialog
+- Will go back to 2353 to get the PR ready
+- Get started on the HTML files for 2365
+
 ### 2/27/24
-- Will spend every minute I have on testing
+- Spent the day testing and hardening 2353
+- Also looked into the 2521 production bug - should be just a network error by the user
 
 ### 2/26/24
 - Continued working on 2353 and fixed all of the bugs that I was aware of
