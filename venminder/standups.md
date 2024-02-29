@@ -7,6 +7,7 @@
 - Then start working on the other SOC stories
 
 ### 2/28/24
+- Added network error message for the 2521 bug
 - Tested 2353 story
 - Then started working on the SOC HTML files for the merge engine 2365
 
