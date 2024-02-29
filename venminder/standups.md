@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/29/24
+- Hoping to wrap that up today
+- Then start working on the other SOC stories
+
 ### 2/28/24
-- I have a fix locally to indicate network errors in the dialog
-- Will go back to 2353 to get the PR ready
-- Get started on the HTML files for 2365
+- Tested 2353 story
+- Then started working on the SOC HTML files for the merge engine 2365
 
 ### 2/27/24
 - Spent the day testing and hardening 2353
