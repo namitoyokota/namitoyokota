@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/1/24
+- Hoping to finish up 2370 this morning
+- Then will move onto 2369 - adding CUECs
+
 ### 2/29/24
-- Hoping to wrap that up today
-- Then start working on the other SOC stories
+- Wrapped up the HTML files for the merge engine to support SOCs
+- Then started working on adding CSOCs to Perform Review - 2370
 
 ### 2/28/24
 - Added network error message for the 2521 bug
