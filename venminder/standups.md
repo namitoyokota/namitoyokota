@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 3/4/24
+- Planning on taking 2460 next since it should be pretty simple backend change
+- After that, will likely go back to 2473 for adding the test id properties for PlayWright tests
+
 ### 3/1/24
-- Hoping to finish up 2370 this morning
-- Then will move onto 2369 - adding CUECs
+- Wrapped up 2369 and 2370 UI changes - have draft PR to go up after 2353
 
 ### 2/29/24
 - Wrapped up the HTML files for the merge engine to support SOCs
