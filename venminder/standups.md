@@ -6,7 +6,7 @@
 - Will be working on the data refactors today
 
 ### 3/4/24
-- Worked on 2460 - PR is ready for review
+- Worked on 2460 - PR just completed
 - Discussed 2365 with Carol - Found out that I needed to fix a few things for 2370 and 2369
 
 ### 3/1/24
