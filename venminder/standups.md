@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 3/5/24
+- Will be working on the data refactors today
+
 ### 3/4/24
-- Planning on taking 2460 next since it should be pretty simple backend change
-- After that, will likely go back to 2473 for adding the test id properties for PlayWright tests
+- Worked on 2460 - PR is ready for review
+- Discussed 2365 with Carol - Found out that I needed to fix a few things for 2370 and 2369
 
 ### 3/1/24
 - Wrapped up 2369 and 2370 UI changes - have draft PR to go up after 2353
