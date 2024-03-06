@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/6/24
+- I found a bug with the template builder adding SOC components - 2546
+- Then will go back to 2449 for PlayWright tests
+
 ### 3/5/24
-- Will be working on the data refactors today
+- Worked on hardening the 2353 code as things came up
+- Also fixed the data structure for 2369 and 2370 suggested by Carol
 
 ### 3/4/24
 - Worked on 2460 - PR just completed
