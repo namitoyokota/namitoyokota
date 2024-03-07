@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/7/24
+- Will continue on 2353
+- Go back to 2449 for PlayWright tests
+
 ### 3/6/24
-- I found a bug with the template builder adding SOC components - 2546
-- Then will go back to 2449 for PlayWright tests
+- Fixed the template builder bug for SOC context menu - 2546
+- Then fixed code change for 2460 with formatting percentages correctly
+- Also worked on 2353 as things came up
 
 ### 3/5/24
 - Worked on hardening the 2353 code as things came up
