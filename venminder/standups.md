@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/8/24
+- Have the CSOC PR up and ready for review - 2370
+- Will work on getting CUEC afterwards - 2369
+- PlayWright tests as I have free time
+
 ### 3/7/24
-- Will continue on 2353
-- Go back to 2449 for PlayWright tests
+- Helped Zoey with a user session issue in Flex Billing
+- Worked on PlayWright tests as I had time - 2449
 
 ### 3/6/24
 - Fixed the template builder bug for SOC context menu - 2546
