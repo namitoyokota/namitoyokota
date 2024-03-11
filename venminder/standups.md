@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 3/11/24
+- Having one issue with PlayWright tests but if I can't figure it out today I'm going to just push up the PR anyways then handle it later
+
 ### 3/8/24
-- Have the CSOC PR up and ready for review - 2370
-- Will work on getting CUEC afterwards - 2369
-- PlayWright tests as I have free time
+- Got 2369 and 2370 up for review and now on gets
+- Continued working on PlayWright tests - 2449
 
 ### 3/7/24
 - Helped Zoey with a user session issue in Flex Billing
