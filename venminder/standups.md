@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/12/24
+- Hoping to wrap that up today
+
 ### 3/11/24
-- Having one issue with PlayWright tests but if I can't figure it out today I'm going to just push up the PR anyways then handle it later
+- Wrapped up the PlayWright story for themes tab - 2449
+- Still has work to be done which will have to get iterated
+- Went back to 2473 to add test ids to Perform Review page
 
 ### 3/8/24
 - Got 2369 and 2370 up for review and now on gets
