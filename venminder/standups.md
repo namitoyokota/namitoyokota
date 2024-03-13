@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 3/13/24
+- Looking into the integration bug we found yesterday - 2565
+- Then starting the frontend work for 2354 - Downloading CUEC files from View Assessment
+
 ### 3/12/24
-- Hoping to wrap that up today
+- Wrapped up the 2473 story for adding test ids to Perform Review pages
 
 ### 3/11/24
 - Wrapped up the PlayWright story for themes tab - 2449
