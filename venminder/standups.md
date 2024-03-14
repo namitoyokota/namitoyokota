@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/14/24
+- Working on using the shared collapse button for template builder - 2541
+- Will be working on more demo feedback tasks unless something comes up
+
 ### 3/13/24
-- Looking into the integration bug we found yesterday - 2565
-- Then starting the frontend work for 2354 - Downloading CUEC files from View Assessment
+- Fixed the integration bug with the exception subheader - 2565
+- Updated date pickers to allow up to 300 years in the past - 2482
+- Worked on the frontend for 2354 - download CUEC files
 
 ### 3/12/24
 - Wrapped up the 2473 story for adding test ids to Perform Review pages
