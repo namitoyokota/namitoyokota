@@ -16,8 +16,8 @@
 
 | Contributed By | Released Stories | Released Bugs | 1 Story Point | 2 Story Points | 3 Story Points | 5 Story Points | 8 Story Points | Pull Requests | Commits |
 | - | - | - | - | - | - | - | - | - | - |
-| Team Phoenix | [339](https://venminder.atlassian.net/browse/filter=10320) | [316](https://venminder.atlassian.net/browse/filter=10322) | [12](https://venminder.atlassian.net/browse/filter=10330) | [57](https://venminder.atlassian.net/browse/filter=10331) | [106](https://venminder.atlassian.net/browse/filter=10332) | [38](https://venminder.atlassian.net/browse/filter=10333) | [12](https://venminder.atlassian.net/browse/filter=10334) | NA | NA |
-| Namito | [118](https://venminder.atlassian.net/browse/filter=10318) | [108](https://venminder.atlassian.net/browse/filter=10321) | [9](https://venminder.atlassian.net/browse/filter=10326) | [29](https://venminder.atlassian.net/browse/filter=10327) | [30](https://venminder.atlassian.net/browse/filter=10325) | [7](https://venminder.atlassian.net/browse/filter=10328) | [1](https://venminder.atlassian.net/browse/filter=10329) | 326 | 2,401 |
+| Team Phoenix | [339](https://venminder.atlassian.net/issues/?filter=10320) | [316](https://venminder.atlassian.netissues/?filter=10322) | [12](https://venminder.atlassian.net/issues/?filter=10330) | [57](https://venminder.atlassian.net/issues/?filter=10331) | [106](https://venminder.atlassian.net/issues/?filter=10332) | [38](https://venminder.atlassian.net/issues/?filter=10333) | [12](https://venminder.atlassian.net/issues/filter=10334) | NA | NA |
+| Namito | [118](https://venminder.atlassian.net/issues/?filter=10318) | [108](https://venminder.atlassian.net/issues/?filter=10321) | [9](https://venminder.atlassian.net/issues/?filter=10326) | [29](https://venminder.atlassian.net/issues/?filter=10327) | [30](https://venminder.atlassian.net/issues/?filter=10325) | [7](https://venminder.atlassian.net/issues/?filter=10328) | [1](https://venminder.atlassian.net/issues/?filter=10329) | 326 | 2,401 |
 
 Last Updated: _March 15th, 2024_
 
