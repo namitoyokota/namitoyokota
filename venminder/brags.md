@@ -16,8 +16,8 @@
 
 | Contributed By | Released Stories | Released Bugs | 1 Story Point | 2 Story Points | 3 Story Points | 5 Story Points | 8 Story Points | Pull Requests | Commits |
 | - | - | - | - | - | - | - | - | - | - |
-| Team Phoenix | [339](https://venminder.atlassian.net/browse/PHX-2162?filter=10320) | [316](https://venminder.atlassian.net/browse/PHX-2282?filter=10322) | [12](https://venminder.atlassian.net/browse/PHX-2130?filter=10330) | [57](https://venminder.atlassian.net/browse/PHX-2162?filter=10331) | [106](https://venminder.atlassian.net/browse/PHX-2126?filter=10332) | [38](https://venminder.atlassian.net/browse/PHX-2135?filter=10333) | [12](https://venminder.atlassian.net/browse/PHX-2137?filter=10334) | | |
-| Namito | [118](https://venminder.atlassian.net/browse/PHX-2162?filter=10318) | [108](https://venminder.atlassian.net/browse/PHX-2177?filter=10321) | [9](https://venminder.atlassian.net/browse/PHX-2130?filter=10326) | [29](https://venminder.atlassian.net/browse/PHX-2162?filter=10327) | [30](https://venminder.atlassian.net/browse/PHX-2026?filter=10325) | [7](https://venminder.atlassian.net/browse/PHX-1594?filter=10328) | [1](https://venminder.atlassian.net/browse/PHX-2137?filter=10329) | 326 | 2,401 |
+| Team Phoenix | [339](https://venminder.atlassian.net/browse/filter=10320) | [316](https://venminder.atlassian.net/browse/filter=10322) | [12](https://venminder.atlassian.net/browse/filter=10330) | [57](https://venminder.atlassian.net/browse/filter=10331) | [106](https://venminder.atlassian.net/browse/filter=10332) | [38](https://venminder.atlassian.net/browse/filter=10333) | [12](https://venminder.atlassian.net/browse/filter=10334) | NA | NA |
+| Namito | [118](https://venminder.atlassian.net/browse/filter=10318) | [108](https://venminder.atlassian.net/browse/filter=10321) | [9](https://venminder.atlassian.net/browse/filter=10326) | [29](https://venminder.atlassian.net/browse/filter=10327) | [30](https://venminder.atlassian.net/browse/filter=10325) | [7](https://venminder.atlassian.net/browse/filter=10328) | [1](https://venminder.atlassian.net/browse/filter=10329) | 326 | 2,401 |
 
 Last Updated: _March 15th, 2024_
 
