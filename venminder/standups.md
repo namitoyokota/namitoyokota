@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 3/15/24
+- Have one more feedback story to complete before the end of day - 2402
+- Spend time testing the stories from yesterday
+
 ### 3/14/24
-- Working on using the shared collapse button for template builder - 2541
-- Will be working on more demo feedback tasks unless something comes up
+- Worked on demo feedback stories
+  - 2541 - Using the shared collapse button for Template Builder
+  - 2542 - Allowing NA/NP sections to expand or collapse in Perform Review
+  - 2540 - Added a new button for reordering sections in Template Builder
 
 ### 3/13/24
 - Fixed the integration bug with the exception subheader - 2565
