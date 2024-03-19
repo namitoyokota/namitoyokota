@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 3/19/24
+- Have a few more to go through today
+
 ### 3/18/24
-- Pulling more stories from demo feedback
+- Worked on demo feedback stories - 2393 and 2574
 
 ### 3/15/24
 - Worked on a demo feedback story to add tooltips for icon buttons and truncated texts - 2402
