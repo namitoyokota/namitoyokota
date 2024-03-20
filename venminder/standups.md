@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/20/24
+- Working on the last bug 2583 - Disabling inputs for NA/NP sections
+- Will go back to 2264 afterwards
+
 ### 3/19/24
-- Have a few more to go through today
+- Started working on 2264 for cleaning up the required fields in the UI
+- Paused to work on integration bugs - 2582 and 2584 is in review
 
 ### 3/18/24
 - Worked on demo feedback stories - 2393 and 2574
