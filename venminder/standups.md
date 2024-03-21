@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/21/24
+- 2264 is ready for PR
+- Pulling in 2530 - adding readonly view to completed assessments
+
 ### 3/20/24
-- Working on the last bug 2583 - Disabling inputs for NA/NP sections
-- Will go back to 2264 afterwards
+- Completed the last integration bug - 2583
+- Continued working on 2264 - adding indicators for required fields
 
 ### 3/19/24
 - Started working on 2264 for cleaning up the required fields in the UI
