@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/22/24
+- Continuing on that work today
+- Will likely pull 1746 for the font size changes afterwards
+
 ### 3/21/24
-- 2264 is ready for PR
-- Pulling in 2530 - adding readonly view to completed assessments
+- Wrapped up 2264
+- Then started working on 2530 - adding readonly view for completed assessments
 
 ### 3/20/24
 - Completed the last integration bug - 2583
