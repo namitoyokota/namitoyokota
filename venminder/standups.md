@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 3/26/24
+- Will continue on 1746
+
+### 3/25/24
+- PTO
+
 ### 3/22/24
-- Continuing on that work today
-- Will likely pull 1746 for the font size changes afterwards
+- Wrapped up 2530 - readonly view for completed assessments
+- Then started woprking on 1746 - font size changes
 
 ### 3/21/24
 - Wrapped up 2264
