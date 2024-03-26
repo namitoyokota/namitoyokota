@@ -10,7 +10,7 @@
 
 ### 3/22/24
 - Wrapped up 2530 - readonly view for completed assessments
-- Then started woprking on 1746 - font size changes
+- Then started working on 1746 - font size changes
 
 ### 3/21/24
 - Wrapped up 2264
