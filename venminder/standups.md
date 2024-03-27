@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 3/27/24
+- Working through the spacing and the layout changes
+
 ### 3/26/24
-- Will continue on 1746
+- Continued working on 1746 - have the latest vm-library with hard coded font sizes removed
 
 ### 3/25/24
 - PTO
