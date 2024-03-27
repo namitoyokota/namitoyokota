@@ -49,6 +49,6 @@ I write clean and efficient code with a smile.
 
 <hr />
 
-[Resume in PDF](./resume.pdf)
+[Resume in PDF](https://api.namitoyokota.com/assets/documents/resume.pdf)
 
 &copy; Namito Yokota
