@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/28/24
+- Hoping to get a PR up for 1746 before the end of day
+- Will be off on PTO tomorrow
+
 ### 3/27/24
-- Working through the spacing and the layout changes
+- Continued working through 1746
+- Also worked on a few minor changes for 2354
 
 ### 3/26/24
 - Continued working on 1746 - have the latest vm-library with hard coded font sizes removed
