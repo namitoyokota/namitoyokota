@@ -1,7 +1,8 @@
 #### Skills
 
--   **Frameworks**: Angular, Aurelia, Next.js, .NET
+-   **Frameworks**: Angular, Aurelia, NextJS, .NET
 -   **Languages**: TypeScript, HTML, SCSS, C#
+-   **Libraries**: React, KnockoutJS
 
 #### Experience
 
