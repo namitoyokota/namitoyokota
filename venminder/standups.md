@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/1/24
+- Will look into 2119 with under review page bug
+
+### 3/29/24
+- PTO
+
 ### 3/28/24
-- Hoping to get a PR up for 1746 before the end of day
-- Will be off on PTO tomorrow
+- Finished up 1746 - font size changes
 
 ### 3/27/24
 - Continued working through 1746
