@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/2/24
+- Will look into the 2119 bug if I can get DCDev to run locally
+
 ### 4/1/24
-- Will look into 2119 with under review page bug
+- Completed 2624 for removing extra SOC rows when section is disabled (ended up having to add validation)
+- Also fixed the bug that Carol found with rating explanation - 2625
 
 ### 3/29/24
 - PTO
