@@ -1,8 +1,8 @@
 #### Skills
 
--   **Frameworks**: Angular, Aurelia, NextJS, .NET
--   **Languages**: TypeScript, HTML, SCSS, C#
+-   **Frameworks**: Angular, Aurelia, Next.js, .NET
 -   **Libraries**: React, KnockoutJS
+-   **Languages**: TypeScript, HTML, SCSS, C#
 
 #### Experience
 
@@ -17,4 +17,5 @@
 
 #### Education
 
--   [Bachelors of Science](./degree/degree.md) in **Computer Science** with _Mathematics_ minor from the _University of Alabama_.
+-   Bachelors of Science in **Computer Science** with _Mathematics_ minor from the _University of Alabama_.
+    -   [Course Catalog](./degree/degree.md)
