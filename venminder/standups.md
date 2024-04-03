@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/3/24
+- Will continue on that work today
+
 ### 4/2/24
-- Will look into the 2119 bug if I can get DCDev to run locally
+- Tried setting up DCDev to run locally - gave up since it was a bug that's existed for a long time
+- Started working on 2585 - allowing disabled sections to still edit controls
 
 ### 4/1/24
 - Completed 2624 for removing extra SOC rows when section is disabled (ended up having to add validation)
