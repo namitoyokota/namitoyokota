@@ -13,12 +13,10 @@ This document outlines a non-exhaustive list of details that make a good web int
 -   Follow the latest WCAG guidelines [^5]
 -   Each page should have a default loading interface where elements are displayed in a skeleton view.
 -   Each page should have a waiting screen where elements are disabled waiting on an API response.
--   Inputs should be wrapped with a `<form>` to submit by pressing Enter.
--   Inputs should leverage HTML form validation by using the `required` attribute when appropriate.
+-   Any failures of an API request should not prevent the UI’s functionality. The user should always be able to get to a different page, or idle on the same page with the content without any blockers.
 -   Toggles should immediately take effect, not require confirmation.
     Button should be disabled after submission to avoid duplicate network requests.
 -   Animation duration should not be more than 200ms for interactions to feel immediate.
--   Hover states should not be visible on touch press (use `@media (hover: hover)`).
 -   Tooltips triggered by hover should not contain interactive content.
 
 ## HTML
@@ -28,6 +26,9 @@ This document outlines a non-exhaustive list of details that make a good web int
 -   Ids should be `camelCase`.
 -   Avoid inline CSS using `<style>`
 -   Avoid inline JavaScript using `<script>`
+-   Inputs should be wrapped with a `<form>` to submit by pressing Enter.
+-   Inputs should leverage HTML form validation by using the `required` attribute when appropriate.
+-   Hover states should not be visible on touch press (use `@media (hover: hover)`).
 
 ## JavaScript
 
@@ -39,6 +40,8 @@ This document outlines a non-exhaustive list of details that make a good web int
 -   Avoid referencing string literals or numbers directly by leveraging `enum` and `const`.
 -   Use `const` when value doesn't change, `let` when value does change, and never use `var`.
 -   `console.log()` and `debugger` statements should be removed prior to a pull request.
+-   Consider creating `isEqual()` method to model classes when comparing 2 objects. This will improve performance (no need for JSON stringify comparison) as well as readability/future maintainability.
+-   Use `structuedClone()` over `JSON.parse(JSON.stringify))` when deep copying.
 
 ## TypeScript
 
@@ -48,10 +51,11 @@ This document outlines a non-exhaustive list of details that make a good web int
 
 ## Angular
 
--   Take advantage of dependency injection.
 -   Avoid using inheritance for components.
 -   Each component files should be stored under a folder with the name of the component: `/card/card.component.html`.
 -   Avoid using events to handle data changes.
+-   Any data that has one source of truth and is used in multiple components should be handling in a state management service.
+-   Data should always flow downward and not sent back up to the parent. If the data changes, use a state management service to trigger all updates from the top down.
 -   If a variable declared at the class level never changes, use the `readonly` keyword.
 
 ## Browser
