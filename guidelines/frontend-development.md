@@ -30,6 +30,9 @@ This document outlines a non-exhaustive list of details that make a good web int
 -   Inputs should leverage HTML form validation by using the `required` attribute when appropriate.
 -   Hover states should not be visible on touch press (use `@media (hover: hover)`).
 
+## CSS
+-   Leverage CSS/SCSS variables to allow consistencies across the codebase with colors, font sizes, paddings, or z indexes. This will also allow for easier implementation of color themes.
+
 ## JavaScript
 
 -   Use JSDoc comments on all variables and methods. Variables should be a one-line comment while methods are multiple-lines. [^2]
