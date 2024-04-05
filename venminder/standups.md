@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/5/24
+- Spent some time preparing for the demo
+- Will spend more time trying to fix DCDev local
+
 ### 4/4/24
-- Hoping to get PR out before the end of the day
+- Got a PR for 2585
 
 ### 4/3/24
 - Continued working on 2585 for allowing NA/NP sections to be editable
