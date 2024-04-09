@@ -2,6 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 4/9/24
+- Hoping to wrap that up this morning
+- Then working on a minor frontend bug I found - 2641 in between meetings
+
+### 4/8/24
+- Investigated the 2586 bug where the standard fields in FHA weren't populated by the data library
+- Tested on gets and integration and it all seemed to work so I left a comment in there to retest
+- Started working on 2396 after that - adding a new display type column to placeholder list
+
 ### 4/5/24
 - Spent some time preparing for the demo
 - Will spend more time trying to fix DCDev local
