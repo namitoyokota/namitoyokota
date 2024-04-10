@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/10/24
+- Marisel came back on 2586 and said she's still having issues - if someone can take over
+- Hoping to finish up 2641
+
 ### 4/9/24
-- Hoping to wrap that up this morning
-- Then working on a minor frontend bug I found - 2641 in between meetings
+- Worked on a minor frontend bug 2641
+- Then focused on a few integration bugs found from the group testing meeting
 
 ### 4/8/24
 - Investigated the 2586 bug where the standard fields in FHA weren't populated by the data library
