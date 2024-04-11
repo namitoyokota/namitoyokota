@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/11/24
+- Fixed the blurriness in bold texts within the app - PR coming soon
+- Will start working on 2450 - PlayWright tests for frameworks
+
 ### 4/10/24
-- Marisel came back on 2586 and said she's still having issues - if someone can take over
-- Hoping to finish up 2641
+- Worked on the 2641 bug in between the meetings
 
 ### 4/9/24
 - Worked on a minor frontend bug 2641
