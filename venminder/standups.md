@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/12/24
+- Found a small PR to add test ids for 2 input fields
+- Hoping to wrap up the tests today
+
 ### 4/11/24
-- Fixed the blurriness in bold texts within the app - PR coming soon
-- Will start working on 2450 - PlayWright tests for frameworks
+- Fixed the bold font issue
+- Started working on PlayWright tests for frameworks - 2450
 
 ### 4/10/24
 - Worked on the 2641 bug in between the meetings
