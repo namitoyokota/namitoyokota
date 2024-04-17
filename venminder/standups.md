@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/17/24
+- Working through why au run broke
+- Then pull in some of the backend bugs from the board
+
 ### 4/16/24
-- Going back to 2450 to hopefully finish up the last few tests
+- Wrapped up playwright tests for frameworks (2450) - PR is ready for review
+- I will be adding a lint step for the playwright folder after the PR completes
 
 ### 4/15/24
 - Worked on 2626 with Patrick
