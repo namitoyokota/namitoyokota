@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 4/18/24
+- Working on 2543 bug for data library
+
 ### 4/17/24
-- Working through why au run broke
-- Then pull in some of the backend bugs from the board
+- Spent a lot of time digging to find why au run broke - Will have a 16th minute story if anyone is interested
 
 ### 4/16/24
 - Wrapped up playwright tests for frameworks (2450) - PR is ready for review
