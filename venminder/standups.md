@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/19/24
+- Working through 2 bugs related to the merge engine - 2320 and 2260
+- Will get started on the frontend for 2627 afterwards
+
 ### 4/18/24
-- Working on 2543 bug for data library
+- Fixed the data library bug for tables - 2543
 
 ### 4/17/24
 - Spent a lot of time digging to find why au run broke - Will have a 16th minute story if anyone is interested
