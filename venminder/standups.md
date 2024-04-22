@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/20/24
+- Have a few questions for Jess related to 2627
+- Will continue on that work today
+
 ### 4/19/24
 - Working through 2 bugs related to the merge engine - 2320 and 2260
-- Will get started on the frontend for 2627 afterwards
+- Started working on the frontend for 2627
 
 ### 4/18/24
 - Fixed the data library bug for tables - 2543
