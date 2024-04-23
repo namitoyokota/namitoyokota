@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/21/24
+- Continuing work on 2627
+
 ### 4/20/24
-- Have a few questions for Jess related to 2627
-- Will continue on that work today
+- Continued working on the frontend for 2627
+- Came up with a new validation approach that's much easier to maintain - will demo in a few days
+- Also created a PR to the Aurelia's GitHub project last night
 
 ### 4/19/24
 - Working through 2 bugs related to the merge engine - 2320 and 2260
