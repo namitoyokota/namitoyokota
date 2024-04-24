@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
-### 4/21/24
-- Continuing work on 2627
+### 4/24/24
+- Will continue working on 2627 today
 
-### 4/20/24
+### 4/23/24
+- Continued working on 2627
+- Talked SOC theme with Jess at the end of the day
+- Last night, my PR to Aurelia CLI project was merged - their pipeline has errors so npm package has not been published yet
+
+### 4/22/24
 - Continued working on the frontend for 2627
 - Came up with a new validation approach that's much easier to maintain - will demo in a few days
 - Also created a PR to the Aurelia's GitHub project last night
