@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 4/25/24
+- Frontend work should be done so will spend today testing
+
 ### 4/24/24
-- Will continue working on 2627 today
+- Continued working on 2627
 
 ### 4/23/24
 - Continued working on 2627
