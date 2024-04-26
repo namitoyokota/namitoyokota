@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/26/27
+- Starting work on the new SOC theme - 2688
+- Already had a discussion with Jess wendesday so should be pretty straight forward
+
 ### 4/25/24
-- Frontend work should be done so will spend today testing
+- Spend time in between meetings testing 2627 
 
 ### 4/24/24
 - Continued working on 2627
