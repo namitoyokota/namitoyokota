@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
-### 4/26/27
-- Starting work on the new SOC theme - 2688
-- Already had a discussion with Jess wendesday so should be pretty straight forward
+### 4/29/24
+- Working on the theme reminded me of the 'Other' option for report types so
+- Going back to 2627 today to implement that today
+
+### 4/26/24
+- Started working on the new SOC theme - 2688
+- Have bulk of that finished - rest will have to wait on 2633 to complete
 
 ### 4/25/24
 - Spend time in between meetings testing 2627 
