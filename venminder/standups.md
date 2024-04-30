@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/30/24
+- Will continue on that work today
+- Fixed bugs with 2627 as Patrick finds them
+
 ### 4/29/24
-- Working on the theme reminded me of the 'Other' option for report types so
-- Going back to 2627 today to implement that today
+- Added a new `vm-loader` component to Control Assessments
+- Then picked up 2633 for supporting the new standard section in the merge engine
 
 ### 4/26/24
 - Started working on the new SOC theme - 2688
