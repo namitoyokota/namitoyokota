@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/1/24
+- Will have more of that today
+- Found a bug with vm-date-picker will go investigate
+
 ### 4/30/24
-- Will continue on that work today
-- Fixed bugs with 2627 as Patrick finds them
+- Migrated vm-tooltip to v2 - broken template builder from font changes
+- Hardening for 2627
 
 ### 4/29/24
 - Added a new `vm-loader` component to Control Assessments
