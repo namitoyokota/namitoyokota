@@ -2,6 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 5/3/24
+- Will continue on 2658 today
+- Meeting with Jess to wrap up the SOC 2 theme
+
+### 5/2/24
+- Worked on PR comments for 2627
+- Continued working on 2633 - getting help from Patrick on the unit tests
+- Started looking into the 2658 bug where the approve button is disabled
+- I found the issue to be a timing issue which I can get around but doing a deeper investigation to see if I can improve how the page loads entirely for better performance.
+
 ### 5/1/24
 - Will have more of that today
 - Found a bug with vm-date-picker will go investigate
