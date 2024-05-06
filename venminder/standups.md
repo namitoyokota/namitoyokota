@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 5/6/24
+- Since I don't have any frontend work at the moment, will spend some time taking a deeper dive
+
 ### 5/3/24
-- Will continue on 2658 today
-- Meeting with Jess to wrap up the SOC 2 theme
+- Met with Jess to finish up the SOC 2 theme
+- Resolved 2633 comments
+- Then started investigating the 2688 bug - approve button disabled
+- Found out that it was a timing issue rabit hole - have a work around for now
 
 ### 5/2/24
 - Worked on PR comments for 2627
