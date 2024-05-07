@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/7/24
+- Will do more investigation - if it goes no where, I'll put in the work around fix for this bug and revisit later
+- If anyone is familiar with OIDC, I can demo what I'm seeing in the 16th minute for any suggestions
+
 ### 5/6/24
-- Since I don't have any frontend work at the moment, will spend some time taking a deeper dive
+- Spent most of the day taking a deeper dive into our loading issue - 2658
+- Circular dependency was not the issue - it turns out to be OIDC issue
 
 ### 5/3/24
 - Met with Jess to finish up the SOC 2 theme
