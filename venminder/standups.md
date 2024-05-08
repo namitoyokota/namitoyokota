@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/8/24
+- Will put in the work around fix and leave all of my findings in the story description
+- Probably will pick up one of the frontend tasks for DCDev
+- Sean I might need your help with getting the local environment to work - last time didn't work
+
 ### 5/7/24
-- Will do more investigation - if it goes no where, I'll put in the work around fix for this bug and revisit later
-- If anyone is familiar with OIDC, I can demo what I'm seeing in the 16th minute for any suggestions
+- Continued working on investigating the OIDC issues - ended up breaking more things
 
 ### 5/6/24
 - Spent most of the day taking a deeper dive into our loading issue - 2658
