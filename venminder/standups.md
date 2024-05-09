@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/9/24
+- Will continue investigating 2699
+
 ### 5/8/24
-- Will put in the work around fix and leave all of my findings in the story description
-- Probably will pick up one of the frontend tasks for DCDev
-- Sean I might need your help with getting the local environment to work - last time didn't work
+- Fixed the 2658 bug the easy way
+- Then started investigating the 2699
+- Thanks Sean for the help on getting my DCDev running again
 
 ### 5/7/24
 - Continued working on investigating the OIDC issues - ended up breaking more things
