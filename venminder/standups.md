@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/10/24
+- Looking into the 2592 demo feedback story
+- Will also go back to 2627 to add restrictions for the date ranges
+
 ### 5/9/24
-- Will continue investigating 2699
+- Continued investigating 2699 - pretty sure I know the issue but waiting on hotfix refresh for CA on that one
+- Worked on 2591 with reloading the Modify Order page - PR is ready for review
 
 ### 5/8/24
 - Fixed the 2658 bug the easy way
