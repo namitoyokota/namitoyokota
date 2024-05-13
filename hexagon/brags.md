@@ -10,26 +10,9 @@
 
 ## Table of Contents
 
--   [Changelogs](#changelogs)
--   [Create Incident](#create-incident)
--   [Feature Flags](#feature-flags)
--   [Hyperlinks](#hyperlinks)
--   [Icon Manager](#icon-manager)
 -   [Performance Test Tool](#performance-test-tool)
--   [Platform Packages](#platform-packages)
--   [Priority Manager](#priority-manager)
--   [Recovery Manager](#recovery-manager)
 -   [Shape Filters](#shape-filters)
-
-## Changelogs
-
-## Create Incident
-
-## Feature Flags
-
-## Hyperlinks
-
-## Icon Manager
+-   [Ask me about...](#ask-me-about)
 
 ## Performance Test Tool
 
@@ -46,14 +29,6 @@ On the backend, we created a simple .NET console applicable with multiple thread
 ### Solution
 
 As a result, we created a script in which runs the user interface tool initially, which records console logs, network tab, and any UI errors with screenshots. The script then starts up a backend (running concurrently with the frontend) which sends PUT, POST, and DELETE API requests which generated UI updates. We even generated log files at the end of the test to use to compare statistics.
-
-## Platform Packages
-
-mention unit tests as well
-
-## Priority Manager
-
-## Recovery Manager
 
 ## Shape Filters
 
@@ -80,6 +55,17 @@ While the [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw) library suppor
 I eventually landed on [Turf.js](https://turfjs.org/). Turf is a relatively large library with a lot of features and good documentation. The library supported [buffer transformation](https://turfjs.org/docs/#buffer) out of the box and also opened the door for many cool features in the future.
 
 Lastly, after the user finishes creating the line shape and setting the buffer radius, the shape filter can be used to remove any assets outside of the boundary.
+
+## Ask me about...
+
+-   Changelogs
+-   Create Incident
+-   Feature Flags
+-   Hyperlinks
+-   Icon Manager
+-   Platform Packages
+-   Priority Manager
+-   Recovery Manager
 
 <hr />
 
