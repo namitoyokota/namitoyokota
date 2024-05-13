@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/13/24
+- Testing 2627 now so should have a PR ready this morning
+- After that, I will get started on resolving the 2699 bug
+
 ### 5/10/24
-- Looking into the 2592 demo feedback story
-- Will also go back to 2627 to add restrictions for the date ranges
+- Worked on 2591 and 2592 demo feedback stories for the modiy ELA page
+- Then started working on 2627 to restrict the date ranges in SOC standard section
 
 ### 5/9/24
 - Continued investigating 2699 - pretty sure I know the issue but waiting on hotfix refresh for CA on that one
