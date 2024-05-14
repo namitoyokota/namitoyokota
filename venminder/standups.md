@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 5/14/24
+- Working on a new bug 2693 - FHA data library populating after clearing data
+
 ### 5/13/24
-- Testing 2627 now so should have a PR ready this morning
-- After that, I will get started on resolving the 2699 bug
+- Completed a small change to the 2627 story for the date restrictions
+- Then investigated 2699 bug - it's outside of what I can do now so left comments in the description for one of the backend devs to look at in the future
 
 ### 5/10/24
 - Worked on 2591 and 2592 demo feedback stories for the modiy ELA page
