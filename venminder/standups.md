@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/15/24
+- I believe I have the fix but doing careful testing since there's a lot in there
+- Will pick up a new PlayWright test story unless Jess tells me otherwise
+
 ### 5/14/24
-- Working on a new bug 2693 - FHA data library populating after clearing data
+- Worked on the 2693 bug with the FHA data library still populating after clearing data
+- Then started investigating the 2119 bug in under review page
 
 ### 5/13/24
 - Completed a small change to the 2627 story for the date restrictions
