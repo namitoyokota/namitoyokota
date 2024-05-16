@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/16/24
+- 2513 PR is up
+- Looks like mostly meetings but will get started on 2451 - playwright tests for feature flags today
+
 ### 5/15/24
-- I believe I have the fix but doing careful testing since there's a lot in there
-- Will pick up a new PlayWright test story unless Jess tells me otherwise
+- Fixed 2119 bug in the under review page
+- Then started working on 2513 with the 404 page issues
 
 ### 5/14/24
 - Worked on the 2693 bug with the FHA data library still populating after clearing data
