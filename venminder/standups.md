@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 5/17/24
+- Have a PR this morning on fixing the return URL - now after logging in, you should go back to the page you initially opened
+- Will continue working on 1729
+
 ### 5/16/24
-- 2513 PR is up
-- Looks like mostly meetings but will get started on 2451 - playwright tests for feature flags today
+- Completed the 2513 fixing the 404 page issues
+- Then worked on the playwright tests for feature flags - 2451
+- I found the issue for why our preview tabs had the infinite loading indicator so fixed that - 2642
+- Later in the day I started working on componetizing the controls within the theme - 1729
 
 ### 5/15/24
 - Fixed 2119 bug in the under review page
