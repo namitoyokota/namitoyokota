@@ -3,7 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 5/20/24
-- COntinuing work on 1729 - have the controls done, will be implementing a shared style system
+- Continuing work on 1729 - have the controls done, will be implementing a shared style system
 
 ### 5/17/24
 - Fixed the return URL for authenticating with DCDev in the morning
