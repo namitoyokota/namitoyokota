@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 5/20/24
+- COntinuing work on 1729 - have the controls done, will be implementing a shared style system
+
 ### 5/17/24
-- Have a PR this morning on fixing the return URL - now after logging in, you should go back to the page you initially opened
-- Will continue working on 1729
+- Fixed the return URL for authenticating with DCDev in the morning
+- Rest of the day with Mirato testing and team building
 
 ### 5/16/24
 - Completed the 2513 fixing the 404 page issues
