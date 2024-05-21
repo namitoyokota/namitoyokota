@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 5/21/24
+- Will be more 2653 today
+
 ### 5/20/24
-- Continuing work on 1729 - have the controls done, will be implementing a shared style system
+- Worked on 1729 in the morning some
+- Then started working on 2653 with the new status and evidence columns
 
 ### 5/17/24
 - Fixed the return URL for authenticating with DCDev in the morning
