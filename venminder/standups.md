@@ -4,6 +4,9 @@
 
 ### 5/21/24
 - Will be more 2653 today
+- I also created new stories for demo feedback from a discussion with Jess
+  - Question property from controls
+  - Mentioned/Tested radio button display type
 
 ### 5/20/24
 - Worked on 1729 in the morning some
