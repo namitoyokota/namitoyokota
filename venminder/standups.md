@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 5/22/24
+- 2653 now needs backend to complete so will start back on 1729 today
+
 ### 5/21/24
-- Will be more 2653 today
+- Continued working on 2653 in between the meetings
 - I also created new stories for demo feedback from a discussion with Jess
   - Question property from controls
   - Mentioned/Tested radio button display type
