@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 5/23/24
+- Will be working on the merge engine updates today
+
 ### 5/22/24
-- 2653 now needs backend to complete so will start back on 1729 today
+- Continued working on 1729
+- Have the HTML snippets and the new placeholder done
 
 ### 5/21/24
 - Continued working on 2653 in between the meetings
