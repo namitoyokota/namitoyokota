@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 5/24/24
+- Will focus on the bug board
+- 2753 is a bug on prod today
+
 ### 5/23/24
-- Will be working on the merge engine updates today
+- Continued working on 1729 in between the meetings
 
 ### 5/22/24
 - Continued working on 1729
