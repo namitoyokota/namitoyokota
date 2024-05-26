@@ -25,6 +25,8 @@ Last Updated: _March 15th, 2024_
 
 ## Documentation Contributions
 
+The following is a list of notable documentations written for seamless knowledge transfer:
+
 -   Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/CA/pages/1376419841/Creating+and+Managing+a+Theme) for creating a Control Assessment theme.
 -   Wrote [confluence documentation](https://venminder.atlassian.net/wiki/spaces/EN/pages/1379663913/vm-radio) for `vm-radio` component and `vm-radio-group` class within `vm-library`.
 -   Wrote [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) for the Control Assessment's frontend codebase.
@@ -32,11 +34,15 @@ Last Updated: _March 15th, 2024_
 
 ## Mentorship Contributions
 
+The following is a list of contributions through mentorship and training:
+
 -   Trained and mentored Jim Stopinski on developing Control Assessment themes.
 -   Assisted full-stack developers within Team Phoenix contribute to frontend stories.
 -   Help lunch & learn meetings to teach frontend concepts to Team Phoenix: CSS Flexbox & Grid, Eslint and Prettier, and PlayWright tests.
 
 ## Team Contributions
+
+The following is a list of contributions to improve the Phoenix development team:
 
 -   Created a [SharePoint directory](https://venminder.sharepoint.com/:f:/s/ProductDesign/EunoZFdBlxRHp3LQ8CsHHkABJUW3jR2sxvjr0s8c5ijf1w?e=UYLnin) for storing all latest Theme files.
 -   Created numerous themes to be used for delivering assessments to clients.
@@ -46,7 +52,11 @@ Last Updated: _March 15th, 2024_
 
 ## Development Contributions
 
+The following is a list of contributions through code:
+
 ### Features
+
+I've added the following features to the Control Assessments project:
 
 -   Added a markdown [rich text editor](https://venminder.atlassian.net/browse/PHX-2129) using ProseMirror.
 -   Added [Chart.js library](https://github.com/chartjs) to support [displaying graphs and charts](https://venminder.atlassian.net/browse/PHX-1594).
@@ -62,6 +72,8 @@ Last Updated: _March 15th, 2024_
 
 ### Improvements
 
+I've made the following improvements to the frontend of the Control Assessments codebase:
+
 -   Implemented a [frontend caching system](https://venminder.atlassian.net/browse/PHX-902).
 -   Implemented an [autosave service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8434?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/template-autosave-service.ts).
 -   Created an [event service](https://venminder.visualstudio.com/Control%20Assessments/_git/Control%20Assessments/pullrequest/8105?_a=files&path=/Microservice/ControlAssessments.Web/control-assessments/src/services/event-service.ts).
@@ -69,6 +81,8 @@ Last Updated: _March 15th, 2024_
 -   Added sanitiziation to all user inputs using regex for security purposes.
 
 ### Clean Code
+
+Following initiatives were taken to ensure maintenance of best coding standards:
 
 -   Created a [contribution guide](https://venminder.visualstudio.com/_git/Control%20Assessments?path=/Microservice/ControlAssessments.Web/control-assessments/README.md) to the Control Assessments Aurelia project.
 -   Added [linting workflow](https://venminder.atlassian.net/browse/PHX-508) with `eslint` and `prettier` to follow the Frontend Standard.
@@ -78,11 +92,13 @@ Last Updated: _March 15th, 2024_
 
 ### Migrations
 
+The following is a list of notable migrations made to the Control Assessments codebase:
+
 -   Upgraded deprecated `vm-grid-v2` to vm-library's [`vm-grid-v3`](https://venminder.atlassian.net/browse/PHX-1269) component
 -   Migrated native HTML elements within Control Assessments to `vm-library` shared components (checkbox, date picker, inputs, etc).
 -   Upgrade the [Font Awesome package](https://venminder.atlassian.net/browse/PHX-901) from version 4 to 6.
 -   Deprecated the `moment.js` package to [`date-fns`](https://venminder.atlassian.net/browse/PHX-1170) as the moment package is no longer managed.
--   Migrated Bootstray layout system to CSS Flexbox and Grid.
+-   Migrated Bootstrap layout system to CSS Flexbox and Grid.
 
 <hr />
 
