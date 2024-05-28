@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 5/28/24
+- Working through the 2757 bug today
+ 
 ### 5/24/24
-- Will focus on the bug board
-- 2753 is a bug on prod today
+- Fixed a bunch of bugs from the GETS testing
 
 ### 5/23/24
 - Continued working on 1729 in between the meetings
