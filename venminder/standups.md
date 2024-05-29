@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/29/24
+- Start looking into 2736 with Carol
+
 ### 5/28/24
-- Working through the 2757 bug today
+- Worked on the 2752 bug
+- Investigated the invalid time error on integration
+  - Left notes in the meeting chat but I couldn't replicate this morning so moving on
  
 ### 5/24/24
 - Fixed a bunch of bugs from the GETS testing
