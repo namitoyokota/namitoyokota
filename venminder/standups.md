@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 5/30/24
+- Focusing back on 1729 today
+
 ### 5/29/24
-- Start looking into 2736 with Carol
+- Started looking into the frontend piece for 2736 with Carol
 
 ### 5/28/24
 - Worked on the 2752 bug
