@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 5/31/24
+- Will be cleaning up the code for 1729
+- Will demo all of the new features Monday
+
 ### 5/30/24
-- Focusing back on 1729 today
+- Worked on 1729 all day
+- Made really good progress - excited for its future
 
 ### 5/29/24
 - Started looking into the frontend piece for 2736 with Carol
