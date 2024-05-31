@@ -16,10 +16,10 @@
 
 | Categories        | Count | Reference                                                          |
 | ----------------- | ----- | ------------------------------------------------------------------ |
-| Stories Completed | 118   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
-| Bugs Fixed        | 108   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
-| PRs Completed     | 326   | -                                                                  |
-| Commits Made      | 2401  | -                                                                  |
+| Stories Completed | 140   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
+| Bugs Fixed        | 122   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
+| PRs Completed     | 369   | -                                                                  |
+| Commits Made      | 2,775 | -                                                                  |
 
 Last Updated: _March 15th, 2024_
 
