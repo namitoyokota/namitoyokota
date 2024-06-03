@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/3/24
+- Will likely have a lot of improvements to make for the PR so will work on that
+- If I finish, I'll get started on a few bug stories
+
 ### 5/31/24
-- Will be cleaning up the code for 1729
-- Will demo all of the new features Monday
+- Continued working on 1729 with the PR published
+- Will have a demo for you guys in 16th minute
 
 ### 5/30/24
 - Worked on 1729 all day
