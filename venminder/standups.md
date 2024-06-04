@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 6/4/24
+- 2763 is already complete and 2758 is ready for review
+- Will go back to resolving the 1729 PR comments
+- Then move on to my last bug - 2754
+
 ### 6/3/24
-- Will likely have a lot of improvements to make for the PR so will work on that
-- If I finish, I'll get started on a few bug stories
+- Worked on PR comments for 1729 in the morning
+- Then worked on 2 bugs - 2763 and 2758
 
 ### 5/31/24
 - Continued working on 1729 with the PR published
