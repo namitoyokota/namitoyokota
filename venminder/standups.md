@@ -2,10 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 6/6/24
+- Removed the PlayWright tests that are causing issues
+- Not sure what to take on next
+
+### 6/5/24
+- PTO
+
 ### 6/4/24
-- 2763 is already complete and 2758 is ready for review
-- Will go back to resolving the 1729 PR comments
-- Then move on to my last bug - 2754
+- Completed the 2 bug fixes 2758 and 2754
+- Also resolved the 1729 comments
 
 ### 6/3/24
 - Worked on PR comments for 1729 in the morning
