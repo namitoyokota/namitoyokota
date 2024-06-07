@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/7/24
+- 1729 should be complete so doing more testing on GETS today
+- Will be looking for work - will likely be the next PlayWright story
+
 ### 6/6/24
 - Removed the PlayWright tests that are causing issues
-- Not sure what to take on next
+- Continued working on 1729 as I found bugs
 
 ### 6/5/24
 - PTO
