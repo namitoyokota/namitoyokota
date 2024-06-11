@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/21/24
+- Pausing on that to fix a 1729 bug
+- Will go back to 2637 afterwards
+
 ### 6/20/24
-- 2771 PR is ready for review
-- Will get started on the frontend for 2637
+- Finished up 2771 then
+- Started working on 2637 with Patrick
 
 ### 6/7/24
 - Spent a lot of time testing my recent stories on GETS
