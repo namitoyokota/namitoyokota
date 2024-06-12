@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 6/12/24
+- Will go back to 2637 today
+
 ### 6/21/24
-- Pausing on that to fix a 1729 bug
-- Will go back to 2637 afterwards
+- Fixed the integration bug for 1729 in between meetings
 
 ### 6/20/24
 - Finished up 2771 then
