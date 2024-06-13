@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/13/24
+- More 2637 today
+- Currently working on the restrictions for the checkboxes
+
 ### 6/12/24
-- Will go back to 2637 today
+- Continued working on 2637
+- Added validation to the template builder's publish method
 
 ### 6/21/24
 - Fixed the integration bug for 1729 in between meetings
