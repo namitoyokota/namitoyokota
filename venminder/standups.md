@@ -4,11 +4,11 @@
 
 ### 6/14/24
 - Today will be focused on testing 2637 and fixing any issues
+- Also will test my PRs from yesterday on GETS
 
 ### 6/13/24
 - Continued working on 2637
-- Worked with Carol some on her PlayWright tests
-- Also worked with Edwin on getting his machine set up
+- Completed 2 demo feedback stories - 2782 and 2778
 
 ### 6/12/24
 - Continued working on 2637
