@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/14/24
+- Today will be focused on testing 2637 and fixing any issues
+
 ### 6/13/24
-- More 2637 today
-- Currently working on the restrictions for the checkboxes
+- Continued working on 2637
+- Worked with Carol some on her PlayWright tests
+- Also worked with Edwin on getting his machine set up
 
 ### 6/12/24
 - Continued working on 2637
