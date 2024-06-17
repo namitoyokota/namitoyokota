@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 6/17/24
+- More testing of 2637
+- Finding a few frontend issues as I test so will be working on those
+
 ### 6/14/24
-- Today will be focused on testing 2637 and fixing any issues
-- Also will test my PRs from yesterday on GETS
+- More 2637
 
 ### 6/13/24
 - Continued working on 2637
