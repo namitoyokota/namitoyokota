@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/18/24
+- Reviewed Carol's 2726 PR this morning
+- Will go back to 2637 for more testing
+
 ### 6/17/24
-- More testing of 2637
-- Finding a few frontend issues as I test so will be working on those
+- Mostly spent testing 2637
+- Started planning the 2446 story - playwright tests for template builder
 
 ### 6/14/24
 - More 2637
