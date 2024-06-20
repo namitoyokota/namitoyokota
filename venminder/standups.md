@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 6/20/24
+- Will continue working on 2446
+
 ### 6/18/24
-- Reviewed Carol's 2726 PR this morning
-- Will go back to 2637 for more testing
+- Worked on testing 2637
+- Started working on 2446
 
 ### 6/17/24
 - Mostly spent testing 2637
