@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 6/25/24
+- Will be focusing on being able to delete content
+
 ### 6/24/24
-- More 2446
+- Continued working on 2446
+- Now able to create a template, add subheaders and subsections, preview, publish, and duplicate
 
 ### 6/21/24
 - Code reviews and 2446
