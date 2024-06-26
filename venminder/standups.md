@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 6/26/24
+- Will be continuing with creating and deleting controls
+
 ### 6/25/24
-- Will be focusing on being able to delete content
+- Continued working on 2446
+- Struggling to add controls to templates
 
 ### 6/24/24
 - Continued working on 2446
