@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 6/27/24
+- Will continue on 2446 with adding controls to templates
+
 ### 6/26/24
-- Will be continuing with creating and deleting controls
+- Continued working on controls for 2446
+- Fixed the caching bug with help from Patrick
 
 ### 6/25/24
 - Continued working on 2446
