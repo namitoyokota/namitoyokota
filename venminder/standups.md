@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 6/28/24
+- Fixed the last frontend bug this morning
+- Going back to 2446 hoping to get it to a good stopping point before next week
+
 ### 6/27/24
-- Will continue on 2446 with adding controls to templates
+- Worked on 2446 some in the morning
+- Then with group testing, worked on bugs mostly caused by the big 2637 changes
 
 ### 6/26/24
 - Continued working on controls for 2446
