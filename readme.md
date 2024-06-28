@@ -6,7 +6,7 @@
 
 #### Experience
 
--   **Software Engineer II** at _Venminder_ responsible for leading a internal frontend project generating 60% of total revenue since December 2022.
+-   **Senior Software Engineer I** at _Venminder_ responsible for leading a internal frontend project generating 60% of total revenue since December 2022.
 
     -   [Brag Documents](./venminder/brags.md), [Research](./venminder/research.md), [Standups](./venminder/standups.md)
     -   [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
