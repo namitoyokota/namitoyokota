@@ -2,9 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 7/2/24
+- Have a PR to remove some PlayWright tests - hoping tests will start passing afterwards
+- Will start working on 2653
+
+### 7/1/24
+- Start working on 2814 and pulling out the tags component from controls to be sharable
+- Then worked with Carol some, made improvements to the pipeline
+
 ### 6/28/24
 - Fixed the last frontend bug this morning
-- Going back to 2446 hoping to get it to a good stopping point before next week
+- Went back to 2446 for more PlayWright tests
 
 ### 6/27/24
 - Worked on 2446 some in the morning
