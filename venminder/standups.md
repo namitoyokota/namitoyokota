@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 7/3/24
+- Will go back to 2814 and work on the services in scope field change
+
 ### 7/2/24
-- Have a PR to remove some PlayWright tests - hoping tests will start passing afterwards
-- Will start working on 2653
+- Worked with Patrick on 2653 - frontend should be complete
 
 ### 7/1/24
 - Start working on 2814 and pulling out the tags component from controls to be sharable
