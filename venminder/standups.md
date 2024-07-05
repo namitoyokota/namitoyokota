@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 7/5/24
+- Picking up 2689 for adding approval validation depending on evidence status
+
+### 7/4/24
+- Holiday
+
 ### 7/3/24
-- Will go back to 2814 and work on the services in scope field change
+- Worked on wrapping up 2653 with Patrick
+- Continued with 2814 with Carol - frontend piece should be complete but not tested
 
 ### 7/2/24
 - Worked with Patrick on 2653 - frontend should be complete
