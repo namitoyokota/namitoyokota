@@ -8,6 +8,7 @@
 ### 7/5/24
 - Picked up 2689 for adding approval validation for evidence status
 - Fixed a bug I found with the store service - 2840
+- Both are ready for code reviews
 
 ### 7/4/24
 - Holiday
