@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/10/24
+- Investigated the 2873 bug - have a code change ready
+- Will upgrade the packages that Brian requested
+- Then will start on 2657
+
 ### 7/9/24
-- Starting on 2655 today
+- PTO
 
 ### 7/8/24
 - Started working on 2656 - PR ready for review
