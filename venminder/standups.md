@@ -3,9 +3,10 @@
 > December 5th, 2022 - Present
 
 ### 7/10/24
-- Investigated the 2873 bug - have a code change ready
-- Will upgrade the packages that Brian requested
-- Then will start on 2657
+- Fixed a bug in the morning - 2873
+- Upgraded the packages found from PEN testing
+- Started working on 2657
+- Also met with Michael towards the end of the day - discussed the S3 set up and how we can simply our appsettings on the frontend
 
 ### 7/9/24
 - PTO
