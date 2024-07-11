@@ -23,7 +23,6 @@ _January 2024 – Present_
 -   Direct an automation initiative to accelerate data loading and user interaction speed by 50%.
 -   Facilitate group testing sessions for developers, resulting in a 30% reduction in production bugs.
 -   Present completed stories to industry-leading UX designers, product experts, and stakeholders.
-
 -   [Brag Documents](./venminder/brags.md), [Research](./venminder/research.md), [Standups](./venminder/standups.md), [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
 #### Software Engineer II
