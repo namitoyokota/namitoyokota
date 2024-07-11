@@ -11,7 +11,9 @@
 - Fixed a bug in the morning - 2873
 - Upgraded the packages found from PEN testing
 - Started working on 2657
-- Also met with Michael towards the end of the day - discussed the S3 set up and how we can simply our appsettings on the frontend
+- Also met with Michael towards the end of the day
+  - Wanted to explore the one artifact set up
+  - Discussed the S3 set up and how we can simply our appsettings on the frontend
 
 ### 7/9/24
 - PTO
