@@ -1,2 +1,3 @@
 -   [Portfolio](https://www.namitoyokota.com)
 -   [LinkedIn](https://www.linkedin.com/in/namito)
+-   [Resume](./resume.md)
