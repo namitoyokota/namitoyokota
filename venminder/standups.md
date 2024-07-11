@@ -2,6 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 7/11/24
+- Coming up with a list of questions to ask Michael
+- Frontend for 2657 is almost done - just waiting on John's UX update
+- Will likely get started on 2655 today
+
 ### 7/10/24
 - Fixed a bug in the morning - 2873
 - Upgraded the packages found from PEN testing
