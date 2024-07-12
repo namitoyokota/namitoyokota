@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/12/24
+- Will be working on 2689 refactor to support dynamic error and warning messages - hoping to finish today
+- Will implement rest of 2657 whenever Patrick is ready
+
 ### 7/11/24
 - Coming up with a list of questions to ask Michael
-- Frontend for 2657 is almost done - just waiting on John's UX update
-- Will likely get started on 2655 today
+- Created a new admin page for 2657
 
 ### 7/10/24
 - Fixed a bug in the morning - 2873
