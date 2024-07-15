@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/15/24
+- Trying to do the release process
+- Then will get back to the PlayWright tests - 2446
+
 ### 7/12/24
-- Will be working on 2689 refactor to support dynamic error and warning messages - hoping to finish today
-- Will implement rest of 2657 whenever Patrick is ready
+- Worked on last bit of 2657 with Patrick
+- Continued refacotirng for 2689 - wasn't able to finish so pausing on that
 
 ### 7/11/24
 - Coming up with a list of questions to ask Michael
