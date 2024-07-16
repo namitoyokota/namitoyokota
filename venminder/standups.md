@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 7/16/24
+- 2689 should be done - waiting to test once GETS is working
+- Will be working on 2446 for the PlayWright tests
+
 ### 7/15/24
-- Trying to do the release process
-- Then will get back to the PlayWright tests - 2446
+- Worked on the release
+- Worked on 2689 for the dynamic validation messaging
+- Also worked on creating a new document for our release process
+- And went through our frontend dependencies to figure out which licensing we're using - MIT and Apache
 
 ### 7/12/24
 - Worked on last bit of 2657 with Patrick
