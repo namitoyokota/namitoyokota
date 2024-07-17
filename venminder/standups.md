@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/17/24
+- Have a demo to show the admin page this morning
+- Will be working on the UI for 1940 - ability to edit themes
+
 ### 7/16/24
-- 2689 should be done - waiting to test once GETS is working
-- Will be working on 2446 for the PlayWright tests
+- Wrapped up 2689
+- And created a PR for 2446
 
 ### 7/15/24
 - Worked on the release
