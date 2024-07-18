@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/18/24
+- Looking into David's 1588 PR - prettier and linting error
+- Will likely go fix the PlayWright tests for themes unless something else comes up
+
 ### 7/17/24
-- Have a demo to show the admin page this morning
-- Will be working on the UI for 1940 - ability to edit themes
+- Worked on 1940 with Patrick
+- Completed the PlayWright tests for template builder - 2446
 
 ### 7/16/24
 - Wrapped up 2689
