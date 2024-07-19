@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 7/19/24
+- Preparing for the demo this morning
+- Will try and wrap up the themes PlayWright tests
+- Also update the Excel sheet for Greg with the list of the current PlayWright tests
+
 ### 7/18/24
-- Looking into David's 1588 PR - prettier and linting error
-- Will likely go fix the PlayWright tests for themes unless something else comes up
+- Spent a lot of time setting up assessments on GETS and group testing
+- Worked on fixing some of the themes playwright tests
+  - Figured out that the reason all of the UI based PlayWright tests were failing was because of the GETS refresh removing roles from Brian Adams, so log in page looked different
+- Also looked into the theme upload bug which Patrick eventually found the issue for
 
 ### 7/17/24
 - Worked on 1940 with Patrick
