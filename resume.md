@@ -5,7 +5,7 @@ Results-driven front-end developer with 4 years of experience.
 ## Technical Skills
 
 -   Languages: TypeScript, JavaScript, HTML, SCSS, CSS, C#
--   Frameworks: Angular, NextJS, Aurelia, PlayWright, Bootstrap, .NET Framework, .NET Core
+-   Frameworks: Angular, Aurelia, PlayWright, Bootstrap, .NET Framework, .NET Core
 -   Libraries: Angular Material, RxJS, Leaflet, Chart.js, Sinon, date-fns, Eslint, Prettier
 -   DevOps: Azure, AWS, Jira, NPM, NuGet, Git, Figma, Adobe XD
 -   Methodologies: Agile (Scrum and Kanban)
