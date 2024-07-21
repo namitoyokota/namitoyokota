@@ -21,8 +21,9 @@ _January 2024 – Present_
 -   Lead a team of 4 developers in front-end development of an internal web application, generating 60% of the total company revenue using the Aurelia framework.
 -   Implement application-wide changes such as standardizing font sizes and migrating deprecated libraries.
 -   Direct an automation initiative to accelerate data loading and user interaction speed by 50%.
--   Facilitate group testing sessions for developers, resulting in a 30% reduction in production bugs.
+-   Establish team's weekly production releases with release notes using Azure and Jira.
 -   Present completed stories to industry-leading UX designers, product experts, and stakeholders.
+-   Facilitate group testing sessions for developers, resulting in a 30% reduction in production bugs.
 -   [Brag Documents](./venminder/brags.md), [Research](./venminder/research.md), [Standups](./venminder/standups.md), [Job Description](./venminder/job-description.md), [Interview Project](./venminder/bowling/readme.md)
 
 #### Software Engineer II
