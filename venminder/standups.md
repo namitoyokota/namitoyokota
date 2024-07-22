@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/22/24
+- Will work on the release - Jess, 5 stories need approval
+- Getting started with 2655
+
 ### 7/19/24
-- Preparing for the demo this morning
-- Will try and wrap up the themes PlayWright tests
-- Also update the Excel sheet for Greg with the list of the current PlayWright tests
+- Fixed up the PlayWright tests for themes
+- Found a minor UI bug with 2814 so fixed that
+- Then updated Greg's excel sheet for PlayWright coverage
 
 ### 7/18/24
 - Spent a lot of time setting up assessments on GETS and group testing
