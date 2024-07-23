@@ -3,6 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 7/23/24
+- Found a bug with 2689 - going straight to release candidate
 - Hoping to get 2655 done
 
 ### 7/22/24
