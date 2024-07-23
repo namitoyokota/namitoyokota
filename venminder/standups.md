@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/23/24
+- Hoping to get 2655 done
+
 ### 7/22/24
-- Will work on the release - Jess, 5 stories need approval
-- Getting started with 2655
+- Worked on the release
+- Started working on 2655 - made a lot of progress
 
 ### 7/19/24
 - Fixed up the PlayWright tests for themes
