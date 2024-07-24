@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 7/24/24
+- Have a change I want to show the team
+- If all things go well, should have a PR for 2655 before lunch
+
 ### 7/23/24
-- Found a bug with 2689 - going straight to release candidate
-- Hoping to get 2655 done
+- Fixed the 2689 bug in the morning
+- Continued working on 2689 in between meetings and bug investigations
 
 ### 7/22/24
 - Worked on the release
