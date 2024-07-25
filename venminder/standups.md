@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/25/24
+- Have a PR up for 2905
+- Hoping to get started on 2839
+
 ### 7/24/24
-- Have a change I want to show the team
-- If all things go well, should have a PR for 2655 before lunch
+- Continued working on 2655
+- Discussed the theme changes with Jess
+- Started working on the 2905 bug where approval fails, the UI still changes
 
 ### 7/23/24
 - Fixed the 2689 bug in the morning
