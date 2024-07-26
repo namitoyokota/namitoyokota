@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/26/24
+- 2914 is looking good, hoping to have a PR soon
+- Hoping to get started the theme migration work
+
 ### 7/25/24
-- Have a PR up for 2905
-- Hoping to get started on 2839
+- Fixed the 2905 bug
+- Fixed another minor bug with 1940 - adding theme dialog's validation
+- Started working on 2914 for cleaning up the routing system
 
 ### 7/24/24
 - Continued working on 2655
