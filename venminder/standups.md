@@ -5,6 +5,7 @@
 ### 7/29/24
 - Did more theme investigation today
 - Have everything ready to start updating with confirmation from Jess
+- Have another PlayWright bug fix with the new routing change
 
 ### 7/26/24
 - Completed 2914
