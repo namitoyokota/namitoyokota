@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 7/29/24
+- Did more theme investigation today
+- Have everything ready to start updating with confirmation from Jess
+
 ### 7/26/24
-- 2914 is looking good, hoping to have a PR soon
-- Hoping to get started the theme migration work
+- Completed 2914
+- Fixed a PlayWright test with template builder
+- Worked on the theme migration - going through each theme to see which needs to be updated
 
 ### 7/25/24
 - Fixed the 2905 bug
