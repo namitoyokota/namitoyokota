@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 7/30/24
+- Starting on CSA
+
 ### 7/29/24
-- Did more theme investigation today
-- Have everything ready to start updating with confirmation from Jess
-- Have another PlayWright bug fix with the new routing change
+- Started working on the theme upgrades for SOCs
+- Also got a few of the other low hanging fruits - DNBi and Contract Compliance
 
 ### 7/26/24
 - Completed 2914
