@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 7/31/24
+- Working throuhg ISPA today
+
 ### 7/30/24
-- Starting on CSA
+- Worked on CSA and DPA yesterday
 
 ### 7/29/24
 - Started working on the theme upgrades for SOCs
