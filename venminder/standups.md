@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 8/1/24
+- Working on BCAs then start testing
+
 ### 7/31/24
-- Working throuhg ISPA today
+- Worked through ISPAs
 
 ### 7/30/24
 - Worked on CSA and DPA yesterday
