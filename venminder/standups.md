@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/2/24
+- Ready to test on hotfix but found a bug with themes
+- Will continue testing today
+
 ### 8/1/24
-- Working on BCAs then start testing
+- Finished BCAs
+- Fixed a bug for 2882
 
 ### 7/31/24
 - Worked through ISPAs
