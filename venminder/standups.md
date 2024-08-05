@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/5/24
+- More 2839 - found more inconsistent themes and template creation
+- Also had missed one theme to migrate so working on that today
+- Should get done with 2839 today and pick up the theme upload bug - 2941
+
 ### 8/2/24
-- Ready to test on hotfix but found a bug with themes
-- Will continue testing today
+- Continued working on 2839 - mostly on testing changes
 
 ### 8/1/24
 - Finished BCAs
