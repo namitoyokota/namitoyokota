@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 8/6/24
+- Trying to go through my ideas board and sending it in chat
+- Will likely start on a tech debt story today
+
 ### 8/5/24
-- More 2839 - found more inconsistent themes and template creation
-- Also had missed one theme to migrate so working on that today
-- Should get done with 2839 today and pick up the theme upload bug - 2941
+- Continued working on 2839 - fixing radio buttons and wrapping up the last theme
+- Everything should be good to go, will send that over to you Jess so you can work with them on upgrading
+- Will highly recommend not editing the theme, but creating a new theme and slowly moving them over for testing
+- Started working on the 2941 bug - PR ready this morning
 
 ### 8/2/24
 - Continued working on 2839 - mostly on testing changes
