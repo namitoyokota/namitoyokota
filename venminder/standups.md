@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/7/24
+- Found out that our global config doesn't do anything
+- Will continue on that work today
+
 ### 8/6/24
-- Trying to go through my ideas board and sending it in chat
-- Will likely start on a tech debt story today
+- Started working on 2777 - consistent playwright tests
 
 ### 8/5/24
 - Continued working on 2839 - fixing radio buttons and wrapping up the last theme
