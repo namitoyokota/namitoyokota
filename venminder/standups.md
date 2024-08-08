@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/8/24
+- Working on an approach to handling slow page load
+- Then hoping to resolve the artifact problem
+
 ### 8/7/24
-- Found out that our global config doesn't do anything
-- Will continue on that work today
+- Continued working on 2777
+- Fixed the global config but then found that it doesn't work remotely due to how the artifacts are structured
 
 ### 8/6/24
 - Started working on 2777 - consistent playwright tests
