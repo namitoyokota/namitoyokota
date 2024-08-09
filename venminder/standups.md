@@ -2,9 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 8/9/24
+- Spending time to complete the knowbe4 training
+- Creating some tasks that's been sitting in my to do list
+- Investigate into upgrading vm-library to latest version - seeing one issue I'm discussing with the FEG on
+
 ### 8/8/24
-- Working on an approach to handling slow page load
-- Then hoping to resolve the artifact problem
+- Continued working on 2777
+- Added tests to handle slow initial load times
+- Fixed the timeout issue on the server
+- Also added a feature flag check to the frameworks test
+- Everything is passing now, the test passed yesterday and today
 
 ### 8/7/24
 - Continued working on 2777
