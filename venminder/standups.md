@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/12/24
+- Completed the KnowBe4 training
+- Will be picking up a new story
+
 ### 8/9/24
-- Spending time to complete the knowbe4 training
-- Creating some tasks that's been sitting in my to do list
-- Investigate into upgrading vm-library to latest version - seeing one issue I'm discussing with the FEG on
+- Completed 2988 with showing none status in the evidence summary filter
+- Found a vm-library bug so worked with John on that - ended up fixing it myself
+- Also spent some time going through my to do list and adding enhancement ideas to the board
 
 ### 8/8/24
 - Continued working on 2777
