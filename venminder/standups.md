@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/13/24
+- I have the build errors resolved but actually have to start looking into the code
+- Will be creating a draft PR to start asking questions for you all
+
 ### 8/12/24
 - Completed the KnowBe4 training
-- Will be picking up a new story
+- Started working on 2744 - frontend and backend DTOs are done
 
 ### 8/9/24
 - Completed 2988 with showing none status in the evidence summary filter
