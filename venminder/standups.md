@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/14/24
+- Will continue back on 2744
+- Have a good bit I want to test and then will move on to investigating the range key change for data library
+
 ### 8/13/24
-- I have the build errors resolved but actually have to start looking into the code
-- Will be creating a draft PR to start asking questions for you all
+- Continued working on 2744
+- Got through the build errors and the controls hash key suggestion from Patrick
+- Found an issue with vm-library on GETS and worked with John
 
 ### 8/12/24
 - Completed the KnowBe4 training
