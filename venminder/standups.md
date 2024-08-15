@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/15/24
+- Today, I will spend most of the time testing and fixing any bugs that I find
+
 ### 8/14/24
-- Will continue back on 2744
-- Have a good bit I want to test and then will move on to investigating the range key change for data library
+- Continued working on 2744
+- Had a fun day writing scripts - spent most of the time reading documentation but finally got the scripts done this morning
 
 ### 8/13/24
 - Continued working on 2744
