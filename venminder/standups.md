@@ -3,7 +3,8 @@
 > December 5th, 2022 - Present
 
 ### 8/16/24
-- Picking up bug tasks and a few tech debt stories related to the vm-library changes
+- Picked up a bug task and a tech debt story related to the vm-library changes
+- Set up a meeting to discuss 2945 scripts so I can help
 
 ### 8/15/24
 - Continued working on 2744
