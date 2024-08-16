@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/16/24
+- Picking up bug tasks and a few tech debt stories related to the vm-library changes
+
 ### 8/15/24
-- Today, I will spend most of the time testing and fixing any bugs that I find
-- Also, they ended up reverting back the vm-library changes made recently, so I will have another PR to bump up the version number.
+- Continued working on 2744
+- Went smoother than expected - PR is complete so will test today
 
 ### 8/14/24
 - Continued working on 2744
