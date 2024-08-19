@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/17/24
+- Spending time testing a lot of that this morning including 2744
+- Found a script issue where Python package isn't installed correctly on the pipeline - investigating now
+- Hoping to start on 2945 scripts afterwards
+
 ### 8/16/24
-- Picked up a bug task and a tech debt story related to the vm-library changes
-- Set up a meeting to discuss 2945 scripts so I can help
+- Picked up 5 small stories - 3 demo feedback, 1 bug, 1 tech debt
 
 ### 8/15/24
 - Continued working on 2744
