@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
-### 8/17/24
-- Spending time testing a lot of that this morning including 2744
-- Found a script issue where Python package isn't installed correctly on the pipeline - investigating now
-- Hoping to start on 2945 scripts afterwards
+### 8/20/24
+- Continue to work on the basic script today, hoping to get it to a functional state
+
+### 8/19/24
+- Tested the stories I completed on Friday
+- Started researching for the 2945 script
+- Found useful information but for now, decided to write a basic synchronous script to get the logic down and improve the performance later
 
 ### 8/16/24
 - Picked up 5 small stories - 3 demo feedback, 1 bug, 1 tech debt
