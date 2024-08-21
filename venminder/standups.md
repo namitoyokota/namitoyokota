@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/21/24
+- Working on the last bit to generate the range key and update the database
+
 ### 8/20/24
-- Continue to work on the basic script today, hoping to get it to a functional state
+- Continued working on the 2945 script
+- Have the evidence grouped by document id and control ids retrieved from the controls table
 
 ### 8/19/24
 - Tested the stories I completed on Friday
