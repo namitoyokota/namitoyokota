@@ -3,6 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 8/22/24
+- Added a small change to 3010 from testing yesterday - PR is ready
 - Will be working on adding concurrency and improving the overall performance
 
 ### 8/21/24
