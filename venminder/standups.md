@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/22/24
+- Will be working on adding concurrency and improving the overall performance
+
 ### 8/21/24
-- Working on the last bit to generate the range key and update the database
+- Continued working on the script - 2945
+- ALl of the methods seem to be working
 
 ### 8/20/24
 - Continued working on the 2945 script
