@@ -18,8 +18,8 @@
 | ----------------- | --------------------- | ------------------------------------------------------------------ |
 | Stories Completed | 160                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
 | Bugs Fixed        | 142                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
-| PRs Completed     | 440 (9th @ Venminder) | -                                                                  |
-| Commits Made      | 5,353                 | -                                                                  |
+| PRs Completed     | 440 (9th @ Venminder) | [Custom Script](https://gist.github.com/namitoyokota/d8d9b8405cb51ca1c77ed2ab1328b5d9) |
+| Commits Made      | 5,353                 | Custom Script                                                      |
 
 Last Updated: _March 15th, 2024_
 
