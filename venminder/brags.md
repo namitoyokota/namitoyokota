@@ -1,4 +1,4 @@
-# Brag Documents @ Venminder
+# Brag Document @ Venminder
 
 > This is a list of most notable contributions to the **Venminder** product since December 5th of 2022.
 
@@ -14,12 +14,12 @@
 
 ## Statistics
 
-| Categories        | Count | Reference                                                          |
-| ----------------- | ----- | ------------------------------------------------------------------ |
-| Stories Completed | 140   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
-| Bugs Fixed        | 122   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
-| PRs Completed     | 369   | -                                                                  |
-| Commits Made      | 2,775 | -                                                                  |
+| Categories        | Count                 | Reference                                                          |
+| ----------------- | --------------------- | ------------------------------------------------------------------ |
+| Stories Completed | 160                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
+| Bugs Fixed        | 142                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
+| PRs Completed     | 440 (9th @ Venminder) | -                                                                  |
+| Commits Made      | 5,353                 | -                                                                  |
 
 Last Updated: _March 15th, 2024_
 
