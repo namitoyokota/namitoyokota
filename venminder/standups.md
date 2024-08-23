@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 8/23/24
+- Have a few things I want to test to see if I can see any improvement
+- Then start testing on hotfix data migrated to my environment
+
 ### 8/22/24
-- Added a small change to 3010 from testing yesterday - PR is ready
-- Will be working on adding concurrency and improving the overall performance
+- Had a small fix for 3010 in the morning - should be ready for testing now
+- Continued working on the 2945 scripts - have it running with multiple processes and threads
 
 ### 8/21/24
 - Continued working on the script - 2945
