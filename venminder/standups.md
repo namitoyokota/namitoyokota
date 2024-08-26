@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 8/26/24
+- Fixed a bug Jess found on 3010 - trying to get that in before David creates the release PR
+- Fixing a PlayWright error - has been failing for a few days but didn't have a chance to take a look
+- Will be trying out the 2945 script on a large data set
+
 ### 8/23/24
-- Have a few things I want to test to see if I can see any improvement
-- Then start testing on hotfix data migrated to my environment
+- Worked on the efficiency improvements for the data library migration script - 2945
+- Worked with Micahel on getting the hotfix data to my local environment - he ended up doing it manually for me
+- I have the back up created in the DEV accounts so we all have access now
 
 ### 8/22/24
 - Had a small fix for 3010 in the morning - should be ready for testing now
