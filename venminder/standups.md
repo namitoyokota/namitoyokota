@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/27/24
+- Have the updated script written so will be testing again on the hotfix data
+
 ### 8/26/24
-- Fixed a bug Jess found on 3010 - trying to get that in before David creates the release PR
-- Fixing a PlayWright error - has been failing for a few days but didn't have a chance to take a look
-- Will be trying out the 2945 script on a large data set
+- Fixed the 3010 bug that Jess found
+- Tried to fix the PlayWright test but it appears to still be failing so need to take a look again another time
+- Started testing 2945 on the hotfix data - ran into throughput issues
+- Started writing a new approach with a mix of synchronous and asynchronous workflow
 
 ### 8/23/24
 - Worked on the efficiency improvements for the data library migration script - 2945
