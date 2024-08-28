@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 8/28/24
+- Will be implementing a new approach with creating a new table and migrating everything over
+- Assuming it'll now even take longer, so will have to go back and see how I can improve performance again
+
 ### 8/27/24
-- Have the updated script written so will be testing again on the hotfix data
+- Tested the new script in the hotfix data and ran into a lot of issues
+  1. It takes too long - 2 hours and 10 minutes
+  2. Some of the entries were not retrieved - timing issue with paging and updating at the same time
 
 ### 8/26/24
 - Fixed the 3010 bug that Jess found
