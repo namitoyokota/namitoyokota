@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/29/24
+- Will likely be implementing the new approach assuming the team agrees
+
 ### 8/28/24
-- Will be implementing a new approach with creating a new table and migrating everything over
-- Assuming it'll now even take longer, so will have to go back and see how I can improve performance again
+- Continued on with 2945 - found a bug that was causing only about 30% of the records to be updated
+- Talked with Michael about the script and will be presenting his idea in the 16th minute
 
 ### 8/27/24
 - Tested the new script in the hotfix data and ran into a lot of issues
