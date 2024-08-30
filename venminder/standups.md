@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 8/30/24
+- Michael doesn't like the idea so more discussion today
+
 ### 8/29/24
-- Will likely be implementing the new approach assuming the team agrees
+- Started working on the new approach for 2945
+- Discussed with Michael
 
 ### 8/28/24
 - Continued on with 2945 - found a bug that was causing only about 30% of the records to be updated
