@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/3/24
+- Will be working with Carol on bugs that she's finding
+- Also have a meeting with Michael because he isn't liking this new approach so please attend - he wants to continue manually
+
 ### 8/30/24
-- Michael doesn't like the idea so more discussion today
+- Continued working on the new approach for 2945
+- Actually have the entire process working from exporting the table into importing
 
 ### 8/29/24
 - Started working on the new approach for 2945
