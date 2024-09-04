@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/4/24
+- Hoping to find the issue where control ids are not being found
+- Few instances where the data library entries have a weird data
+
 ### 9/3/24
-- Will be working with Carol on bugs that she's finding
-- Also have a meeting with Michael because he isn't liking this new approach so please attend - he wants to continue manually
+- Mostly meetings but did find solutions to the few bugs Carol found
+- Met with Michael and the team - will continue on with the current script for testing and change to file IO after it's complete
 
 ### 8/30/24
 - Continued working on the new approach for 2945
