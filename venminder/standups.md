@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/5/24
+- Will be taking on some of the minor frontend stories until we are ready to test
+- Also talked with Mary this morning - she said she'll get with you Jess on updating the Venminder logo in our PDFs
+
 ### 9/4/24
-- Hoping to find the issue where control ids are not being found
-- Few instances where the data library entries have a weird data
+- Continued working on the 2945 story with Carol
+- Got the PR up at the end of the day
 
 ### 9/3/24
 - Mostly meetings but did find solutions to the few bugs Carol found
