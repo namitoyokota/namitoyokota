@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 9/6/24
+- Have a PR out for adding new SOC report type options 3061 - need to bust the cache to test
+- Will look into the 3050 bug on FHA table calculation
+- Likely be testing rest of the day
+
 ### 9/5/24
-- Will be taking on some of the minor frontend stories until we are ready to test
-- Also talked with Mary this morning - she said she'll get with you Jess on updating the Venminder logo in our PDFs
+- Worked on a lot of small stories
+- 3069 for updating the Venminder logo
+- 3029 for adding NA/NP checkboxes to dropdown and checkbox controls
+- 3051 for fixing the radio button answer options
 
 ### 9/4/24
 - Continued working on the 2945 story with Carol
