@@ -2,10 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 9/7/24
+- More data library testing
+- Need to work with Michael at some point to run the migration script on integration
+
 ### 9/6/24
-- Have a PR out for adding new SOC report type options 3061 - need to bust the cache to test
-- Will look into the 3050 bug on FHA table calculation
-- Likely be testing rest of the day
+- Worked on a lot of small tasks
+- 3061 to add new report type options
+- 3050 for nvested line item calculations
+- Fixed PlayWright tests for the template builder
+- Spent rest of the day testing data library
 
 ### 9/5/24
 - Worked on a lot of small stories
