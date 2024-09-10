@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/8/24
+- Pushed changes to the script this morning
+- Will be mainly integration testing
+
 ### 9/7/24
-- More data library testing
-- Need to work with Michael at some point to run the migration script on integration
+- Tested gets most of the day
+- Had to finish the NContracts paperwork and meet with HR
+- Worked with Michael on the integration migration - integration is now ready to be tested
 
 ### 9/6/24
 - Worked on a lot of small tasks
