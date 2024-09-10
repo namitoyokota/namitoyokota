@@ -4,6 +4,7 @@
 
 ### 9/8/24
 - Pushed changes to the script this morning
+- Also created a small PR so that VSCode shows extension reommcnedations for the frontend project
 - Will be mainly integration testing
 
 ### 9/7/24
