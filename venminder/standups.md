@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 9/9/24
+- Will be updating our vm-library package to use latest
+- Will pick up something new if integration testing is complete
+
 ### 9/8/24
-- Pushed changes to the script this morning
-- Also created a small PR so that VSCode shows extension reommcnedations for the frontend project
-- Will be mainly integration testing
+- Pushed changes to the script
+- Created a PR so VSCode shows extension recommendations for the frontend project
+- Fixed the vm-date-picker bug
+- Mostly integration testing and bug fixes
 
 ### 9/7/24
 - Tested gets most of the day
