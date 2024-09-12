@@ -7,7 +7,7 @@
 - Have PT at 11 central - should only take an hour so that'll be my early lunch
 
 ### 9/11/24
-- Will be updating our vm-library package to pull in the vm-date-picker bug fix
+- Upgraded our vm-library package to pull in the vm-date-picker bug fix
 - Made updates from the 2945 script to handle white spaces in vendor name
 
 ### 9/10/24
