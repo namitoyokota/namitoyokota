@@ -2,17 +2,21 @@
 
 > December 5th, 2022 - Present
 
-### 9/9/24
-- Will be updating our vm-library package to use latest
-- Will pick up something new if integration testing is complete
+### 9/12/24
+- Will start helping David with the UI for 3072
+- Have PT at 11 central - should only take an hour so that'll be my early lunch
 
-### 9/8/24
+### 9/11/24
+- Will be updating our vm-library package to pull in the vm-date-picker bug fix
+- Made updates from the 2945 script to handle white spaces in vendor name
+
+### 9/10/24
 - Pushed changes to the script
 - Created a PR so VSCode shows extension recommendations for the frontend project
 - Fixed the vm-date-picker bug
 - Mostly integration testing and bug fixes
 
-### 9/7/24
+### 9/9/24
 - Tested gets most of the day
 - Had to finish the NContracts paperwork and meet with HR
 - Worked with Michael on the integration migration - integration is now ready to be tested
