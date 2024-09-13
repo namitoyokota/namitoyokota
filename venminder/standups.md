@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/13/24
+- Will continue on that today
+- Planning on pulling in PHX-2984 before completing 2021 though in order to add validations to template builder
+
 ### 9/12/24
 - Will start helping David with the UI for 3072
-- Have PT at 11 central - should only take an hour so that'll be my early lunch
+- Started working on the frontend for 2021
 
 ### 9/11/24
 - Upgraded our vm-library package to pull in the vm-date-picker bug fix
