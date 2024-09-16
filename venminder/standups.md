@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/16/24
+- 2984 is ready for review - improving template builder validation
+- Will go back to 2021 hoping to finish that up
+
 ### 9/13/24
-- Will continue on that today
-- Planning on pulling in PHX-2984 before completing 2021 though in order to add validations to template builder
+- Worked on the UI for 2021 - archiving templates and themes
+- Realized that PHX-2984 was needed so pull that in from tech debt
 
 ### 9/12/24
 - Will start helping David with the UI for 3072
