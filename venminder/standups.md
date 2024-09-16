@@ -6,6 +6,10 @@
 - 2984 is ready for review - improving template builder validation
 - Will go back to 2021 hoping to finish that up
 
+### 9/15/24
+- Release with Sean, Michael, and David
+- Scary moment but we were able to resolve all of the issues and release eventually
+
 ### 9/13/24
 - Worked on the UI for 2021 - archiving templates and themes
 - Realized that PHX-2984 was needed so pull that in from tech debt
