@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 9/17/24
+- Working on the PlayWright tests for 2021 now but need for the PR to go through and test on GETS
+- Will start working on 2983 to add the rest of filtering to all grids
+
 ### 9/16/24
-- 2984 is ready for review - improving template builder validation
-- Will go back to 2021 hoping to finish that up
+- Added dynamic validation dialog to template builder - 2984
+- Worked on the last bit of UI changes for 2021
 
 ### 9/15/24
 - Release with Sean, Michael, and David
