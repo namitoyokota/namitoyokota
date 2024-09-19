@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/19/24
+- Working on the PlayWright updates for fixing the authentication steps and 2021
+- After that, hoping to change gears to the frontend board to a vm-library component migration
+
 ### 9/18/24
-- All things go well, I'm hoping to finish up both
+- Finished the filtering to all vm-grids - 2983
 
 ### 9/17/24
 - Started working on 2983 to add filtering to all of the grid
