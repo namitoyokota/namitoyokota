@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 9/20/24
+- Spent some time preparing for the demo - wanting to ask either Jess or David to demo the data library piece
+- More to work on 1383 there - hoping to finish that up
+
 ### 9/19/24
-- Working on the PlayWright updates for fixing the authentication steps and 2021
-- After that, hoping to change gears to the frontend board to a vm-library component migration
+- Fixed PlayWright and added testing for archival
+- Talked with Hunter on vm-library changes specifically with vm-filter - he liked the changes so now I need to convince Tracey
+- Worked on the production bug 3102 with the NA/NP section calculations
+- Fixed the vm-filter issues Carol found alongside a few more filterings that I thought of
+- Towards the end of the day, started working with Patrick on adding bulk delete to 1383
 
 ### 9/18/24
 - Finished the filtering to all vm-grids - 2983
