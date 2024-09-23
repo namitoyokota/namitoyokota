@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 9/23/24
+- Need to discuss 3102
+- Picking up a new story
+
 ### 9/20/24
-- Spent some time preparing for the demo - wanting to ask either Jess or David to demo the data library piece
-- More to work on 1383 there - hoping to finish that up
+- Finished the last bit of UI changes for 1383
+- Worked on the vm-filter enhancements - need to talk to Tracey
+- Spent some time at the end working on the 3102 bug fix
 
 ### 9/19/24
 - Fixed PlayWright and added testing for archival
