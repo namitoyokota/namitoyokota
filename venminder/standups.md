@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 9/24/24
+- Continuing work on 2017
+- Have a dentist appointment during lunch so maybe a few minutes late to team building
+
 ### 9/23/24
-- Need to discuss 3102
-- Picking up a new story
+- Fixed a filtering bug with vm-filter - FE-209
+- Discussed filter pane UI improvements with Tracey - coulnd't convince so leaving it for now
+- More bug fixes for 3102
+- Started working on 2017 with Patrick
 
 ### 9/20/24
 - Finished the last bit of UI changes for 1383
