@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/25/24
+- Continue with 2017
+
 ### 9/24/24
-- Continuing work on 2017
-- Have a dentist appointment during lunch so maybe a few minutes late to team building
+- Continued working on 2017 - mostly brainstorming and researching
+- Found an example of a collapsible grid with a help from Hunter and also learned that backend paging is possible with vm-grid when we get to PHX-2653
 
 ### 9/23/24
 - Fixed a filtering bug with vm-filter - FE-209
