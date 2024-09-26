@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 9/27/24
+- PTO
+
 ### 9/26/24
 - Will be going back to 2017
+- Will be off on PTO tomorrow
 
 ### 9/25/24
 - Worked on adding collapsible grid to vm-library's testbed - useful for my knowledge and future example
