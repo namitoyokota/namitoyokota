@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 9/26/24
+- Will be going back to 2017
+
 ### 9/25/24
-- Continue with 2017
+- Worked on adding collapsible grid to vm-library's testbed - useful for my knowledge and future example
 
 ### 9/24/24
 - Continued working on 2017 - mostly brainstorming and researching
