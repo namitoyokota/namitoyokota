@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/1/24
+- Working on bug fixes and improvements for 2017
+
 ### 9/30/24
-- Will be back on 2017 today
+- Continued working on 2017
 
 ### 9/27/24
 - PTO
