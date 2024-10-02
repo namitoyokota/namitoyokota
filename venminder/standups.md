@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/2/24
+- Had a few changes I missed but that is complete - PR is ready
+- Will upgrade the vm-library version in DCDev and make a small change
+- WIll likely start on 2652 by investigating asynchronous grid
+
 ### 10/1/24
-- Working on bug fixes and improvements for 2017
+- Continued working on 2017
 
 ### 9/30/24
 - Continued working on 2017
