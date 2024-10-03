@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/3/24
+- Have the basics done but having a few issues with the paging so will likely be working with Hunter today
+
 ### 10/2/24
-- Had a few changes I missed but that is complete - PR is ready
-- Will upgrade the vm-library version in DCDev and make a small change
-- WIll likely start on 2652 by investigating asynchronous grid
+- Finished 2017
+- Upgraded the vm-library version in DCDev to consume a change I made in vm-grid
+- Started investigating the asynchronous grid for 2652 - currently working on adding an example to the vm-library testbed
 
 ### 10/1/24
 - Continued working on 2017
