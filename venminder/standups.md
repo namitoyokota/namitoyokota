@@ -3,7 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 10/3/24
-- Have the basics done but having a few issues with the paging so will likely be working with Hunter today
+- Have the basics working - will be building on top of it today
 
 ### 10/2/24
 - Finished 2017
