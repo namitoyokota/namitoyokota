@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/4/24
+- Investigating 3158
+- Hoping to work on other minor bug fixes - 3116 and 3115
+
 ### 10/3/24
-- Have the basics working - will be building on top of it today
+- Got the asynchronous grid added to vm-library's testbed
+- Fixed a bug with 2017
+- Also fixed the bug with preview not working for our markdown content - 3153
 
 ### 10/2/24
 - Finished 2017
