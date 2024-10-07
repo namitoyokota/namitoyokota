@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/7/24
+- Will continue working on 2949 today
+
 ### 10/4/24
-- Investigating 3158
-- Hoping to work on other minor bug fixes - 3116 and 3115
+- Fixed 3158 bug
+- Completed 3115 and 3116 bugs
+- Started working on 2949
 
 ### 10/3/24
 - Got the asynchronous grid added to vm-library's testbed
