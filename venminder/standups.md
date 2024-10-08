@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/8/24
+- Will start adding the implementation to rest of the tables
+
 ### 10/7/24
-- Will continue working on 2949 today
+- Continued working on 2949
+- Have most of the services implemented with the templates table
 
 ### 10/4/24
 - Fixed 3158 bug
