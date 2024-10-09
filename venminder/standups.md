@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/9/24
+- Will be working on saving hidden columns today
+
 ### 10/8/24
-- Will start adding the implementation to rest of the tables
+- Continued on 2949
+- Making steady progress - have queries and orders working
 
 ### 10/7/24
 - Continued working on 2949
