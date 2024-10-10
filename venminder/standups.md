@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/10/24
+- Investigating a minor edge case - hoping to publish a PR sometime today
+
 ### 10/9/24
-- Will be working on saving hidden columns today
+- Continued working on 2949
 
 ### 10/8/24
 - Continued on 2949
