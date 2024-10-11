@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 10/11/24
+- Have a PR for cleaning up the file names to follow a naming convention
+- Will be implementing page size to the grid parameter store as Patrick suggested - 2949
+- Depending on how much time I have, will work on some clean up or start investigating the story for new sprint
+
 ### 10/10/24
-- Investigating a minor edge case - hoping to publish a PR sometime today
+- Created a PR for 2949
+- Worked on bug fixes for previous bug fixes - 3115 and 3158
 
 ### 10/9/24
 - Continued working on 2949
