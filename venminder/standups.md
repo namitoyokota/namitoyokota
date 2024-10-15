@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/15/24
+- Will continue working on 3161
+
 ### 10/14/24
-- Started working on 1167 for displaying documents in the order information dialog
-- Will pick up 3161 afterwards
+- Finished 1167
+- Then started working on 3161
 
 ### 10/11/24
 - Implemented page size to the grid parameter store as Patrick suggested - 2949
