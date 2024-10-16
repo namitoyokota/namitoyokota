@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/16/24
+- Will get back to working on 3161
+
 ### 10/15/24
-- Will continue working on 3161
+- Took a pause on everything
 
 ### 10/14/24
 - Finished 1167
