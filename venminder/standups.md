@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/17/24
+- Will be working on a lot of clean up and performance improvements
+
 ### 10/16/24
-- Will get back to working on 3161
+- Made good progress on 3161
 
 ### 10/15/24
 - Took a pause on everything
