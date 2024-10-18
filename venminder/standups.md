@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/18/24
+- Have everything done - testing now and hoping to get PR up
+- Will start working on 3163
+
 ### 10/17/24
-- Will be working on a lot of clean up and performance improvements
+- More 3161
 
 ### 10/16/24
 - Made good progress on 3161
