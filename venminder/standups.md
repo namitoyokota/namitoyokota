@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/21/24
+- Hoping to work on some to do tasks that I've been meaning to work on - cleaning up the enums and interfaces folders
+- Will get started on 3163 story afterwards
+
 ### 10/18/24
-- Have everything done - testing now and hoping to get PR up
-- Will start working on 3163
+- Wrapped up 3161 - PR is ready for code review
 
 ### 10/17/24
 - More 3161
