@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/22/24
+- Working on last bit of 1167 now that we can open PDFs in a new tab
+- Will get started on 3163 afterwards
+
 ### 10/21/24
-- Hoping to work on some to do tasks that I've been meaning to work on - cleaning up the enums and interfaces folders
-- Will get started on 3163 story afterwards
+- Worked on code clean up
 
 ### 10/18/24
 - Wrapped up 3161 - PR is ready for code review
