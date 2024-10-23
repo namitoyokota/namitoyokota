@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/23/24
+- Will continue working on 3163
+
 ### 10/22/24
-- Working on last bit of 1167 now that we can open PDFs in a new tab
-- Will get started on 3163 afterwards
+- Finished 1167
+- Started working on 3163 - came up with a good idea where order id creates a dummy assessment object
 
 ### 10/21/24
 - Worked on code clean up
