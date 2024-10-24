@@ -2,8 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 10/24/24
+- Getting close so hoping to wrap it up today
+
 ### 10/23/24
-- Will continue working on 3163
+- Continued working on 3163
 
 ### 10/22/24
 - Finished 1167
