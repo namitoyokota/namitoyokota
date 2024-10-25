@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 10/25/24
+- Working on PR comments from Hunter
+- Will start on 3145 frontend afterwards
+
 ### 10/24/24
-- Getting close so hoping to wrap it up today
+- Wrapped up 3163
 
 ### 10/23/24
 - Continued working on 3163
