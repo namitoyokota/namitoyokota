@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/28/24
+- Will likely focus on the bug board today
+
 ### 10/25/24
-- Working on PR comments from Hunter
-- Will start on 3145 frontend afterwards
+- Finished up 3163
+- Then completed the frontend for 3145 as well
+- Fixed few of the gets bugs gound
 
 ### 10/24/24
 - Wrapped up 3163
