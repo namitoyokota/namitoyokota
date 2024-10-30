@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 10/29/24
+- Working on a few improvements to the frontend codebase
+- Will spend rest of the day testing integration and gets
+
 ### 10/28/24
-- Will likely focus on the bug board today
+- Worked on a tech debt story for improving the rich text editor
+- Met with my team for the first time
 
 ### 10/25/24
 - Finished up 3163
