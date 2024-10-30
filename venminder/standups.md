@@ -3,6 +3,7 @@
 > December 5th, 2022 - Present
 
 ### 10/29/24
+- Spent time setting up all of the Ncontract accounts
 - Working on a few improvements to the frontend codebase
 - Will spend rest of the day testing integration and gets
 
