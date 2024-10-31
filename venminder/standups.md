@@ -2,14 +2,22 @@
 
 > December 5th, 2022 - Present
 
-### 10/29/24
-- Spent time setting up all of the Ncontract accounts
-- Working on a few improvements to the frontend codebase
-- Will spend rest of the day testing integration and gets
+### 10/31/24
+- Have a few PRs for improvements and bug fixes
+- Will start working on the machine set up guide - focus on frontend to start
+- Will be testing our gets environment as well
 
-### 10/28/24
+### 10/30/24
+- Mostly worked on tech debt improvements to the frontend codebase that I've been putting off
+- Spent time setting up NContracts accounts and email for Outlook and Teams
+
+### 10/29/24
 - Worked on a tech debt story for improving the rich text editor
 - Met with my team for the first time
+
+### 10/28/24
+- Bug fixes and minor improvements
+- Learned about the new team and project structure
 
 ### 10/25/24
 - Finished up 3163
