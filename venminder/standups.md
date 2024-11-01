@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 11/1/24
+- That change is ready for code review
+- Not sure what I'll focus on today, need help from Jess/Sean
+
 ### 10/31/24
-- Have a few PRs for improvements and bug fixes
-- Will start working on the machine set up guide - focus on frontend to start
-- Will be testing our gets environment as well
+- Worked on bug fixes in the morning
+- Then focused on the machine set up guide
+- Have the frontend side complete, Sean let me know if you want help with the backend
+- Spent time testing the GETS environment and investigating a bug caused by 2949
 
 ### 10/30/24
 - Mostly worked on tech debt improvements to the frontend codebase that I've been putting off
