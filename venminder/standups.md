@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/4/23
+- Prepared the release - waiting for approvals
+- Investigating an issue with the rich text editor
+- Will likely pick up one of the new stories
+
 ### 11/1/24
 - That change is ready for code review
-- Not sure what I'll focus on today, need help from Jess/Sean
+- Continued working on frontend codebase improvements
 
 ### 10/31/24
 - Worked on bug fixes in the morning
