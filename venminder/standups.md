@@ -3,8 +3,8 @@
 > December 5th, 2022 - Present
 
 ### 11/5/24
-- One of the bugs is resolved and PR is ready for reviews
-- Other, I'm close to finishing, so will get the integration release going after the change goes in
+- Both of the bugs have been resolved and PR is ready for reviews
+- Will get the integration release going after the change goes in
 - Hoping to read the development handbook if I have time
 - Will be out for rest of the week
 
