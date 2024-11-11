@@ -2,11 +2,23 @@
 
 > December 5th, 2022 - Present
 
+### 11/11/24
+- Would like to discuss release plans and corresponding branches
+- Getting started on TBD-7
+
+### 11/8/24
+- PTO
+
+### 11/7/24
+- PTO
+
+### 11/6/24
+- PTO
+
 ### 11/5/24
-- Both of the bugs have been resolved and PR is ready for reviews
-- Will get the integration release going after the change goes in
-- Hoping to read the development handbook if I have time
-- Will be out for rest of the week
+- Worked on the bug fixes for rich text editor
+- Updated the release candidate and release notes
+- Also completed the TBD-6 story - ready for review
 
 ### 11/4/23
 - Prepared the release for Sunday
