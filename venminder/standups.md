@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/12/24
+- Should have a PR up soon - noticed a feature that required backend work
+- At the bottom of the evidence details section, there is a last modified date which we don't currently store
+- That will require a small backend change, so I can either handle that or create a separate story for either Joelle or Debra to take once they get onboarded
+- Hoping to get started on TBD-8
+
 ### 11/11/24
-- Would like to discuss release plans and corresponding branches
-- Getting started on TBD-7
+- Started working on TBD-7
 
 ### 11/8/24
 - PTO
