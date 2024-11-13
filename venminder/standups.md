@@ -2,11 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/13/24
+- Made a few changes to the Machine Set up guide from the current findings
+- Likely will get started on NC-8
+- Need to create a separate story for adding last modified date to evidence
+
 ### 11/12/24
-- Should have a PR up soon - noticed a feature that required backend work
-- At the bottom of the evidence details section, there is a last modified date which we don't currently store
-- That will require a small backend change, so I can either handle that or create a separate story for either Joelle or Debra to take once they get onboarded
-- Hoping to get started on TBD-8
+- Yesterday got the PR for NC-7 - waiting on reviewers
+- Worked on the evidence report bug - NC-28
 
 ### 11/11/24
 - Started working on TBD-7
