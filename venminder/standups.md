@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/14/24
+- Hoping to wrap up NC-8 today and pick up something new
+
 ### 11/13/24
-- Made a few changes to the Machine Set up guide from the current findings
-- Likely will get started on NC-8
-- Need to create a separate story for adding last modified date to evidence
+- Started working on NC-8
+- Created a separate story for adding last modified date - NC-33
+- Also created a new wiki page for topics to discuss within our team - feel free to add topics
 
 ### 11/12/24
 - Yesterday got the PR for NC-7 - waiting on reviewers
