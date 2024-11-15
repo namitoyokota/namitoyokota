@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 11/15/24
+- Have all of that working but forgot about the data library piece
+- Will have a few questions for Jess and will likely be getting help from David or Patrick
+- Hoping to finish that up today
+
 ### 11/14/24
-- Hoping to wrap up NC-8 today and pick up something new
+- Wrapped up NC-8 - that is ready for PR review
+- Started working on NC-33
 
 ### 11/13/24
 - Started working on NC-8
