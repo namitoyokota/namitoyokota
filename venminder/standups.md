@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/18/24
+- Going back to NC-6 for a bug Jess found
+- Continue back on NC-33 - will take a bit longer for the backend changes
+
 ### 11/15/24
-- Have all of that working but forgot about the data library piece
-- Will have a few questions for Jess and will likely be getting help from David or Patrick
-- Hoping to finish that up today
+- Continued working on NC-33, discussed changes with Patrick and got some guidance
+- Worked on completing NC-8 with PR comments - should be ready for testing on GETS
 
 ### 11/14/24
 - Wrapped up NC-8 - that is ready for PR review
