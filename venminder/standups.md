@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/19/24
+- PR is out and ready for review
+- Will go back to NC-33 afterwards
+
 ### 11/18/24
-- Going back to NC-6 for a bug Jess found
-- Continue back on NC-33 - will take a bit longer for the backend changes
+- Went back to NC-6 to investigate a bug Jess found on gets
+- Took me way to long but eventually found out that it was a component attachment issue
 
 ### 11/15/24
 - Continued working on NC-33, discussed changes with Patrick and got some guidance
