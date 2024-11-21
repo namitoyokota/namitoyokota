@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/21/24
+- That is on GETS now, ready for testing
+- Investigating the feedback report bug with rejected flags not displaying - will have a PR shortly
+- Also found from testing NC-33 that approved assessments are still requesting updates from data library - looking into that today
+
 ### 11/20/24
-- Mostly backend so taking time on it but getting close to finishing
-- Hoping to have a PR out today
+- Continued working on NC-33 story and PR completed at the end of the day
 
 ### 11/19/24
 - Completed NC-6 bug - everything from NC-6, 7, and 8 is now on gets and can be released whenever we want
