@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 11/22/24
+- Had to change the password this morning - everything is good except for the authenticator acting up
+- Start investigating NC-10 - one of the workflow bugs
+
 ### 11/21/24
-- That is on GETS now, ready for testing
-- Investigating the feedback report bug with rejected flags not displaying - will have a PR shortly
-- Also found from testing NC-33 that approved assessments are still requesting updates from data library - looking into that today
+- Worked on 2 bug fixes - NC-44 and NC-45
+- Both have gone into gets and ready for testing - if all succeeds, I recommend both of these to go in next release
 
 ### 11/20/24
 - Continued working on NC-33 story and PR completed at the end of the day
