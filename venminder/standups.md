@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 11/25/24
+- Taking NC-13
+
 ### 11/22/24
-- Had to change the password this morning - everything is good except for the authenticator acting up
-- Start investigating NC-10 - one of the workflow bugs
+- Investigated NC-10 bug - tested on gets and integration, unable to reproduce
+- Jess and Angel, if you guys also see the same behavior, will close the ticket
 
 ### 11/21/24
 - Worked on 2 bug fixes - NC-44 and NC-45
