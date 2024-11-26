@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 11/27/24
+- PTO
+
+### 11/26/24
+- I'm going to make sure that the frontend is able to indicate the error as well
+- Hoping to get a PR out before lunch
+
 ### 11/25/24
-- Taking NC-13
+- Started looking into NC-13 - found the bug causing the endpoint to break was a null reference
 
 ### 11/22/24
 - Investigated NC-10 bug - tested on gets and integration, unable to reproduce
