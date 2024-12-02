@@ -2,12 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 12/2/24
+- Created bugs and tech debt stories found last week
+- Hoping to finish up NC-13
+- Will pick up something new
+
 ### 11/27/24
 - PTO
 
 ### 11/26/24
-- I'm going to make sure that the frontend is able to indicate the error as well
-- Hoping to get a PR out before lunch
+- Spent time looking at the NC-13 bug
+- Switched gears to work on NC-49 for updating the exception subsection - PR is ready for review
 
 ### 11/25/24
 - Started looking into NC-13 - found the bug causing the endpoint to break was a null reference
