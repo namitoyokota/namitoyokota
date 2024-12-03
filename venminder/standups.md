@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 12/3/24
+- Will likely push up the NC-55 fix for now and handle the rest later considering Jess wants to work on the SOC stories
+
 ### 12/2/24
-- Created bugs and tech debt stories found last week
-- Hoping to finish up NC-13
-- Will pick up something new
+- DCDev stopped working so spent time investigating that - with Sean's help it's back now
+- While getting stuck, investigated NC-55 with grid filtering bug - have the fix but also found another bug
 
 ### 11/27/24
 - PTO
