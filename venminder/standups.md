@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/4/24
+- Will be working on NC-51 - hoping to get a PR out by the end of day
+
 ### 12/3/24
-- Will likely push up the NC-55 fix for now and handle the rest later considering Jess wants to work on the SOC stories
+- Created a PR fpr NC-13 - waiting for one more approval
+- Worked on NC-55 but found another bug so put that PR back into draft
+- Worked on NC-50 after meeting with Jess - PR is ready for review
 
 ### 12/2/24
 - DCDev stopped working so spent time investigating that - with Sean's help it's back now
