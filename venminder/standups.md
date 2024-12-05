@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/5/24
+- Feeling a bit sick - hoping to push through
+- Taking NC-59 bug where controls were duplicated
+
 ### 12/4/24
-- Will be working on NC-51 - hoping to get a PR out by the end of day
+- Worked on NC-51 and have the PR ready for review
+- Have 3 PRs out - NC-50 and NC-51 should be first priority - will send hyperlinks in chat
 
 ### 12/3/24
 - Created a PR fpr NC-13 - waiting for one more approval
