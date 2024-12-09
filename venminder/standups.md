@@ -2,9 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 12/9/24
+- Not 100% but starting to finally feel better
+- NC-50 and NC-51 is ready for testing on GETS
+- Likely going to put NC-59 in waiting and pick up something new
+
+### 12/6/24
+- Got more sick - PTO
+
 ### 12/5/24
-- Feeling a bit sick - hoping to push through
-- Taking NC-59 bug where controls were duplicated
+- Tried to reproduce the NC-59 bug - didn't have any success
+- Took the afternoon off with sickness
 
 ### 12/4/24
 - Worked on NC-51 and have the PR ready for review
