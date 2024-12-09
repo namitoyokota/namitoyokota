@@ -6,6 +6,7 @@
 - Not 100% but starting to finally feel better
 - NC-50 and NC-51 is ready for testing on GETS
 - Likely going to put NC-59 in waiting and pick up something new
+- I did find UI bugs testing NC_59 though so I'm working on that now
 
 ### 12/6/24
 - Got more sick - PTO
