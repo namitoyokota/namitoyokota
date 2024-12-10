@@ -2,11 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 12/10/24
+- Have the changes done other than the backend - have a technical question for the team after
+- Hoping to test and finish that today
+
 ### 12/9/24
-- Not 100% but starting to finally feel better
-- NC-50 and NC-51 is ready for testing on GETS
-- Likely going to put NC-59 in waiting and pick up something new
-- I did find UI bugs testing NC_59 though so I'm working on that now
+- Started working on NC-64
 
 ### 12/6/24
 - Got more sick - PTO
