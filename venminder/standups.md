@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 12/11/24
+- Need to go back to NC-13 to see why the bug fix isn't working on GETS
+
 ### 12/10/24
-- Have the changes done other than the backend - have a technical question for the team after
-- Hoping to test and finish that today
+- Finished NC-64 - PR is ready for review
+- Started working on a missed requirement in NC-51 - PR is also ready for review this morning
 
 ### 12/9/24
 - Started working on NC-64
