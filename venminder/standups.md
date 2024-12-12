@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 12/12/24
+- Hoping to get all of the stories from yesterday tested - will work on fixes as needed
+- Planning to take NC-48 unless there's more urgent story
+
 ### 12/11/24
-- Need to go back to NC-13 to see why the bug fix isn't working on GETS
+- Finished up NC-15
+- Fixed the NC-13 issue - looked like a branchinG issue
+- Worked on PR comments for NC-64
+- Also talked with Hunter about creating a new vm-library package in React - will be a fun side project
 
 ### 12/10/24
 - Finished NC-64 - PR is ready for review
