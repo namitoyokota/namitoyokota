@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 12/13/24
+- Should have a PR for NC-46 before noon
+- Hoping to take a look at what Hunter has with the component library project
+- Also might have an idea on how the duplicate controls are happening within assessments - parking log
+
 ### 12/12/24
-- Hoping to get all of the stories from yesterday tested - will work on fixes as needed
-- Planning to take NC-48 unless there's more urgent story
+- Fixed NC-51
+- Worked with Jess on themes
+- Started working on NC-46
 
 ### 12/11/24
 - Finished up NC-15
