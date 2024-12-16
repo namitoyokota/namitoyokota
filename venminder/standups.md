@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/16/24
+- Have a good solution so will be working on that implementation
+- Planning to pick up few of the UI bugs on the board afterwards
+
 ### 12/13/24
-- Should have a PR for NC-46 before noon
-- Hoping to take a look at what Hunter has with the component library project
-- Also might have an idea on how the duplicate controls are happening within assessments - parking log
+- Wrapped up NC-46 with removing the Venminder logo from CUEC PDF
+- Had the discussion for duplicate controls - NC-59 - started brainstorming different approaches
 
 ### 12/12/24
 - Fixed NC-51
