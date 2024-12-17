@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 12/17/24
+- Should have a PR out for that soon
+- Need to go back and re-implement NC-46 for the Control Assessments side
+- Hoping to get to reviewing Hunter's code on his React project
+
 ### 12/16/24
-- Have a good solution so will be working on that implementation
-- Planning to pick up few of the UI bugs on the board afterwards
+- Worked on the NC-59 bug fix - PR is ready for review
+- Then started working on NC-75 towards the end of day
 
 ### 12/13/24
 - Wrapped up NC-46 with removing the Venminder logo from CUEC PDF
