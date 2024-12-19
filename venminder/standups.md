@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 12/19/24
+- Still have 75 looking for reviewers
+- Spent time reviewing Debra's NC-9 - let me know if you have questions on my comments
+- Will test all of my code changes on gets
+- Hoping for a chill day
+
 ### 12/18/24
-- Have a PR out for NC-79 ready for review
-- Going back to NC-75
-- Will pick up something new - might be worth investigating all of the bugs again
+- Worked on getting NC-59 out
+- Got a lot of PRs out
 
 ### 12/17/24
 - Finished NC-75 - need to go back to PR comments
