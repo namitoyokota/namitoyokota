@@ -2,11 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 12/20/24
+- 84
+
 ### 12/19/24
-- Still have 75 looking for reviewers
-- Spent time reviewing Debra's NC-9 - let me know if you have questions on my comments
-- Will test all of my code changes on gets
-- Hoping for a chill day
+- Mostly release stuff and more bugs
 
 ### 12/18/24
 - Worked on getting NC-59 out
