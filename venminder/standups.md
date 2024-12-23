@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 12/21/24
+- Have a lot of minor things to work on in my todo list so hoping I can do all of that today - mostly writing stories and documenting bugs
+- Will be off until the 2nd
+
 ### 12/20/24
-- 84
+- Meetings most of the day
+- Investigated NC-84 for a bit, will be adding my findings into the story
 
 ### 12/19/24
 - Mostly release stuff and more bugs
