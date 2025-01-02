@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/2/25
+- Catching up on everything
+- Need to go back to NC-84 - looks like Sean may have fixed the issue
+
 ### 12/21/24
-- Have a lot of minor things to work on in my todo list so hoping I can do all of that today - mostly writing stories and documenting bugs
-- Will be off until the 2nd
+- A lot of clean up and to do tasks
 
 ### 12/20/24
 - Meetings most of the day
