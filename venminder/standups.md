@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 1/3/25
+- Have a PR for NC-12 ready
+- Planning on taking NC-48
+- Need to set up 401k as well
+
 ### 1/2/25
-- Catching up on everything
-- Need to go back to NC-84 - looks like Sean may have fixed the issue
+- Looked into NC-84 and I'm pretty certain Sean's change will fix that
+- Spent time reviewing pull requests
+- Started looking into NC-12 towards the end of day
 
 ### 12/21/24
 - A lot of clean up and to do tasks
