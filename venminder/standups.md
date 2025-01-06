@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 1/6/25
+- Not really familiar with the onboarding so will be doing more investigation on NC-48
+
 ### 1/3/25
-- Have a PR for NC-12 ready
-- Planning on taking NC-48
-- Need to set up 401k as well
+- Finished up NC-12 - ready for testing on GETS
+- Worked with Joelle some on NC-104
+- Spent time setting up the 401k and also got GitHub Copilot access
+- Started looking into the NC-48 bug at the end of the day
 
 ### 1/2/25
 - Looked into NC-84 and I'm pretty certain Sean's change will fix that
