@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/7/25
+- I think I found the code so will be doing more investigation today
+
 ### 1/6/25
-- Not really familiar with the onboarding so will be doing more investigation on NC-48
+- Spent a good bit of time in meetings
+- Focused on NC-48 - hard to investigate when debug isn't working for me - can run with `dotnet run`
 
 ### 1/3/25
 - Finished up NC-12 - ready for testing on GETS
