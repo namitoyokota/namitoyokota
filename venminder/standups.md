@@ -2,8 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 1/8/25
+- Have the PR for NC-13 ready - will push up to integration main afterwards
+- Hoping to look into the pipeline issue Joelle is seeing
+- NC-48 will likely be last priority
+
 ### 1/7/25
-- I think I found the code so will be doing more investigation today
+- Worked with Angel on the integration issue for NC-13
+- Worked on getting the CA release for today up to integration
+- Looked into NC-48 some
 
 ### 1/6/25
 - Spent a good bit of time in meetings
