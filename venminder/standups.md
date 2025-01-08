@@ -6,6 +6,7 @@
 - Have the PR for NC-13 ready - will push up to integration main afterwards
 - Hoping to look into the pipeline issue Joelle is seeing
 - NC-48 will likely be last priority
+- Hoping to set up my new computer as well - just received in mail yesterday
 
 ### 1/7/25
 - Worked with Angel on the integration issue for NC-13
