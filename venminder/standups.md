@@ -2,11 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 1/9/25
+- Hoping to get back to NC-48 in between meetings
+
 ### 1/8/25
-- Have the PR for NC-13 ready - will push up to integration main afterwards
-- Hoping to look into the pipeline issue Joelle is seeing
-- NC-48 will likely be last priority
-- Hoping to set up my new computer as well - just received in mail yesterday
+- Worked on NC-13 and the DCDev release
+- Researched Control Assessments release for NC-101
+- Investigated the local development issue with Debra and Sean
+- Talked with Chris at the end of the day
 
 ### 1/7/25
 - Worked with Angel on the integration issue for NC-13
