@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/10/25
+- Planning to investigate NC-118
+
 ### 1/9/25
-- Hoping to get back to NC-48 in between meetings
+- Finally wrapped up NC-48 - need reviews, simple code change just was hard to test locally
+- Mostly meetings outside of that
 
 ### 1/8/25
 - Worked on NC-13 and the DCDev release
