@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/13/25
+- NC-48 is back ready for reviews
+- Investigated NC-118 on integration but unable to reproduce - can you request a integration refresh on DCDev and CA?
+- Planning to spend time setting up the new computer unless something urgent comes up
+
 ### 1/10/25
-- Planning to investigate NC-118
+- Continued working on NC-48 - testing to make sure it doesn't break + adding unit tests
 
 ### 1/9/25
 - Finally wrapped up NC-48 - need reviews, simple code change just was hard to test locally
