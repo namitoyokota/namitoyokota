@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 1/15/25
+- Unable to reproduce again so waiting on their response - it appears to be a different issue than I thought
+- I want to pull in NC-109 since that is a bug on production and may be related
+
 ### 1/14/25
-- Planning to investigate NC-118 again since we now have the integration refresh
-- Will likely pause on the computer set up since IT isn't responding
-- Pick up something new
+- Investigated NC-118 - it appeared to have been fixed
+- Worked on NC-115 - had to do some research but it was simple after that - PR ready for review
+- Started looking into NC-123
 
 ### 1/13/25
 - Finished NC-48 - is ready for testing on GETS
