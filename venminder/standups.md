@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/16/25
+- I thought I found the root cause with NC-123 but that wasn't the issue, so back to square 1 today
+
 ### 1/15/25
-- Unable to reproduce again so waiting on their response - it appears to be a different issue than I thought
-- I want to pull in NC-109 since that is a bug on production and may be related
+- Spent time looking into all of the current production bugs and adding information - 123, 124, and 125
+- Updated a theme in NC-124 for Jess
+- Looked into NC-123
 
 ### 1/14/25
 - Investigated NC-118 - it appeared to have been fixed
