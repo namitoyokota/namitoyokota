@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/17/25
+- I'm starting to document my findings so far and hoping I can come up with a few more ideas
+
 ### 1/16/25
-- I thought I found the root cause with NC-123 but that wasn't the issue, so back to square 1 today
+- Worked with Sean on getting QA-0 set up
+- Good news is QA-0 is working
+- Bad news is I'm still unable to reproduce NC-123
 
 ### 1/15/25
 - Spent time looking into all of the current production bugs and adding information - 123, 124, and 125
