@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/21/25
+- NC-123 is ready for testing on GETS
+- Will start looking into NC-125
+
 ### 1/17/25
-- I'm starting to document my findings so far and hoping I can come up with a few more ideas
+- Finally figured out the root problem with NC-123 - turns out to be super simple and was a copy and pasting issue
 
 ### 1/16/25
 - Worked with Sean on getting QA-0 set up
