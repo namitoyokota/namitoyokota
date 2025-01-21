@@ -16,8 +16,8 @@
 
 | Categories        | Count                 | Reference                                                          |
 | ----------------- | --------------------- | ------------------------------------------------------------------ |
-| Stories Completed | 160                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
-| Bugs Fixed        | 142                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
+| Stories Completed | 177                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10318) |
+| Bugs Fixed        | 155                   | [Jira Board](https://venminder.atlassian.net/issues/?filter=10321) |
 | PRs Completed     | 525 (8th in Dev Team) | Custom Script                                                      |
 | PRs Reviewed      | 1,261                 | Custom Script                                                      |
 | Commits Made      | 6,189                 | Custom Script                                                      |
