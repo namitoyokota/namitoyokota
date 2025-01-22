@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 1/22/25
+- I know surface level why the user isn't able to deliver and it appears to be working as expected and not a bug
+- Doing more research today on why
+
 ### 1/21/25
-- NC-123 is ready for testing on GETS
-- Will start looking into NC-125
+- Mostly meetings in the morning
+- Tried to set up the PC as well and added information to the IT ticket as I found them
+- Started looking into the NC-125 bug
 
 ### 1/17/25
 - Finally figured out the root problem with NC-123 - turns out to be super simple and was a copy and pasting issue
