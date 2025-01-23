@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/23/25
+- Will be more investigation today just to understand the business logic around the area
+
 ### 1/22/25
-- I know surface level why the user isn't able to deliver and it appears to be working as expected and not a bug
-- Doing more research today on why
+- Investigated NC-125 more - all of the information is left on the ticket
+- Paused on NC-125 to look at NC-5 - essentially just playing around with the UI right now
 
 ### 1/21/25
 - Mostly meetings in the morning
