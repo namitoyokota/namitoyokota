@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/24/25
+- Will be likely more of that today
+
 ### 1/23/25
-- Will be more investigation today just to understand the business logic around the area
+- Spent time investigating NC-5
+- It's a lot of things going on and the code is pretty confusing to read
 
 ### 1/22/25
 - Investigated NC-125 more - all of the information is left on the ticket
