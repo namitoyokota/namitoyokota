@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/27/25
+- Will be going back to NC-5 today planning to actually start working
+
 ### 1/24/25
-- Will be likely more of that today
+- Spent most of the time investigating NC-5
+- Talked with Debra and Jess on NC-136
 
 ### 1/23/25
 - Spent time investigating NC-5
