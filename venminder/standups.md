@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 1/28/25
+- More NC-5 fun - will be here for at least a week
+
 ### 1/27/25
-- Will be going back to NC-5 today planning to actually start working
+- Mostly meetings but investigated more into NC-5 - deeply nested so trying to figure out what code I should touch and how other features are relying on that
+- Have a PR out for NC-120 to help Angel with PlayWright
 
 ### 1/24/25
 - Spent most of the time investigating NC-5
