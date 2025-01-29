@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/29/25
+- Updating the API to get the route currently
+- Having trouble testing that piece
+- After that, planning on updating the UI
+
 ### 1/28/25
-- More NC-5 fun - will be here for at least a week
+- Continued working on NC-5
 
 ### 1/27/25
 - Mostly meetings but investigated more into NC-5 - deeply nested so trying to figure out what code I should touch and how other features are relying on that
