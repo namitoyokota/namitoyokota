@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/30/25
+- Will continue on that today
+
 ### 1/29/25
-- Updating the API to get the route currently
-- Having trouble testing that piece
-- After that, planning on updating the UI
+- Continued working on NC-5
+- Fixed the authentication piece - was sending in the URL parameters wrong
+- Seeing circular reference issue 
 
 ### 1/28/25
 - Continued working on NC-5
