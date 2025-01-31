@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 1/31/25
+- Updating the workflows endpoint to return the offboarding request ID
+- Backend should be complete after that
+
 ### 1/30/25
-- Will continue on that today
+- Continued on NC-5
+- Have the API endpoint able to return a new URL
 
 ### 1/29/25
 - Continued working on NC-5
