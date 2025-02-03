@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/3/25
+- Will be working on updating the send qeustionnaire workflow to attach the step id
+
 ### 1/31/25
-- Updating the workflows endpoint to return the offboarding request ID
-- Backend should be complete after that
+- Continued on NC-5
+- Feels like I'm finally starting to make progress
 
 ### 1/30/25
 - Continued on NC-5
