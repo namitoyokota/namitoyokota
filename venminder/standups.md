@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/4/25
+- Will be doing research on a new endpoint today
+- Also have an annual doctors appointment at 10am central - shouldn't take longer than an hour
+
 ### 2/3/25
-- Will be working on updating the send qeustionnaire workflow to attach the step id
+- Continued on NC-5
+- Thought I was close to finishing, but the send questionnaire workflow apparently works differently for onboarding and offboarding
 
 ### 1/31/25
 - Continued on NC-5
