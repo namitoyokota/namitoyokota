@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/5/25
+- Hoping to finish NC-125 today
+
 ### 2/4/25
-- Will be doing research on a new endpoint today
-- Also have an annual doctors appointment at 10am central - shouldn't take longer than an hour
+- Continued on NC-5 - researching a new endpoint
+- Got urgency on NC-125 so switching gears again with Sean's help to get that done
 
 ### 2/3/25
 - Continued on NC-5
