@@ -10,6 +10,7 @@
 - Mostly meetings
 - Had an update to NC-5 - just have one big piece left (I think)
 - Worked on the NC-125 script
+- Talked with Caleb, he said all of my IT issues should be resolved
 
 ### 2/4/25
 - Continued on NC-5 - researching a new endpoint
