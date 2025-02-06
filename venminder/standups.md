@@ -2,8 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/6/25
+- Have the script ready, I think it's ready for PR but I have no idea how to write a Liquibase script so will need help
+- Will be back again on NC-5 and enjoy my life
+
 ### 2/5/25
-- Hoping to finish NC-125 today
+- Mostly meetings
+- Had an update to NC-5 - just have one big piece left (I think)
+- Worked on the NC-125 script
 
 ### 2/4/25
 - Continued on NC-5 - researching a new endpoint
