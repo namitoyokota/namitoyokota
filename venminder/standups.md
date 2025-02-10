@@ -2,12 +2,19 @@
 
 > December 5th, 2022 - Present
 
+### 2/10/25
+- Finally getting close
+- Working on regression testing to make sure I didn't break anything
+- Will finish up unit tests
+- Hoping to get a PR out by the end of day
+
 ### 2/7/25
 - PTO
 
 ### 2/6/25
-- Have the script ready, I think it's ready for PR but I have no idea how to write a Liquibase script so will need help
-- Will be back again on NC-5 and enjoy my life
+- Finished NC-125 with the help on Sean in the morning
+- Then continued working on NC-5
+- Pair programmed with Aaron which had some familiarity with questionnaires
 
 ### 2/5/25
 - Mostly meetings
