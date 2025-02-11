@@ -2,11 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/11/25
+- Have a PR out this morning - will be adding test plans to the card
+- Have to catch up on the town hall meeting and review grooming board
+- Will be going back to setting up the new computer if I have time
+
 ### 2/10/25
-- Finally getting close
-- Working on regression testing to make sure I didn't break anything
-- Will finish up unit tests
-- Hoping to get a PR out by the end of day
+- Worked on wrapping up NC-5
+- Got some minor bug fixes and unit tests fixed
 
 ### 2/7/25
 - PTO
