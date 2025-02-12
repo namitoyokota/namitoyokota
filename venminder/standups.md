@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/12/25
+- Hoping to demo the changes after this meeting
+- No meetings so hoping I can get the unit tests done
+
 ### 2/11/25
-- Have a PR out this morning - will be adding test plans to the card
-- Have to catch up on the town hall meeting and review grooming board
-- Will be going back to setting up the new computer if I have time
+- Created a PR for NC-5
+- Got a lot of good feedback - started looking into unit tests and it looks like it's going to take a bit
 
 ### 2/10/25
 - Worked on wrapping up NC-5
