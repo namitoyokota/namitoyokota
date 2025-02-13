@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/13/25
+- Hoping to spent time setting up the new computer
+- Then will likely pick up NC-145
+
 ### 2/12/25
-- Hoping to demo the changes after this meeting
-- No meetings so hoping I can get the unit tests done
+- Continued work on unit tests for NC-5
+- With help from Joelle and Sean, got that completed
+- PR just needs one more approval and it'll be ready for testing
 
 ### 2/11/25
 - Created a PR for NC-5
