@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 2/14/25
+- Will be out for most of day
+- NC-145 is ready for PR review
+- When I get back, planning to pick up NC-140 or NC-141 but will follow Jess' lead 
+
 ### 2/13/25
-- Hoping to spent time setting up the new computer
-- Then will likely pick up NC-145
+- Spent time setting up the new machine again - got blocked by NuGet packages not able to authenticate with my Ncontracts email
+- Had a very small UI improvement attached to NC-120
+- Started working on NC-145
 
 ### 2/12/25
 - Continued work on unit tests for NC-5
