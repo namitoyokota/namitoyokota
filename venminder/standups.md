@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/18/25
+- Will be looking into NC-177 with allowing colors in the rich text editor
+- Planning to pick up NC-140 afterwards
+
 ### 2/14/25
-- Will be out for most of day
-- NC-145 is ready for PR review
-- When I get back, planning to pick up NC-140 or NC-141 but will follow Jess' lead 
+- Continued working on NC-145 - PR is ready for review
+- Worked on NC-182 story I created for standardizing PR description - PR is ready for review on that as well
 
 ### 2/13/25
 - Spent time setting up the new machine again - got blocked by NuGet packages not able to authenticate with my Ncontracts email
