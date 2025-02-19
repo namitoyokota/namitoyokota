@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 2/19/25
+- Investigating the unit tests failing from NC-5
+- Also need to review the grooming board before the meeting
+- Will start on NC-140 today
+
 ### 2/18/25
-- Will be looking into NC-177 with allowing colors in the rich text editor
-- Planning to pick up NC-140 afterwards
+- Put my thoughts into NC-177 - waiting on what you want to do with that Jess
+- Worked on NC-142 - PR completed and is ready for testing by a dev
+- Started looking into NC-140 and updating the AC
 
 ### 2/14/25
 - Continued working on NC-145 - PR is ready for review
