@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/20/25
+- Need to spent time talking to IT this morning about the new machine
+- Will start implementing NC-140
+
 ### 2/19/25
-- Investigating the unit tests failing from NC-5
-- Also need to review the grooming board before the meeting
-- Will start on NC-140 today
+- Fixed the NC-5 unit test
+- Spent time with gets error on assessment approval
+- Started looking into NC-186 - which is essentially a missed requirements from NC-145
 
 ### 2/18/25
 - Put my thoughts into NC-177 - waiting on what you want to do with that Jess
