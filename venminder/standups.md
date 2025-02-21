@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/21/25
+- Will be off early to play in a pickleball tournament
+- Continuing with NC-140 - need to implement the export feature - goal is to have a PR out monday
+
 ### 2/20/25
-- Need to spent time talking to IT this morning about the new machine
-- Will start implementing NC-140
+- Started working on NC-140 - bulk of the work is complete
 
 ### 2/19/25
 - Fixed the NC-5 unit test
