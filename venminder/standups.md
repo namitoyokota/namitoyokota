@@ -2,9 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 2/24/25
+- Will be more NC-140 today - focusing on exports
+- Joelle we might start to step on each others toes soon with NC-176
+
 ### 2/21/25
-- Will be off early to play in a pickleball tournament
-- Continuing with NC-140 - need to implement the export feature - goal is to have a PR out monday
+- Continued working on NC-140 - got the merge engine and data library working
 
 ### 2/20/25
 - Started working on NC-140 - bulk of the work is complete
