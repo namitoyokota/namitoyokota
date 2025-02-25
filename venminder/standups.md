@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/25/25
+- Working on the Word exports
+- Have unit tests to fix and add
+- Hoping to have a PR out by the end of day
+
 ### 2/24/25
-- Will be more NC-140 today - focusing on exports
-- Joelle we might start to step on each others toes soon with NC-176
+- Continued on NC-140 - finished exports with Excel
 
 ### 2/21/25
 - Continued working on NC-140 - got the merge engine and data library working
