@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 2/26/25
+- Will have a PR for NC-140 shortly
+- Will be focusing on comments today
+- Need to talk with Caleb on an IT question at some point
+
 ### 2/25/25
-- Working on the Word exports
-- Have unit tests to fix and add
-- Hoping to have a PR out by the end of day
+- Finished the last bit of NC-140 with Word exports
+- Fixed 2 unit tests in the dev branch - NC-190 so make sure you merge latest 
 
 ### 2/24/25
 - Continued on NC-140 - finished exports with Excel
