@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 2/27/25
+- Caleb is meeting with me whenever he is free
+- Please review the NC-140 PR - longer we wait, more merge conflicts we'll have
+
 ### 2/26/25
-- Will have a PR for NC-140 shortly
-- Will be focusing on comments today
-- Need to talk with Caleb on an IT question at some point
+- Created a PR for NC-140
+- Focused on very fun activity called setting up my machine
 
 ### 2/25/25
 - Finished the last bit of NC-140 with Word exports
