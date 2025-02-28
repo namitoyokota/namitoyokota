@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 2/28/25
+- Planning to take advantage of PDT today
+  - A deep dive on JSON Web Tokens
+  - A script to measure contribution statistics from Azure DevOps, Jira, and maybe Confluence
+
 ### 2/27/25
-- Caleb is meeting with me whenever he is free
-- Please review the NC-140 PR - longer we wait, more merge conflicts we'll have
+- Worked on the PC set up and sent information to Caleb
+- He was supposed to meet with me and read my message bud didn't respond
+- So I'm planning on giving up on the new computer until they force me
+- NC-140 is still in need of PR reviews
 
 ### 2/26/25
 - Created a PR for NC-140
