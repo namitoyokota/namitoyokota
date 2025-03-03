@@ -2,6 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 3/3/25
+- Going through comments from Sean on NC-140
+- Hoping to get more reviews on that
+- Pick up something new
+
 ### 2/28/25
 - Planning to take advantage of PDT today
   - A deep dive on JSON Web Tokens
