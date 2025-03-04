@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/4/25
+- Meeting with Hunter on defining a React template he's planning to work on
+- Will likely be geting with you Jess on my next story
+- Let me know if you need help on NC-120 Angel with the PR reviews
+
 ### 3/3/25
-- Going through comments from Sean on NC-140
-- Hoping to get more reviews on that
-- Pick up something new
+- Worked on NC-140 PR reviews - thanks for all of the contributions
 
 ### 2/28/25
 - Planning to take advantage of PDT today
