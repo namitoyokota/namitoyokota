@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/5/25
+- Will have a demo on my findings
+- Hoping to start implementation today
+
 ### 3/4/25
-- Meeting with Hunter on defining a React template he's planning to work on
-- Will likely be geting with you Jess on my next story
-- Let me know if you need help on NC-120 Angel with the PR reviews
+- Spent time discussing a React template with Hunter - he got the go ahead from Greg
+- Started working on NC-179 research
 
 ### 3/3/25
 - Worked on NC-140 PR reviews - thanks for all of the contributions
