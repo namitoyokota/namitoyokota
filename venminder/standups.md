@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/6/25
+- Will be trying out some suggestions from IT today
+- Can go back to NC-197 whenever I have Dynamo acccess to QA
+
 ### 3/5/25
-- Will have a demo on my findings
-- Hoping to start implementation today
+- Pivotted direction on NC-179 to implementing log management in the backend
+- Had to switch gears to NC-197 to investigate a production data bug
+- Also worked with IT on the new computer issues
 
 ### 3/4/25
 - Spent time discussing a React template with Hunter - he got the go ahead from Greg
