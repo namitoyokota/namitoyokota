@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 3/7/25
+- NC-140 bug turned out to be an existing bug so created a separate bug ticket for that - is now ready for testing
+- Requested QA table access to IT to continue on NC-179, otherwise I'm blocked
+
 ### 3/6/25
-- Will be trying out some suggestions from IT today
-- Can go back to NC-197 whenever I have Dynamo acccess to QA
+- Got help from IT throughout the day
+- The answer is something is messed up on my computer
+- They are trying to reset the whole machine but that's not working either so far
+- Worked on NC-179 some and NC-140 bug that Debra found
 
 ### 3/5/25
 - Pivotted direction on NC-179 to implementing log management in the backend
