@@ -2,9 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 3/10/25
+- Investigating an issue with the standard section that Angel found
+- Likely not caused by NC-140
+- Will start dev testing NC-141 afterwards
+
 ### 3/7/25
-- NC-140 bug turned out to be an existing bug so created a separate bug ticket for that - is now ready for testing
-- Requested QA table access to IT to continue on NC-179, otherwise I'm blocked
+- Created a bug ticket for formatting of the CUEC/CUER exports in Excel - NC-201
+- Fixed the issue Angel found with nc-186 where FHAs cannot be started
+- Played a board game for team building
+- Had an hour before leaving to fixed NC-102 - ready for PR review
 
 ### 3/6/25
 - Got help from IT throughout the day
