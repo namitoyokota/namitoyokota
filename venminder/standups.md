@@ -2,10 +2,16 @@
 
 > December 5th, 2022 - Present
 
+#### 3/11/25
+- Found the bad data in data library - would like to demo
+- Hoping to finish NC-197 and go back to NC-179
+- Will also make sure to review Joelle's NC-176 PR
+
 ### 3/10/25
-- Investigating an issue with the standard section that Angel found
-- Likely not caused by NC-140
-- Will start dev testing NC-141 afterwards
+- Dev tested NC-141 - found out that data library doesn't work, still releasable since it's not a bug, just a missed requirement
+- Went back to NC-179 - got to a good stopping point, just need to test it
+- Had to switch gears to NC-197 - production bug
+- Turns out that data library has 1.5 million records 
 
 ### 3/7/25
 - Created a bug ticket for formatting of the CUEC/CUER exports in Excel - NC-201
