@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
-#### 3/11/25
-- Found the bad data in data library - would like to demo
-- Hoping to finish NC-197 and go back to NC-179
-- Will also make sure to review Joelle's NC-176 PR
+### 3/12/25
+- PR for NC-179 is ready for reviews
+- Will be adding root cause analysis and test plans to NC-197 and NC-179
+- Will pick up NC-141 to implement the data library changes
+
+### 3/11/25
+- Fixed the NC-197 bug
+- Continued working on NC-179
 
 ### 3/10/25
 - Dev tested NC-141 - found out that data library doesn't work, still releasable since it's not a bug, just a missed requirement
