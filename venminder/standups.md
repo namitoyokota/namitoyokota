@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/13/25
+- Had to help with MEDIC-6424 on which URLs to whitelist for a client in order to view in-app assessments
+- Starting on NC-205 today
+
 ### 3/12/25
-- PR for NC-179 is ready for reviews
-- Will be adding root cause analysis and test plans to NC-197 and NC-179
-- Will pick up NC-141 to implement the data library changes
+- Got NC-179 ready for code reviews
+- Spent more time investigating NC-197
+- Started looking into the NC-141 issue at the end of day - turns out it was functioning correctly, I was testing wrong
 
 ### 3/11/25
 - Fixed the NC-197 bug
