@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/14/25
+- Had to rewrite the entire story with more information Jess got for me
+- Hoping tO start looking into the data and the codeflow
+
 ### 3/13/25
-- Had to help with MEDIC-6424 on which URLs to whitelist for a client in order to view in-app assessments
-- Starting on NC-205 today
+- Mostly was in meetings all day
+- Got to look at NC-205 some
 
 ### 3/12/25
 - Got NC-179 ready for code reviews
