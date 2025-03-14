@@ -4,7 +4,7 @@
 
 ### 3/14/25
 - Had to rewrite the entire story with more information Jess got for me
-- Hoping tO start looking into the data and the codeflow
+- Hoping to start looking into the data and the codeflow
 
 ### 3/13/25
 - Mostly was in meetings all day
