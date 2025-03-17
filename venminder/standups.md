@@ -2,9 +2,11 @@
 
 > December 5th, 2022 - Present
 
+### 3/17/25
+- Will be debugging to see where the root cause is
+
 ### 3/14/25
-- Had to rewrite the entire story with more information Jess got for me
-- Hoping to start looking into the data and the codeflow
+- Continued working on NC-205
 
 ### 3/13/25
 - Mostly was in meetings all day
