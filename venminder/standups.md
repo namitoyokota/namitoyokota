@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/18/25
+- Not sure what that means, so will be more investigation today
+
 ### 3/17/25
-- Will be debugging to see where the root cause is
+- Continued working on NC-205
+- Went ahead and added the ability to re-trigger if no questionnaire is found
+- Found out that the reason no questionnaire is found is because the product risk doesn't match
 
 ### 3/14/25
 - Continued working on NC-205
