@@ -2,8 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 3/19/25
+- Found the issue, think I have the fix as well
+- Will be testing and documenting today, hoping to get a PR out
+
 ### 3/18/25
-- Not sure what that means, so will be more investigation today
+- Continued working on NC-205
 
 ### 3/17/25
 - Continued working on NC-205
