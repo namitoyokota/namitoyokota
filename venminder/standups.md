@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/20/25
+- Hoping to hear back from Caleb but until then, will pick up small stories
+- Plan to work on the test id issues Angel has been finding
+
 ### 3/19/25
-- Found the issue, think I have the fix as well
-- Will be testing and documenting today, hoping to get a PR out
+- Got the NC-205 created and completed - it is ready for dev testing
+- Started setting up the new new computer, ran into the same issues
 
 ### 3/18/25
 - Continued working on NC-205
