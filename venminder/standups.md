@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/21/25
+- Pausing on NC-208 to focus on learning today
+- Doing a backend developer roadmap and React if I have time towards the end of day
+
 ### 3/20/25
-- Hoping to hear back from Caleb but until then, will pick up small stories
-- Plan to work on the test id issues Angel has been finding
+- Investigated NC-211 - found out that the DOM actually had the correct attributes so the issue is with PlayWright
+- Picked up NC-208 - Have a prototype working already for removing the index out of feature flag toggles
 
 ### 3/19/25
 - Got the NC-205 created and completed - it is ready for dev testing
