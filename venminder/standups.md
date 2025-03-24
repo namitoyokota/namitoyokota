@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 3/24/25
+- Reviewed PRs this morning - should be done with that for now
+- Will focus back on NC-208 and fixing all of the test ids in the frontend
+
 ### 3/21/25
-- Pausing on NC-208 to focus on learning today
-- Doing a backend developer roadmap and React if I have time towards the end of day
+- Focued on PDT friday
+- Morning was spent on the developer roadmap for backend
+- THen started looking into react and researchin the tech stack for the react template
 
 ### 3/20/25
 - Investigated NC-211 - found out that the DOM actually had the correct attributes so the issue is with PlayWright
