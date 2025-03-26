@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/26/25
+- Finding typos with NC-208 so will spend more time testing but should have a PR out before lunch
+- Pick up something new
+
 ### 3/25/25
-- Hoping to have a PR for NC-189 soon
-- Will go back to NC-208
-- Also need to take lunch at 11:30 to the social security office
+- Completed NC-189 - ready for testing on GETS
+- Went back to NC-208 - have all of the code changes ready
 
 ### 3/24/25
 - Worked on NC-208 some in the morning
