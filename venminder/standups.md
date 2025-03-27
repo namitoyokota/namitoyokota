@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/27/25
+- I have the template copied to my local branch
+- So will be playing around today and setting a precise goal for this story
+
 ### 3/26/25
-- Finding typos with NC-208 so will spend more time testing but should have a PR out before lunch
-- Pick up something new
+- Finished NC-208 - PR is ready for review
+- Started looking into NC-187 - spending a lot of time learning about React
 
 ### 3/25/25
 - Completed NC-189 - ready for testing on GETS
