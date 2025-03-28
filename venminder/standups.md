@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/28/25
+- Working on app settings
+- Can show you guys the progress so far
+
 ### 3/27/25
-- I have the template copied to my local branch
-- So will be playing around today and setting a precise goal for this story
+- Continued working on NC-187
+- Was able to get authentication working with the auth server and making an API call to CA
 
 ### 3/26/25
 - Finished NC-208 - PR is ready for review
