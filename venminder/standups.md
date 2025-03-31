@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 3/31/25
+- Learning React QUery today and implementing that
+
 ### 3/28/25
-- Working on app settings
-- Can show you guys the progress so far
+- COntinued working on NC-187
+- Got environment variables working
+- Mostly meetings
 
 ### 3/27/25
 - Continued working on NC-187
