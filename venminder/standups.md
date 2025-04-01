@@ -2,11 +2,16 @@
 
 > December 5th, 2022 - Present
 
+### 4/1/25
+- Was hoping to demo but something isn't working so will be prepared for tomorrow
+- Hoping to add finishing touches and focus on documentation afterwards
+
 ### 3/31/25
-- Learning React QUery today and implementing that
+- Continued working on NC-187
+- Got most of React Query working today
 
 ### 3/28/25
-- COntinued working on NC-187
+- Continued working on NC-187
 - Got environment variables working
 - Mostly meetings
 
