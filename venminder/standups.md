@@ -2,9 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 3/2/25
+- Jumping back on NC-187
+- Still need to resolve the React Query caching issue
+- Hoping to wrap up the code today
+
 ### 4/1/25
-- Was hoping to demo but something isn't working so will be prepared for tomorrow
-- Hoping to add finishing touches and focus on documentation afterwards
+- Spent a few hours on NC-187
+- Worked on the theme changes NC-229 and NC-230
+- Reviewed Nstyles pull requests from Hunter
 
 ### 3/31/25
 - Continued working on NC-187
