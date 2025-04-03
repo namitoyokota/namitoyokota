@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/3/25
+- Focusing on documentation and code hardening today to prep for a discussion tomorrow
+- Pressing the button tonight
+
 ### 4/2/25
-- Jumping back on NC-187
-- Still need to resolve the React Query caching issue
-- Hoping to wrap up the code today
+- Continued working on NC-187
+- Found the React Query issue finally
+- Added a global state manager
 
 ### 4/1/25
 - Spent a few hours on NC-187
