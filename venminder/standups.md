@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/4/25
+- Preparing for the meeting this morning
+- Likely will have a few changes to make
+
 ### 4/3/25
-- Focusing on documentation and code hardening today to prep for a discussion tomorrow
-- Pressing the button tonight
+- Wrote documentation for NC-187 on all that I learned
+- Released to prod last night went well
 
 ### 4/2/25
 - Continued working on NC-187
