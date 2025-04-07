@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/7/25
+- Preparing for the demo
+- Hoping to get a PR out and reviewed
+
 ### 4/4/25
-- Preparing for the meeting this morning
-- Likely will have a few changes to make
+- Continued working on NC-187
+- Added font awesome and added form validation using React Form Hooks and Zod
 
 ### 4/3/25
 - Wrote documentation for NC-187 on all that I learned
