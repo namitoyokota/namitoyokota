@@ -2,9 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/8/25
+- Have a PR out this morning
+- Focusing on merging that PR and creating future stories for this project
+- Stretch goal is to go back to NC-208 to fix PlayWright tests
+
 ### 4/7/25
-- Preparing for the demo
-- Hoping to get a PR out and reviewed
+- Presented NC-187 to the team and got more insight on state management libraries from the Frontend channel
 
 ### 4/4/25
 - Continued working on NC-187
