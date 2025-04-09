@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 4/9/25
+- NC-187 needs one more approval
+- Hoping to finish NC-208 today
+- Will review NC-198 progress as well
+
 ### 4/8/25
-- Have a PR out this morning
-- Focusing on merging that PR and creating future stories for this project
-- Stretch goal is to go back to NC-208 to fix PlayWright tests
+- Got the NC-187 PR out
+- Created a new sprint for holding future React stories
+- Spent time fixing the PlayWright tests to use the new test ids from NC-208
 
 ### 4/7/25
 - Presented NC-187 to the team and got more insight on state management libraries from the Frontend channel
