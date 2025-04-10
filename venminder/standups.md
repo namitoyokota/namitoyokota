@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/10/25
+- PR is out for NC-208
+- Going back to NC-187 for suggestions from Hunter
+- Will pick up NC-234 afterwards
+
 ### 4/9/25
-- NC-187 needs one more approval
-- Hoping to finish NC-208 today
-- Will review NC-198 progress as well
+- Worked on PR comments for NC-187
+- Focused on fixing PlayWright for NC-208
 
 ### 4/8/25
 - Got the NC-187 PR out
