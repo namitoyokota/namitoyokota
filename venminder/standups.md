@@ -2,10 +2,12 @@
 
 > December 5th, 2022 - Present
 
+### 4/11/25
+- Planning to focus on learning more React technologies and best practices
+
 ### 4/10/25
-- PR is out for NC-208
-- Going back to NC-187 for suggestions from Hunter
-- Will pick up NC-234 afterwards
+- Completed PRs for NC-187 and NC-208
+- Investigated NC-234 afterwards and it turned out to be a bug in the code so that fix is in GETS now
 
 ### 4/9/25
 - Worked on PR comments for NC-187
