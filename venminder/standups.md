@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/14/25
+- Have a small PR for improvements from best practices I learned
+- Picked up NC-247 this morning and will focus on that
+- Have to step out a few times today with a haircut and dentist appointments
+
 ### 4/11/25
-- Planning to focus on learning more React technologies and best practices
+- Spent the entire day learning about React and using to Roadmap.sh website
 
 ### 4/10/25
 - Completed PRs for NC-187 and NC-208
