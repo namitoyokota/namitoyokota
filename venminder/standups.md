@@ -2,10 +2,18 @@
 
 > December 5th, 2022 - Present
 
+### 4/16/25
+- Catching up on messages and emails
+- Need to record my findings on NC-247 - spoiler is we shouldn't do anything about it
+- Look at pull requests
+
+### 4/15/25
+- PTO
+
 ### 4/14/25
-- Have a small PR for improvements from best practices I learned
-- Picked up NC-247 this morning and will focus on that
-- Have to step out a few times today with a haircut and dentist appointments
+- Created a PR for improving the React project with React Query calls
+- Investigated NC-247
+- Mostly meetings
 
 ### 4/11/25
 - Spent the entire day learning about React and using to Roadmap.sh website
