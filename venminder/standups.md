@@ -2,10 +2,15 @@
 
 > December 5th, 2022 - Present
 
+### 4/17/25
+- Looking at that this morning, getting an error loading the order
+- There is no order or assessment - mearning DCDev or CA tables have been refreshed
+- More on that today
+
 ### 4/16/25
-- Catching up on messages and emails
-- Need to record my findings on NC-247 - spoiler is we shouldn't do anything about it
-- Look at pull requests
+- Left my findings for NC-247 - need help from Charity and Sean on the next steps
+- Spent time reviewing pull requests
+- Picked up NC-228 at the end of day
 
 ### 4/15/25
 - PTO
