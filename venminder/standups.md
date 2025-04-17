@@ -9,7 +9,7 @@
 
 ### 4/16/25
 - Left my findings for NC-247 - need help from Charity and Sean on the next steps
-- Spent time reviewing pull requests
+- Spent time reviewing pull requests and cleaning up the backlog with duplicate or unrelavent items
 - Picked up NC-228 at the end of day
 
 ### 4/15/25
