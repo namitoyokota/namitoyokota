@@ -2,10 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/18/25
+- Going back to NC-228 since the refresh is done
+
 ### 4/17/25
-- Looking at that this morning, getting an error loading the order
-- There is no order or assessment - mearning DCDev or CA tables have been refreshed
-- More on that today
+- Started loking at NC-228 but had to request and wait on QA refresh
+- Discussed PlayWright with Angel and have a PR out for improvements this morning
+- Dev tested NC-232 and completed the release last night
 
 ### 4/16/25
 - Left my findings for NC-247 - need help from Charity and Sean on the next steps
