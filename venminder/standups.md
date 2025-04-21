@@ -2,8 +2,13 @@
 
 > December 5th, 2022 - Present
 
+### 4/21/25
+- More NC-228 today
+- I reviewed all the existing code reviews, let me know if I missed any
+
 ### 4/18/25
-- Going back to NC-228 since the refresh is done
+- Made improvements to the PlayWright tests - PR is completed
+- Investigated NC-228 some
 
 ### 4/17/25
 - Started loking at NC-228 but had to request and wait on QA refresh
