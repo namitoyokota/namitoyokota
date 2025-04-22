@@ -2,9 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/22/25
+- Testing on GETS now - please make sure to not push any changes to GETS (complete any PRs) since it's important that I test with consecutive releases
+- Have a small change for NC-228
+- Will focus on code reviews and dev testing afterwards
+
 ### 4/21/25
-- More NC-228 today
-- I reviewed all the existing code reviews, let me know if I missed any
+- Investigated NC-228 and made code changes
+- Started looking into NC-96
 
 ### 4/18/25
 - Made improvements to the PlayWright tests - PR is completed
