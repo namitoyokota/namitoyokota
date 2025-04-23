@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/23/25
+- Wrote tickets that we discussed in retro meeting
+- Planning on testing NC-96 more with making a big change with the frontend to see what happens then
+- Will pick up NC-236 afterwards
+
 ### 4/22/25
-- Testing on GETS now - please make sure to not push any changes to GETS (complete any PRs) since it's important that I test with consecutive releases
-- Have a small change for NC-228
-- Will focus on code reviews and dev testing afterwards
+- Worked on NC-96 most of the day - frontend deployments have been successful since
+- Looked at code review and dev testing
 
 ### 4/21/25
 - Investigated NC-228 and made code changes
