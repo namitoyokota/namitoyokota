@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/24/25
+- Starting on NC-231 this morning
+- In the process of getting all of the URLs and creating a static webpage
+- Need to research the best way to ping a URL with a success or error status
+
 ### 4/23/25
-- Wrote tickets that we discussed in retro meeting
-- Planning on testing NC-96 more with making a big change with the frontend to see what happens then
-- Will pick up NC-236 afterwards
+- Tested NC-96 most of the day and made a small tweak
+- Looking good now, will keep an eye as we go forward
 
 ### 4/22/25
 - Worked on NC-96 most of the day - frontend deployments have been successful since
