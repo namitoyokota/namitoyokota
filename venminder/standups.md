@@ -2,10 +2,14 @@
 
 > December 5th, 2022 - Present
 
+### 4/25/25
+- Taking a pause to focus on learning and innovation
+- Planning to look at Hugging Face AI agents and Redis
+
 ### 4/24/25
-- Starting on NC-231 this morning
-- In the process of getting all of the URLs and creating a static webpage
-- Need to research the best way to ping a URL with a success or error status
+- Started looking into NC-231
+- Got the static site running locally with no dependencies
+- Able to provide a status for which URLs are accessible
 
 ### 4/23/25
 - Tested NC-96 most of the day and made a small tweak
