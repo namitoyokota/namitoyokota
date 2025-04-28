@@ -2,9 +2,17 @@
 
 > December 5th, 2022 - Present
 
+### 4/28/25
+- Picking NC-231 back up
+- Found ways to test so will be doing that
+- Have about 5 of them failing at the moment to need to investigate
+- Hoping to have something to show tomorrow
+
 ### 4/25/25
-- Taking a pause to focus on learning and innovation
-- Planning to look at Hugging Face AI agents and Redis
+- Focused on learning and innovation
+- Got side tracked a lot with good articles I've been saving
+- Also found a prompt engineering guide that was posted on Teams
+- Started looking into Redis as well
 
 ### 4/24/25
 - Started looking into NC-231
